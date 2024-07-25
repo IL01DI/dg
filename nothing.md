@@ -44,5 +44,5 @@ aliases:
 > - When there is a thing, there is also a nothing. Not because a thing is, and nothing is not; but because the thing is the one, and nothing is the other.
 > - For example: if there is a fire, there is also a non-fire; the one I see is a fire, but what I see that fire outside is the non-fire, like me, like you.
 
-[1]: This idea is problematic for the above results.
-[2]: Since Parmenides stated that false is not and cannot be conceived, all statements will always be true, and there is, as such, no opinion at all, even himself had spoken about its ridiculous existence for the mankind.
+[^1]: This idea is problematic for the above results.
+[^2]: Since Parmenides stated that false is not and cannot be conceived, all statements will always be true, and there is, as such, no opinion at all, even himself had spoken about its ridiculous existence for the mankind.

@@ -17,10 +17,6 @@ This guide will reduce your number of accounts you have and also use alternative
 > - macOS^[5]
 > - iOS^[5]
 
-[^1]: Using Chrome OS as your main PC requires you to have a Google Account.
-[^4]: Not worth having Microsoft account when Google is your choice.
-[^5]: Unless you are looking into a full Apple Ecosystem.
-
 # 2. Email provider & Cloud storage
 
 > [!check] Recommended
@@ -32,8 +28,6 @@ This guide will reduce your number of accounts you have and also use alternative
 >[!warning] Not recommended
 > - iCloud^[6]
 > - Others
-
-[^6]: Requires you to have additional non-providing iCloud email.
 
 # 3. Web browser
 
@@ -127,3 +121,9 @@ This guide will reduce your number of accounts you have and also use alternative
 > - Others
 
 # 11. 
+
+[^1]: Using Chrome OS as your main PC requires you to have a Google Account.
+[^4]: Not worth having Microsoft account when Google is your choice.
+[^5]: Unless you are looking into a full Apple Ecosystem.
+[^6]: Requires you to have additional non-providing iCloud email.
+
