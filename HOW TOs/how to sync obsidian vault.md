@@ -37,21 +37,21 @@ tags:
 > - To setup, it is recommended using Windows.
 
 # Windows
-## 1.1. Current vault
-If you currently have a vault, you can import it to the git folder. To do so:
+
 1. Open your web browser and go to your repo, or create a new one if you haven't.
 2. Click the green button "Code" and open Github Desktop.
-3. Choose the desired location (not the vault's location).
-4. Now, move your vault folder to the git folder you have created.
-5. Open Obsidian to check if your files are OK.
+
+## 1.1. Current vault
+If you currently have a vault, you can import it to the git folder. To do so:
+1. Choose the desired location (not the vault's location).
+2. Now, move your vault folder to the git folder you have created.
+3. Open Obsidian to check if your files are OK.
 
 ## 1.2. New vault
 If you don't ahve any vaults, you need one. To do so:
-1. Open your web browser and go to your repo, or create a new one if you haven't.
-2. Click the green button "Code" and open Github Desktop.
-3. Choose the desired location.
-4. Open Obsidian and create a new vault from the chosen location.
-5. Configure your settings and install the plugins you want.
+1. Choose the desired location.
+2. Open Obsidian and create a new vault from the chosen location.
+3. Configure your settings and install the plugins you want.
 
 ## 2. Opt-out file sync 
 > [!hint] Recommended
@@ -74,11 +74,12 @@ If you don't ahve any vaults, you need one. To do so:
 
 # iOS
 
-1. Open Obsidian and open the new vault.
-2. Go to the Git Settings and fill the `Username Git` and `PAT`.
-3. Then, use Command Palette and search `Clone a remote repository`.
-4. Enter the URL of your repo. The format must be the same as the following example: `https:github.com/username/repo.git`
-5. Select your choice:
+1. The repo must be public in order to work.
+2. Open Obsidian and open the new vault.
+3. Go to the Git Settings and fill the `Username Git` and `PAT`.
+4. Then, use Command Palette and search `Clone a remote repository`.
+5. Enter the URL of your repo. The format must be the same as the following example: `https:github.com/username/repo.git`
+6. Select your choice:
   - If you don't have the `.obsidian` folder on Git, enter `NO`.
   - If you do have the `.obsidian` folder on Git:
     - And you want to also sync with the Desktop config, enter `YES`.

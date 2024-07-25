@@ -52,7 +52,7 @@ Definición: Esencia
 >
 >\- Aristóteles
 >>[!note]- Nota
->>- Ser como concepto analógico
+>>- Ser como concepto análogo
 >>	- El ser es una palabra polisémica y categóricamente variable.
 >>	- Todo es atribuible, pero de diferentes formas
 >>1. Categorías del ser

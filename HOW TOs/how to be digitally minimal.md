@@ -17,9 +17,9 @@ This guide will reduce your number of accounts you have and also use alternative
 > - macOS^[5]
 > - iOS^[5]
 
-^[1]: Using ChromeOS as your main PC requires you to have a Google Account.
-^[4]: Not worth having Microsoft account when Google is your choice.
-^[5]: Unless you are looking into a full Apple Ecosystem.
+[1]: Using ChromeOS as your main PC requires you to have a Google Account.
+[4]: Not worth having Microsoft account when Google is your choice.
+[5]: Unless you are looking into a full Apple Ecosystem.
 
 # 2. Email provider & Cloud storage
 
@@ -33,7 +33,7 @@ This guide will reduce your number of accounts you have and also use alternative
 > - iCloud^[6]
 > - Others
 
-^[6]: Requires you to have additional non-providing iCloud email.
+[6]: Requires you to have additional non-providing iCloud email.
 
 # 3. Web browser
 
@@ -93,7 +93,6 @@ This guide will reduce your number of accounts you have and also use alternative
 >   - Database
 >   - Document
 > - Anytype
-> - Keychain (macOS, iPadOS, iOS)
 
 # 8. Writting App
 
