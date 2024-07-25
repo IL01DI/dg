@@ -14,11 +14,11 @@ tags:
 
 > [!attention] Requisites
 > Services you need to register:
-> - Github
+> - [GitHub](https://github.com)
 >
 > On Windows, make sure to have installed:
 > - [Obsidian](https://obsidian.md/download)
-> - [Github Desktop](https://github.com/apps/desktop)
+> - [GitHub Desktop](https://github.com/apps/desktop)
 >
 > On Linux, instead of using [Obsidian](https://obsidian.md/download), just use:
 > - [VSCodium](https://vscodium.com/) or [VSCode](https://code.visualstudio.com/)
@@ -28,18 +28,18 @@ tags:
 > - [Git](https://obsidian.md/plugins?id=obsidian-git)
 
 > [!hint] Advice
-> There are many ways to sync, but here you can follow the one I provide, so it may work for you.
-> Even if there are untested devices, you can also proceed the steps similarly, unless you don't know what you are doing.
-> I assume you that you don't have vaults neither on Linux and iOS, only Windows.
+> There are many ways to sync, but you can follow here the one I provide, so it may work for you.
+> Even if there are untested devices, you can also proceed these steps similarly, unless you don't know what you are doing.
+> I assume you that you don't have vaults neither on Linux nor on iOS, only Windows.
 >
 > Tips:
 > - Avoid creating your vault in iOS first.
-> - To setup, it is recommended using Windows.
+> - To set up, it is recommended using Windows.
 
 # Windows
 
 1. Open your web browser and go to your repo, or create a new one if you haven't.
-2. Click the green button "Code" and open Github Desktop.
+2. Click the green button "Code" and open GitHub Desktop.
 
 ## 1.1. Current vault
 If you currently have a vault, you can import it to the git folder. To do so:
@@ -48,29 +48,29 @@ If you currently have a vault, you can import it to the git folder. To do so:
 3. Open Obsidian to check if your files are OK.
 
 ## 1.2. New vault
-If you don't ahve any vaults, you need one. To do so:
+If you don't have any vaults, you need one. To do so:
 1. Choose the desired location.
 2. Open Obsidian and create a new vault from the chosen location.
 3. Configure your settings and install the plugins you want.
 
 ## 2. Opt-out file sync 
 > [!hint] Recommended
-> It is adviced to not sync plugins in Github as it will expose your PAT to the public, which will be used on iOS.
+> It is advised to not sync plugins in GitHub as it will expose your PAT to the public, which will be used on iOS.
 
 1. If you don't want to sync the settings or plugins between devices, create a new file named `.gitignore` using File Explorer.
 2. Open the created file using Notepad or any text editor and add the first line as `.obsidian/plugins` if you don't want to sync plugins; otherwise you may prefer it as `.obsidian`,so it will only sync your Markdown files of your vault.
 
-## 3. Upload files to Github
+## 3. Upload files to GitHub
 
-1. In your Github Desktop, you should see the changes. If so, name the message in the source control and commit it.
+1. In your GitHub Desktop, you should see the changes. If so, name the message in the source control and commit it.
 2. Congrats! Now, whether the order, it is up to you if it will be Linux or iOS.
 
 # Linux
 
 1. Open VSCodium and go to Source Control.
 2. Clone the repo you have created.
-3. Optionally, install Obsidian (if you don't like writting on VSCodium).
-4. Every change on the files will appear in VSCodium, and so it is used for sending and receiving to Github repo.
+3. Optionally, install Obsidian (if you don't like writing on VSCodium).
+4. Every change on the files will appear in VSCodium, and so it is used for sending and receiving to GitHub repo.
 
 # iOS
 

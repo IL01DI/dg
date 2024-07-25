@@ -17,9 +17,9 @@ This guide will reduce your number of accounts you have and also use alternative
 > - macOS^[5]
 > - iOS^[5]
 
-[1]: Using ChromeOS as your main PC requires you to have a Google Account.
-[4]: Not worth having Microsoft account when Google is your choice.
-[5]: Unless you are looking into a full Apple Ecosystem.
+[^1]: Using Chrome OS as your main PC requires you to have a Google Account.
+[^4]: Not worth having Microsoft account when Google is your choice.
+[^5]: Unless you are looking into a full Apple Ecosystem.
 
 # 2. Email provider & Cloud storage
 
@@ -33,19 +33,19 @@ This guide will reduce your number of accounts you have and also use alternative
 > - iCloud^[6]
 > - Others
 
-[6]: Requires you to have additional non-providing iCloud email.
+[^6]: Requires you to have additional non-providing iCloud email.
 
 # 3. Web browser
 
 > [!check] Recommended
 > - Microsoft Edge (Windows)
-> - Chrome (ChromeOS)
+> - Chrome (Chrome OS)
 > - Safari (macOS, iPadOS, iOS)
 
 >[!warning] Not recommended
 > - Chrome (Windows, macOS, iPadOS, iOS)
 > - Microsoft Edge (macOS, iPadOS, iOS)
-> - Others (Windows, ChromeOS, macOS, iPadOS, iOS)
+> - Others (Windows, Chrome OS, macOS, iPadOS, iOS)
 
 # 4. Email client
 
@@ -75,7 +75,7 @@ This guide will reduce your number of accounts you have and also use alternative
 # 6. Password Manager & Authenticator
 
 > [!check] Recommended
-> - Keepass (Windows), KeepassXC (Linux), Strongbox (iOS)
+> - KeePass (Windows), KeePassXC (Linux), Strongbox (iOS)
 > - Proton Pass
 > - Keychain (macOS, iPadOS, iOS)
 
@@ -87,14 +87,14 @@ This guide will reduce your number of accounts you have and also use alternative
 
 > [!check] Recommended
 > - Notion:
->   - Writting App
+>   - Writing App
 >   - Calendar
 >   - To-do list
 >   - Database
 >   - Document
-> - Anytype
+> - AnyType
 
-# 8. Writting App
+# 8. Writing App
 
 > [!check] Recommended
 > - Obsidian (Windows, Linux, macOS, iPadOS, iOS)
@@ -113,7 +113,7 @@ This guide will reduce your number of accounts you have and also use alternative
 > - Spotify
 > - Deezer
 > - Tidal
-> - Soundcloud
+> - SoundCloud
 > - Apple Music (macOS, iPadOS, iOS)
 > - Others
 
