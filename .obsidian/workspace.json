@@ -1,0 +1,269 @@
+{
+  "main": {
+    "id": "bc7fca7d62cd0ce5",
+    "type": "split",
+    "children": [
+      {
+        "id": "47cb0910c625241e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68f2732d7adff0dc",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://help.obsidian.md/Editing+and+formatting/Callouts"
+              }
+            }
+          },
+          {
+            "id": "a0f326118c460285",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "god.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            },
+            "group": "7981ad72fce1b184"
+          },
+          {
+            "id": "74dd6a3cd0741b13",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://es.wikiquote.org/wiki/Ser"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "39acc397a0e2fcd0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f112b6f276b35dfe",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://www.wikisofia.cat/wiki/Autor:Arist%C3%B2til#La_.C2.ABfilosofia_primera.C2.BB_.28metaf.C3.ADsica_-_ontologia.29.2C_la_teoria_de_la_subst.C3.A0ncia_i_les_categories"
+              }
+            }
+          },
+          {
+            "id": "78cf017c5435166a",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://en.wikipedia.org/wiki/Aristotle#Biology"
+              }
+            }
+          },
+          {
+            "id": "0c5587db5df71635",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "god.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            },
+            "group": "7981ad72fce1b184"
+          },
+          {
+            "id": "a8dfdcec5b51bd3b",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://en.wikipedia.org/wiki/Black_Lives_Matter"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "37724d1f08516ace",
+    "type": "split",
+    "children": [
+      {
+        "id": "ece00f856e04139a",
+        "type": "tabs",
+        "dimension": 80.09950248756219,
+        "children": [
+          {
+            "id": "9ccf6ecc4f765ace",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f085733c2f093b99",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"tags\":",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c87cde6e0ad0f8dc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "add1cbad24654b70",
+        "type": "tabs",
+        "dimension": 19.900497512437813,
+        "children": [
+          {
+            "id": "9d4b3f801775c576",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "bd075b5ed75b1aed",
+    "type": "split",
+    "children": [
+      {
+        "id": "49ab74cfce4d7b1f",
+        "type": "tabs",
+        "dimension": 33.33333333333333,
+        "children": [
+          {
+            "id": "97d9d5610aa7ee91",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "god.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "897865c5ff8a8c5d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "god.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ded4413e5b7de14c",
+        "type": "tabs",
+        "dimension": 33.810888252149,
+        "children": [
+          {
+            "id": "7bf59a86c9914ee2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "god.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4dfc8137e1864154",
+        "type": "tabs",
+        "dimension": 32.855778414517665,
+        "children": [
+          {
+            "id": "2dd5e5e73b7baec9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "obsidian-stille:Toggle Stille": false,
+      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "0c5587db5df71635",
+  "lastOpenFiles": [
+    "New Text Document.txt",
+    "BLM.md",
+    "ser.md",
+    "wonder.md",
+    "abstracció.md",
+    "god.md",
+    "saber.md",
+    "knowledge.md",
+    "nothing.md",
+    "anamnesis.md",
+    "identity.md",
+    "Untitled"
+  ]
+}
