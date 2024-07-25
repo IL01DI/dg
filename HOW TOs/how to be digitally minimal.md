@@ -8,14 +8,14 @@ This guide will reduce your number of accounts you have and also use alternative
 # 1. OS
 
 > [!check] Recommended
-> - ChromeOS^[1]
-> - Linux^[2]
-> - Android^[3]
+> - ChromeOS[^1]
+> - Linux[^2]
+> - Android[^3]
 
 >[!warning] Not recommended
-> - Windows^[4]
-> - macOS^[5]
-> - iOS^[5]
+> - Windows[^4]
+> - macOS[^5]
+> - iOS[^5]
 
 # 2. Email provider & Cloud storage
 
@@ -26,7 +26,7 @@ This guide will reduce your number of accounts you have and also use alternative
 > - Nextcloud providers
 
 >[!warning] Not recommended
-> - iCloud^[6]
+> - iCloud[^6]
 > - Others
 
 # 3. Web browser
