@@ -245,9 +245,7 @@
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "obsidian-stille:Toggle Stille": false,
-      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
-      "obsidian-habitica-integration:Open Habitica Pane": false,
-      "fit:Fit Sync": false
+      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
   "active": "2d6aa158a2968d35",
