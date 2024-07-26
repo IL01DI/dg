@@ -18,20 +18,6 @@
             }
           },
           {
-            "id": "a0f326118c460285",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "god.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            },
-            "group": "7981ad72fce1b184"
-          },
-          {
             "id": "74dd6a3cd0741b13",
             "type": "leaf",
             "state": {
@@ -40,9 +26,22 @@
                 "url": "https://es.wikiquote.org/wiki/Ser"
               }
             }
+          },
+          {
+            "id": "2d6aa158a2968d35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian.md/Obsidian Sync.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "39acc397a0e2fcd0",
@@ -74,13 +73,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "god.md",
+                "file": "abstracció.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
-            },
-            "group": "7981ad72fce1b184"
+            }
           },
           {
             "id": "a8dfdcec5b51bd3b",
@@ -176,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "god.md",
+                "file": "Obsidian.md/Obsidian Sync.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "god.md",
+                "file": "Obsidian.md/Obsidian Sync.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "god.md"
+                "file": "Obsidian.md/Obsidian Sync.md"
               }
             }
           }
@@ -247,32 +245,44 @@
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "obsidian-stille:Toggle Stille": false,
-      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
+      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
+      "obsidian-habitica-integration:Open Habitica Pane": false,
+      "fit:Fit Sync": false
     }
   },
-  "active": "0c5587db5df71635",
+  "active": "2d6aa158a2968d35",
   "lastOpenFiles": [
-    "veritat.md",
-    "python/3.2. Python Variables - Assign Multiple Values.md",
-    "python/3.1. Python Variable Names.md",
-    "python/2. Python Comments.md",
-    "python/3. Python Variables .md",
-    "python/0. Introduction to Python.md",
-    "python",
-    "HOW TOs/how to be digitally minimal.md",
+    "_fit/python/3. Python Variables .md",
+    "_fit/python/3.2. Python Variables - Assign Multiple Values.md",
+    "_fit/python/0. Introduction to Python.md",
+    "_fit/python/2. Python Comments.md",
+    "_fit/nothing.md",
+    "_fit/HOW TOs/how to sync obsidian vault.md",
+    "_fit/HOW TOs",
+    "_fit/python/3.1. Python Variable Names.md",
+    "_fit/python",
+    "_fit",
     "HOW TOs/how to sync obsidian vault.md",
-    "HOW TOs",
-    "New Text Document.txt",
-    "BLM.md",
-    "ser.md",
-    "wonder.md",
+    "python/0. Introduction to Python.md",
+    "python/3.2. Python Variables - Assign Multiple Values.md",
+    "python/3. Python Variables .md",
+    "python/2. Python Comments.md",
     "abstracció.md",
-    "god.md",
-    "saber.md",
-    "knowledge.md",
-    "nothing.md",
+    "python/3.1. Python Variable Names.md",
+    "Obsidian.md/Obsidian Publish.md",
+    "Obsidian.md/Obsidian Sync.md",
+    "Obsidian.md",
     "anamnesis.md",
-    "identity.md",
-    "Untitled"
+    "nothing.md",
+    "_fit/HOW TOs/how to be digitally minimal.md",
+    "_fit/identity.md",
+    "_fit/veritat.md",
+    "_fit/ser.md",
+    "BLM.md",
+    "god.md",
+    "wegv",
+    "python",
+    "HOW TOs",
+    "New Text Document.txt"
   ]
 }

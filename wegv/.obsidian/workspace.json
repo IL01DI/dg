@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "d1806b78950db132",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5ac82187639924b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41ca7910503f51a9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "46b897883b9e4179",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16c1e069e5c28e4d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b239e91aa2bf855d",
+    "type": "split",
+    "children": [
+      {
+        "id": "791983d70c32345c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03d2eb387e435c30",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e61d372fb3a149ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "92778d56eda23f56",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e65024a8ce147e31",
+    "type": "split",
+    "children": [
+      {
+        "id": "f20011c14c47aaeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "395f6ee29cec1562",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ca66b43e780a683c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f5f8cc624adcf1a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3b4422b95215d32c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "fit:Fit Sync": false
+    }
+  },
+  "active": "03d2eb387e435c30",
+  "lastOpenFiles": [
+    "wonder.md",
+    "veritat.md",
+    "ser.md",
+    "saber.md",
+    "python/3.2. Python Variables - Assign Multiple Values.md",
+    "python/3.1. Python Variable Names.md",
+    "python/3. Python Variables .md",
+    "python/2. Python Comments.md",
+    "python/0. Introduction to Python.md",
+    "python",
+    "nothing.md",
+    "knowledge.md",
+    "identity.md",
+    "god.md",
+    "anamnesis.md",
+    "abstracció.md",
+    "HOW TOs/how to sync obsidian vault.md",
+    "HOW TOs/how to be digitally minimal.md",
+    "HOW TOs",
+    "BLM.md",
+    "Welcome.md"
+  ]
+}
