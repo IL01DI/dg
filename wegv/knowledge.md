@@ -1,9 +1,0 @@
----
-tags:
-  - en
-  - philosophia
----
-```
-Definition:
-```
-

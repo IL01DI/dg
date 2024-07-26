@@ -1,5 +1,6 @@
 ---
-tags:
+lastSync: Fri Jul 26 2024 17:32:35 GMT+0200 (Central European Summer Time)
+Tags:
   - en
 ---
 
@@ -58,7 +59,7 @@ If you don't have any vaults, you need one. To do so:
 > It is advised to not sync plugins in GitHub as it will expose your PAT to the public, which will be used on iOS.
 
 1. If you don't want to sync the settings or plugins between devices, create a new file named `.gitignore` using File Explorer.
-2. Open the created file using Notepad or any text editor and add the first line as `.obsidian/plugins` if you don't want to sync plugins; otherwise you may prefer it as `.obsidian`,so it will only sync your Markdown files of your vault.
+2. Open the created file using Notepad or any text editor and add the first line as `.obsidian/plugins` if you don't want to sync plugins; otherwise you may prefer it as `.obsidian`, so it will only sync your Markdown files of your vault.
 
 ## 3. Upload files to GitHub
 

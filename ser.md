@@ -2,6 +2,8 @@
 tags:
   - philosophia
   - es
+share: true
+dg-publish: true
 ---
 ```yml
 Definición: Esencia
