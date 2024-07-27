@@ -1,4 +1,5 @@
 ---
+lastSync: Fri Jul 26 2024 22:23:06 GMT+0200 (Central European Summer Time)
 tags: en
 dg-publish: true
 ---
@@ -10,7 +11,7 @@ dg-publish: true
 |       [Remotely Save](obsidian://show-plugin?id=remotely-save)       |  3/5   |  ✅  |                                       | ✅             | ♾️                          | ✅            | ✅             | ❌                      |               |        |
 | [Self-Hosted Live Sync](obsidian://show-plugin?id=obsidian-livesync) |  3/5   |  ✅  |                                       |                |                             | ✅            | ✅             | ❌                      |               |        |
 |                           Obsidian Git ⭐                            | 3.5/5  |  ❌  | Not implemented, but cloud integrated | ✅             | ♾️                          | ✅            | ✅             | Using `.gitignore` file |               |        |
-|                   Obsidian Google Drive Auto Sync                    | 2.5/5  |  ❌  | Not implemented, but cloud integrated | ✅             | ♾️                          | ✅            | ❌             | ✅                      |               |        |
+|                   Obsidian Google Drive Auto Sync                    | 2.5/5  |  ❌  | Not implemented, but cloud integrated | ✅             | ♾️                          | ✅            | ❌             |?|               |        |
 |                                 Fit                                  | 2.5/5  |  ❌  | Not implemented, but cloud integrated | ✅             | ♾️                          | ✅            | ❌             |                         |               |        |
 |                         Fleeting Notes Sync                          |  2/5   |  ✅  |                  ❌                   | ✅             | 1 in Fleeting Notes; but ♾️ | ✅            | ❌             |                         |               |        |
 

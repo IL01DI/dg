@@ -6,7 +6,6 @@
   "obsidian-languagetool-plugin",
   "surfing",
   "languagetool",
-  "emoji-magic",
   "media-notes",
   "digitalgarden",
   "obsidian-mkdocs-publisher",
@@ -15,5 +14,10 @@
   "recent-files-obsidian",
   "letterboxd-rss-sync",
   "better-word-count",
-  "fleeting-notes-obsidian"
+  "fleeting-notes-obsidian",
+  "table-editor-obsidian",
+  "obsidian-table-generator",
+  "symbols-prettifier",
+  "unicode-search",
+  "fit"
 ]

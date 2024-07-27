@@ -6,6 +6,7 @@
       {
         "id": "47cb0910c625241e",
         "type": "tabs",
+        "dimension": 48.88059701492538,
         "children": [
           {
             "id": "68f2732d7adff0dc",
@@ -18,21 +19,29 @@
                 "backlinks": true,
                 "source": true
               }
-            }
+            },
+            "group": "224210663c3221e0"
           }
         ]
       },
       {
         "id": "39acc397a0e2fcd0",
         "type": "tabs",
+        "dimension": 51.11940298507462,
         "children": [
           {
             "id": "d5b0c039adb465e0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian.md/Obsidian Sync.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "group": "224210663c3221e0"
           }
         ]
       }
@@ -154,8 +163,17 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "dcd947a7eb4ebda9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "ded4413e5b7de14c",
@@ -200,20 +218,27 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "workspaces:Manage workspace layouts": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "obsidian-stille:Toggle Stille": false,
       "digitalgarden:Digital Garden Publication Center": false,
-      "workspaces:Manage workspace layouts": false,
       "obsidian-gdrive-sync:Upload Current File": false,
-      "obsidian-gdrive-sync:Download Current File": false
+      "obsidian-gdrive-sync:Download Current File": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "fit:Fit Sync": false
     }
   },
-  "active": "68f2732d7adff0dc",
+  "active": "d5b0c039adb465e0",
   "lastOpenFiles": [
     "HOW TOs/how to be digitally minimalo.md",
     "Obsidian.md/Obsidian Sync.md",
+    "_fit/Obsidian.md/Obsidian Sync.md",
+    "_fit/Obsidian.md",
+    "_fit/ser.md",
+    "_fit",
     "Obsidian.md/Obsidian Publish.md",
+    "HOW TOs/how to be digitally minimal.md",
     "Obsidian/Publish.md",
     "Obsidian/Obsidian Sync.md",
     "Obsidian/Obsidian Publish.md",
@@ -233,10 +258,6 @@
     "All bookmarks/Searx Belgium.md",
     "All bookmarks/SearXNG @ searx.tiekoetter.com.md",
     "All bookmarks/monocles search.md",
-    "All bookmarks/MetaGer Privacy Protected Search &amp; Find.md",
-    "All bookmarks/Stract.md",
-    "All bookmarks/Araa.md",
-    "All bookmarks/DuckDuckGo.md",
     "FleetingNotesApp",
     "Raindrop.io/Collections/TV",
     "Raindrop.io/Collections/OS",
@@ -244,7 +265,6 @@
     "Raindrop.io/Collections/Reader",
     "Raindrop.io/Collections/Gaming",
     "Raindrop.io/Collections/Productivity",
-    "Raindrop.io/Collections",
-    "Raindrop.io/All bookmarks"
+    "Raindrop.io/Collections"
   ]
 }
