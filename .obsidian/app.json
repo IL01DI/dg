@@ -2,5 +2,6 @@
   "spellcheck": false,
   "livePreview": false,
   "showLineNumber": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "source"
 }

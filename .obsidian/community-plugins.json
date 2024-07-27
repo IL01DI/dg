@@ -4,8 +4,6 @@
   "obsidian-linter",
   "share-my-plugin-list",
   "obsidian-languagetool-plugin",
-  "settings-profiles",
-  "obsidian-hypothesis-plugin",
   "surfing",
   "languagetool",
   "emoji-magic",
@@ -13,7 +11,9 @@
   "digitalgarden",
   "obsidian-mkdocs-publisher",
   "diffzip",
-  "obsidian-gdrive-sync",
   "workspaces-plus",
-  "recent-files-obsidian"
+  "recent-files-obsidian",
+  "letterboxd-rss-sync",
+  "better-word-count",
+  "fleeting-notes-obsidian"
 ]

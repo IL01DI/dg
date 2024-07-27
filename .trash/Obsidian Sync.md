@@ -1,93 +1,8 @@
 ---
-lastSync: Fri Jul 26 2024 22:23:06 GMT+0200 (Central European Summer Time)
+lastSync: Fri Jul 26 2024 17:28:33 GMT+0200 (Central European Summer Time)
 tags: en
 dg-publish: true
 ---
-
-# Obsidian Git
-> [!check] Tested devices
-> - Windows 11
-> - Linux Fedora 40
-> - iOS
-
->[!missing] Untested devices
-> - macOS 
-> - Android
-
-> [!attention] Requisites
-> Services you need to register:
-> - [GitHub](https://github.com)
->
-> On Windows, make sure to have installed:
-> - [Obsidian](https://obsidian.md/download)
-> - [GitHub Desktop](https://github.com/apps/desktop)
->
-> On Linux, instead of using [Obsidian](https://obsidian.md/download), just use:
-> - [VSCodium](https://vscodium.com/) or [VSCode](https://code.visualstudio.com/)
->
-> While on iOS, you should have:
-> - [Obsidian](https://obsidian.md/download)
-> - [Git](https://obsidian.md/plugins?id=obsidian-git)
-
-> [!hint] Advice
-> There are many ways to sync, but you can follow here the one I provide, so it may work for you.
-> Even if there are untested devices, you can also proceed these steps similarly, unless you don't know what you are doing.
-> I assume you that you don't have vaults neither on Linux nor on iOS, only Windows.
->
-> Tips:
-> - Avoid creating your vault in iOS first.
-> - To set up, it is recommended using Windows.
-
-# Windows
-
-1. Open your web browser and go to your repo, or create a new one if you haven't.
-2. Click the green button “Code” and open GitHub Desktop.
-
-## 1.1. Current vault
-If you currently have a vault, you can import it to the git folder. To do so:
-1. Choose the desired location (not the vault's location).
-2. Now, move your vault folder to the git folder you have created.
-3. Open Obsidian to check if your files are OK.
-
-## 1.2. New vault
-If you don't have any vaults, you need one. To do so:
-1. Choose the desired location.
-2. Open Obsidian and create a new vault from the chosen location.
-3. Configure your settings and install the plugins you want.
-
-## 2. Opt-out file sync 
-> [!hint] Recommended
-> It is advised to not sync plugins in GitHub as it will expose your PAT to the public, which will be used on iOS.
-
-1. If you don't want to sync the settings or plugins between devices, create a new file named `.gitignore` using File Explorer.
-2. Open the created file using Notepad or any text editor and add the first line as `.obsidian/plugins` if you don't want to sync plugins; otherwise you may prefer it as `.obsidian', so it will only sync your Markdown files of your vault.
-
-## 3. Upload files to GitHub
-
-1. In your GitHub Desktop, you should see the changes. If so, name the message in the source control and commit it.
-2. Congrats! Now, whether the order, it is up to you if it will be Linux or iOS.
-
-# Linux
-
-1. Open VSCodium and go to Source Control.
-2. Clone the repo you have created.
-3. Optionally, install Obsidian (if you don't like writing on VSCodium).
-4. Every change on the files will appear in VSCodium, and so it is used for sending and receiving to GitHub repo.
-
-# iOS
-
-1. The repo must be public in order to work.
-2. Open Obsidian and open the new vault.
-3. Go to the Git Settings and fill the `Username Git` and `PAT`.
-4. Then, use Command Palette and search `Clone a remote repository`.
-5. Enter the URL of your repo. The format must be the same as the following example: `https:github.com/username/repo.git`
-6. Select your choice:
-  - If you don't have the `.obsidian` folder on Git, enter `NO`.
-  - If you do have the `.obsidian` folder on Git:
-    - And you want to also sync with the Desktop config, enter `YES`.
-    - Otherwise, enter `NO`.
-
-# Obsidian Google Drive Auto Sync Plugin
 
 > [!warning] Requisites
 > Assuming you already have:
@@ -95,9 +10,8 @@ If you don't have any vaults, you need one. To do so:
 > - A Google Drive.
 > - An empty vault on mobile.
 
-Warning: Max sync number is 1000 files.
-## Installation
-To install the , follow these steps (if you have previously installed any unofficial plugin the steps are identical):
+# Installation
+To install the Obsidian Google Drive Auto Sync Plugin, follow these steps (if you have previously installed any unofficial plugin the steps are identical):
 1. On your PC, go to [Obsidian Google Drive Sync Plugin GitHub Repo](https://github.com/stravo1/obsidian-gdrive-sync?tab=readme-ov-file#obsidian-google-drive-sync-plugin) and download from the latest release the `obsidian-gdrive-sync.zip`.
 2. Unzip it, then you should have a folder named `obsidian-gdrive-sync` containing 3 files. If after unzipping you end up with 3 different files (main.js, styles.css, manifest.json), place them under a new folder called `obsidian-gdrive-sync`.
 3. Navigate to your vault's location.
@@ -109,7 +23,7 @@ To install the , follow these steps (if you have previously installed any unoffi
 9. Enable the Google Drive Sync plugin under Installed Plugins. Wait for a few seconds. Make sure to have a good internet connection.
 10. Click on the Google Drive Sync settings under Community Plugins section that becomes visible.
 
-## PC Configuration
+# PC Configuration
 Configuring the plugin is straightforward:
 
 1. Under the plugin settings you will be provided with a link to Login.
@@ -121,7 +35,7 @@ Configuring the plugin is straightforward:
 7. As prompted, reload the plugin by turing it on and off under Communtiy Plugins.
 8. If you are using this plugin for the first time with a vault, you will be prompted to **Initialize vault**. This creates a folder with the same name as your vault in your Google Drive and copies all the files into it. You might need to reload the plugin again once initialization is complete. 
 9. Once the previous steps are complete, set your preferred synchronization interval.
-## iOS Configuration
+# iOS Configuration
 1. With your Obsidian vault set up on your desktop, navigate to its parent folder in your file explorer (Finder if on Mac, File Explorer for Windows).
 2. Compress the entire vault folder (containing the `.obsidian` folder and all the `.md` files) in the explorer by right-clicking the folder and choosing the appropriate option.
 3. Check if `.obsidian` is in the folder zip. If for some reason doesn't include it, then copy manually and paste it inside.
@@ -134,7 +48,7 @@ Configuring the plugin is straightforward:
 10. Close Obsidian from the app switcher and reopen it.
 11. Hopefully your files should sync after a bit once the extension loads.
 
-## Chromebook Configuration
+# Chromebook Configuration
 1. Make sure Android and Obsidian is installed.
 2. Get the vault folder to your Chromebook device.
 3. Unzip the zip we have by moving the folder to Android.

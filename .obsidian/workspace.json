@@ -11,16 +11,6 @@
             "id": "68f2732d7adff0dc",
             "type": "leaf",
             "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://help.obsidian.md/Editing+and+formatting/Callouts"
-              }
-            }
-          },
-          {
-            "id": "4f677480fda3876d",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Obsidian.md/Obsidian Sync.md",
@@ -28,11 +18,9 @@
                 "backlinks": true,
                 "source": true
               }
-            },
-            "group": "a975c6de6b4fd21d"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "39acc397a0e2fcd0",
@@ -42,15 +30,9 @@
             "id": "d5b0c039adb465e0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian.md/Obsidian Sync.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            },
-            "group": "a975c6de6b4fd21d"
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -89,14 +71,6 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "c87cde6e0ad0f8dc",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
             }
           }
         ]
@@ -155,6 +129,31 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "c87cde6e0ad0f8dc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "33d5948617e3429f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian.md/Obsidian Sync.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ]
       },
@@ -204,48 +203,48 @@
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "obsidian-stille:Toggle Stille": false,
-      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
       "digitalgarden:Digital Garden Publication Center": false,
+      "workspaces:Manage workspace layouts": false,
       "obsidian-gdrive-sync:Upload Current File": false,
-      "obsidian-gdrive-sync:Download Current File": false,
-      "workspaces:Manage workspace layouts": false
+      "obsidian-gdrive-sync:Download Current File": false
     }
   },
-  "active": "9ccf6ecc4f765ace",
+  "active": "68f2732d7adff0dc",
   "lastOpenFiles": [
-    "Obsidian.md/Obsidian Publish.md",
+    "HOW TOs/how to be digitally minimalo.md",
     "Obsidian.md/Obsidian Sync.md",
-    "archived/how to sync obsidian vault.md",
-    "Obsidian.md/Obsidian Git.md",
-    "home.md",
-    "Untitled.md",
-    "HOW TOs/how to be digitally minimal.md",
-    "ShareMyPlugin.md",
-    "python/0. Introduction to Python.md",
-    "anamnesis.md",
-    "knowledge.md",
-    "BLM.md",
-    "archived",
-    "ser.md",
-    "wonder.md",
-    "nothing.md",
-    "saber.md",
-    "identity.md",
-    "god.md",
-    "abstracció.md",
-    "_fit/python/3. Python Variables .md",
-    "_fit/python/3.2. Python Variables - Assign Multiple Values.md",
-    "_fit/python/0. Introduction to Python.md",
-    "_fit/python/2. Python Comments.md",
-    "_fit/nothing.md",
-    "_fit/HOW TOs/how to sync obsidian vault.md",
-    "_fit/HOW TOs",
-    "_fit/python/3.1. Python Variable Names.md",
-    "_fit/python",
-    "_fit",
-    "wegv",
-    "python",
-    "HOW TOs",
-    "New Text Document.txt"
+    "Obsidian.md/Obsidian Publish.md",
+    "Obsidian/Publish.md",
+    "Obsidian/Obsidian Sync.md",
+    "Obsidian/Obsidian Publish.md",
+    "archived/Untitled.md",
+    "All bookmarks/Boxcryptor.md",
+    "All bookmarks/Tahoe-LAFS.md",
+    "All bookmarks/Authenticator Pro.md",
+    "All bookmarks/Have I Been Pwned.md",
+    "All bookmarks/tsutaja&39;s lil mail server.md",
+    "All bookmarks/ClearURLs (1).md",
+    "All bookmarks/ClearURLs.md",
+    "All bookmarks/sqzfmLD.png (1325×891).md",
+    "All bookmarks/LibRedirect.md",
+    "All bookmarks",
+    "All bookmarks/SearXNG.md",
+    "All bookmarks/Search results without being spyed on. no &39;filter bubble&39;.md",
+    "All bookmarks/Searx Belgium.md",
+    "All bookmarks/SearXNG @ searx.tiekoetter.com.md",
+    "All bookmarks/monocles search.md",
+    "All bookmarks/MetaGer Privacy Protected Search &amp; Find.md",
+    "All bookmarks/Stract.md",
+    "All bookmarks/Araa.md",
+    "All bookmarks/DuckDuckGo.md",
+    "FleetingNotesApp",
+    "Raindrop.io/Collections/TV",
+    "Raindrop.io/Collections/OS",
+    "Raindrop.io/Collections/Theme",
+    "Raindrop.io/Collections/Reader",
+    "Raindrop.io/Collections/Gaming",
+    "Raindrop.io/Collections/Productivity",
+    "Raindrop.io/Collections",
+    "Raindrop.io/All bookmarks"
   ]
 }

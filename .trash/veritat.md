@@ -1,4 +1,7 @@
 ---
+lastSync: Fri Jul 26 2024 17:41:27 GMT+0200 (Central European Summer Time)
+---
+---
 tags:
   - ca
   - philosophia
