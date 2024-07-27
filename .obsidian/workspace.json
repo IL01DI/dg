@@ -36,7 +36,7 @@
               "type": "markdown",
               "state": {
                 "file": "Obsidian.md/Obsidian Sync.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"tags\":",
+                "query": "tag:#ca",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -229,16 +229,20 @@
       "fit:Fit Sync": false
     }
   },
-  "active": "d5b0c039adb465e0",
+  "active": "68f2732d7adff0dc",
   "lastOpenFiles": [
-    "HOW TOs/how to be digitally minimalo.md",
-    "Obsidian.md/Obsidian Sync.md",
-    "_fit/Obsidian.md/Obsidian Sync.md",
-    "_fit/Obsidian.md",
-    "_fit/ser.md",
-    "_fit",
     "Obsidian.md/Obsidian Publish.md",
     "HOW TOs/how to be digitally minimal.md",
+    "FleetingNotesApp/how to build connections in Fleeting Notes.md",
+    "FleetingNotesApp/how to sync notes with Obsidian.md",
+    "FleetingNotesApp/what are backlinks.md",
+    "Obsidian.md/Obsidian Sync.md",
+    "diff.md",
+    "_fit/Obsidian.md/Obsidian Sync.md",
+    "_fit/Obsidian.md",
+    "_fit",
+    "HOW TOs/how to be digitally minimalo.md",
+    "_fit/ser.md",
     "Obsidian/Publish.md",
     "Obsidian/Obsidian Sync.md",
     "Obsidian/Obsidian Publish.md",
@@ -255,9 +259,6 @@
     "All bookmarks",
     "All bookmarks/SearXNG.md",
     "All bookmarks/Search results without being spyed on. no &39;filter bubble&39;.md",
-    "All bookmarks/Searx Belgium.md",
-    "All bookmarks/SearXNG @ searx.tiekoetter.com.md",
-    "All bookmarks/monocles search.md",
     "FleetingNotesApp",
     "Raindrop.io/Collections/TV",
     "Raindrop.io/Collections/OS",
