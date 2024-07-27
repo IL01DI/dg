@@ -96,10 +96,13 @@ If you don't have any vaults, you need one. To do so:
 4. Then, use Command Palette and search `Clone a remote repository`.
 5. Enter the URL of your repo. The format must be the same as the following example: `https:github.com/username/repo.git`
 6. Select your choice:
-  - If you don't have the `.obsidian` folder on Git, enter `NO`.
-  - If you do have the `.obsidian` folder on Git:
-    - And you want to also sync with the Desktop config, enter `YES`.
-    - Otherwise, enter `NO`.
+	  - If you don't have the `.obsidian` folder on Git, enter `NO`.
+	  - If you do have the `.obsidian` folder on Git:
+	    - And you want to also sync with the Desktop config, enter `YES`.
+	    - Otherwise, enter `NO`.
+7. After cloning files from the repo, close the app and reopen it.
+8. Redownload the plugin, as it is no longer available.
+9. Add author's commit and email commit.
 
 # Obsidian Google Drive Auto Sync Plugin
 
@@ -111,7 +114,7 @@ If you don't have any vaults, you need one. To do so:
 
 Warning: Max sync number is 1000 files.
 ## Installation
-To install the , follow these steps (if you have previously installed any unofficial plugin the steps are identical):
+To install the Obsidian Google Drive Auto Sync Plugin, follow these steps (if you have previously installed any unofficial plugin the steps are identical):
 1. On your PC, go to [Obsidian Google Drive Sync Plugin GitHub Repo](https://github.com/stravo1/obsidian-gdrive-sync?tab=readme-ov-file#obsidian-google-drive-sync-plugin) and download from the latest release the `obsidian-gdrive-sync.zip`.
 2. Unzip it, then you should have a folder named `obsidian-gdrive-sync` containing 3 files. If after unzipping you end up with 3 different files (main.js, styles.css, manifest.json), place them under a new folder called `obsidian-gdrive-sync`.
 3. Navigate to your vault's location.
