@@ -5,14 +5,14 @@ dg-publish: true
 
 # Overview
 
-|                             Plugin Name                              | Rating | E2EE |            Version history            | Cross-platform | Number of synced platforms  | Offline First | Vault settings | Selective sync          | File recovery | Collab |
-|:--------------------------------------------------------------------:|:------:|:----:|:-------------------------------------:| -------------- | --------------------------- | ------------- | -------------- | ----------------------- | ------------- | ------ |
-|       [Remotely Save](obsidian://show-plugin?id=remotely-save)       |  3/5   |  ✅  |                                       | ✅             | ♾️                          | ✅            | ✅             | ❌                      |               |        |
-| [Self-Hosted Live Sync](obsidian://show-plugin?id=obsidian-livesync) |  3/5   |  ✅  |                                       |                |                             | ✅            | ✅             | ❌                      |               |        |
-|                           Obsidian Git ⭐                            | 3.5/5  |  ❌  | Not implemented, but cloud integrated | ✅             | ♾️                          | ✅            | ✅             | Using `.gitignore` file |               |        |
-|                   Obsidian Google Drive Auto Sync                    | 2.5/5  |  ❌  | Not implemented, but cloud integrated | ✅             | ♾️                          | ✅            | ❌             | ✅                      |               |        |
-|                                 Fit                                  | 2.5/5  |  ❌  | Not implemented, but cloud integrated | ✅             | ♾️                          | ✅            | ❌             | Using `.gitignore` file |               |        |
-|                         Fleeting Notes Sync                          |  2/5   |  ✅  |                  ❌                   | ✅             | 1 in Fleeting Notes; but ♾️ | ✅            | ❌             | ✅                      |               |        |
+|                             Plugin Name                              | Rating | E2EE |            Version history            | Cross-platform | Number of synced platforms  | Offline First | Vault settings | Selective sync    |
+|:--------------------------------------------------------------------:|:------:|:----:|:-------------------------------------:| -------------- | --------------------------- | ------------- | -------------- | ----------------- |
+|       [Remotely Save](obsidian://show-plugin?id=remotely-save)       |  3/5   |  ✅  | Not implemented, but cloud integrated | ✅             | ♾️                          | ✅            | ✅             | ❌                |
+| [Self-Hosted Live Sync](obsidian://show-plugin?id=obsidian-livesync) |  3/5   |  ✅  |            Not implemented            | ✅             | ♾️                          | ✅            | ✅             | ❌                |
+|                           Obsidian Git ⭐                            | 3.5/5  |  ❌  | Not implemented, but cloud integrated | ✅             | ♾️                          | ✅            | ✅             | `.gitignore` file |
+|                   Obsidian Google Drive Auto Sync                    | 2.5/5  |  ❌  | Not implemented, but cloud integrated | ✅             | ♾️                          | ✅            | ❌             | ✅                |
+|                                 Fit                                  | 2.5/5  |  ❌  | Not implemented, but cloud integrated | ✅             | ♾️                          | ✅            | ❌             | `.gitignore` file |
+|                         Fleeting Notes Sync                          |  2/5   |  ✅  |                  ❌                   | ✅             | 1 in Fleeting Notes; but ♾️ | ✅            | ❌             | ✅                |
 
 # Obsidian Git
 > [!check] Tested Platforms
