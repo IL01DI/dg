@@ -1,18 +1,28 @@
 ---
-lastSync: Fri Jul 26 2024 22:23:06 GMT+0200 (Central European Summer Time)
 tags: en
 dg-publish: true
 ---
 
+# Overview
+
+|                             Plugin Name                              | Rating | E2EE |            Version history            | Cross-platform | Number of synced platforms  | Offline First | Vault settings | Selective sync          | File recovery | Collab |
+|:--------------------------------------------------------------------:|:------:|:----:|:-------------------------------------:| -------------- | --------------------------- | ------------- | -------------- | ----------------------- | ------------- | ------ |
+|       [Remotely Save](obsidian://show-plugin?id=remotely-save)       |  3/5   |  ✅  |                                       | ✅             | ♾️                          | ✅            | ✅             | ❌                      |               |        |
+| [Self-Hosted Live Sync](obsidian://show-plugin?id=obsidian-livesync) |  3/5   |  ✅  |                                       |                |                             | ✅            | ✅             | ❌                      |               |        |
+|                           Obsidian Git ⭐                            | 3.5/5  |  ❌  | Not implemented, but cloud integrated | ✅             | ♾️                          | ✅            | ✅             | Using `.gitignore` file |               |        |
+|                   Obsidian Google Drive Auto Sync                    | 2.5/5  |  ❌  | Not implemented, but cloud integrated | ✅             | ♾️                          | ✅            | ❌             | ✅                      |               |        |
+|                                 Fit                                  | 2.5/5  |  ❌  | Not implemented, but cloud integrated | ✅             | ♾️                          | ✅            | ❌             |                         |               |        |
+|                         Fleeting Notes Sync                          |  2/5   |  ✅  |                  ❌                   | ✅             | 1 in Fleeting Notes; but ♾️ | ✅            | ❌             |                         |               |        |
+
 # Obsidian Git
-> [!check] Tested devices
+> [!check] Tested Platforms
 > - Windows 11
 > - Linux Fedora 40
 > - iOS
+> - Chrome OS
 
->[!missing] Untested devices
+>[!missing] Untested Platforms
 > - macOS 
-> - Android
 
 > [!attention] Requisites
 > Services you need to register:
@@ -38,43 +48,43 @@ dg-publish: true
 > - Avoid creating your vault in iOS first.
 > - To set up, it is recommended using Windows.
 
-# Windows
+## Windows
 
 1. Open your web browser and go to your repo, or create a new one if you haven't.
 2. Click the green button “Code” and open GitHub Desktop.
 
-## 1.1. Current vault
+### 1.1. Current vault
 If you currently have a vault, you can import it to the git folder. To do so:
 1. Choose the desired location (not the vault's location).
 2. Now, move your vault folder to the git folder you have created.
 3. Open Obsidian to check if your files are OK.
 
-## 1.2. New vault
+### 1.2. New vault
 If you don't have any vaults, you need one. To do so:
 1. Choose the desired location.
 2. Open Obsidian and create a new vault from the chosen location.
 3. Configure your settings and install the plugins you want.
 
-## 2. Opt-out file sync 
+### 2. Opt-out file sync 
 > [!hint] Recommended
 > It is advised to not sync plugins in GitHub as it will expose your PAT to the public, which will be used on iOS.
 
 1. If you don't want to sync the settings or plugins between devices, create a new file named `.gitignore` using File Explorer.
 2. Open the created file using Notepad or any text editor and add the first line as `.obsidian/plugins` if you don't want to sync plugins; otherwise you may prefer it as `.obsidian', so it will only sync your Markdown files of your vault.
 
-## 3. Upload files to GitHub
+### 3. Upload files to GitHub
 
 1. In your GitHub Desktop, you should see the changes. If so, name the message in the source control and commit it.
 2. Congrats! Now, whether the order, it is up to you if it will be Linux or iOS.
 
-# Linux
+## Linux
 
 1. Open VSCodium and go to Source Control.
 2. Clone the repo you have created.
 3. Optionally, install Obsidian (if you don't like writing on VSCodium).
 4. Every change on the files will appear in VSCodium, and so it is used for sending and receiving to GitHub repo.
 
-# iOS
+## iOS & Android
 
 1. The repo must be public in order to work.
 2. Open Obsidian and open the new vault.
