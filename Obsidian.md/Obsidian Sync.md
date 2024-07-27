@@ -11,8 +11,8 @@ dg-publish: true
 | [Self-Hosted Live Sync](obsidian://show-plugin?id=obsidian-livesync) |  3/5   |  ✅  |                                       |                |                             | ✅            | ✅             | ❌                      |               |        |
 |                           Obsidian Git ⭐                            | 3.5/5  |  ❌  | Not implemented, but cloud integrated | ✅             | ♾️                          | ✅            | ✅             | Using `.gitignore` file |               |        |
 |                   Obsidian Google Drive Auto Sync                    | 2.5/5  |  ❌  | Not implemented, but cloud integrated | ✅             | ♾️                          | ✅            | ❌             | ✅                      |               |        |
-|                                 Fit                                  | 2.5/5  |  ❌  | Not implemented, but cloud integrated | ✅             | ♾️                          | ✅            | ❌             |                         |               |        |
-|                         Fleeting Notes Sync                          |  2/5   |  ✅  |                  ❌                   | ✅             | 1 in Fleeting Notes; but ♾️ | ✅            | ❌             |                         |               |        |
+|                                 Fit                                  | 2.5/5  |  ❌  | Not implemented, but cloud integrated | ✅             | ♾️                          | ✅            | ❌             | Using `.gitignore` file |               |        |
+|                         Fleeting Notes Sync                          |  2/5   |  ✅  |                  ❌                   | ✅             | 1 in Fleeting Notes; but ♾️ | ✅            | ❌             | ✅                      |               |        |
 
 # Obsidian Git
 > [!check] Tested Platforms
