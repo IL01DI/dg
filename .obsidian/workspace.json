@@ -9,18 +9,18 @@
         "dimension": 48.88059701492538,
         "children": [
           {
-            "id": "68f2732d7adff0dc",
+            "id": "7c9eebae790f09a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian.md/Obsidian Sync.md",
+                "file": "Knowledge/Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             },
-            "group": "224210663c3221e0"
+            "group": "0e84093e4f522848"
           }
         ]
       },
@@ -30,18 +30,18 @@
         "dimension": 51.11940298507462,
         "children": [
           {
-            "id": "d5b0c039adb465e0",
+            "id": "479f2324bdcde2e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian.md/Obsidian Sync.md",
+                "file": "Knowledge/Untitled.md",
                 "mode": "preview",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             },
-            "group": "224210663c3221e0"
+            "group": "0e84093e4f522848"
           }
         ]
       }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ca",
+                "query": "tag:#The",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian.md/Obsidian Sync.md",
+                "file": "Knowledge/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian.md/Obsidian Sync.md",
+                "file": "Knowledge/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,9 +171,17 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "0251d53c61acaa35",
+            "type": "leaf",
+            "state": {
+              "type": "Sets-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "ded4413e5b7de14c",
@@ -186,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian.md/Obsidian Sync.md"
+                "file": "Knowledge/Untitled.md"
               }
             }
           }
@@ -212,7 +220,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 241.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,49 +231,46 @@
       "command-palette:Open command palette": false,
       "obsidian-stille:Toggle Stille": false,
       "digitalgarden:Digital Garden Publication Center": false,
-      "obsidian-gdrive-sync:Upload Current File": false,
-      "obsidian-gdrive-sync:Download Current File": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "fit:Fit Sync": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "68f2732d7adff0dc",
+  "active": "7c9eebae790f09a7",
   "lastOpenFiles": [
-    "Obsidian.md/Obsidian Publish.md",
-    "HOW TOs/how to be digitally minimal.md",
+    "Knowledge/Obsidian.md/Obsidian Sync.md",
+    "Knowledge/Untitled.md",
+    "Knowledge/Second Brain.md",
+    "ShareMyPlugin.md",
+    "home.md",
+    "changelog.md",
     "FleetingNotesApp/how to build connections in Fleeting Notes.md",
+    "FleetingNotesApp/Second Brain.md",
+    "Knowledge/knowledge.md",
+    "Knowledge",
+    "Knowledge/ser.md",
+    "Knowledge/ollama.md",
+    "Knowledge/OpenAI.md",
+    "ollama",
+    "Knowledge/HOW TOs/how to be digitally minimalo.md",
+    "copilot-conversations/Chat-2024_07_27-15_35_42.md",
+    "copilot-conversations",
+    "Knowledge/Obsidian.md/Obsidian Publish.md",
+    "Knowledge/HOW TOs/how to be digitally minimal.md",
     "FleetingNotesApp/how to sync notes with Obsidian.md",
     "FleetingNotesApp/what are backlinks.md",
-    "Obsidian.md/Obsidian Sync.md",
     "diff.md",
     "_fit/Obsidian.md/Obsidian Sync.md",
     "_fit/Obsidian.md",
     "_fit",
-    "HOW TOs/how to be digitally minimalo.md",
     "_fit/ser.md",
     "Obsidian/Publish.md",
     "Obsidian/Obsidian Sync.md",
     "Obsidian/Obsidian Publish.md",
     "archived/Untitled.md",
-    "All bookmarks/Boxcryptor.md",
-    "All bookmarks/Tahoe-LAFS.md",
-    "All bookmarks/Authenticator Pro.md",
-    "All bookmarks/Have I Been Pwned.md",
-    "All bookmarks/tsutaja&39;s lil mail server.md",
-    "All bookmarks/ClearURLs (1).md",
-    "All bookmarks/ClearURLs.md",
-    "All bookmarks/sqzfmLD.png (1325×891).md",
-    "All bookmarks/LibRedirect.md",
     "All bookmarks",
-    "All bookmarks/SearXNG.md",
-    "All bookmarks/Search results without being spyed on. no &39;filter bubble&39;.md",
     "FleetingNotesApp",
     "Raindrop.io/Collections/TV",
     "Raindrop.io/Collections/OS",
     "Raindrop.io/Collections/Theme",
-    "Raindrop.io/Collections/Reader",
-    "Raindrop.io/Collections/Gaming",
-    "Raindrop.io/Collections/Productivity",
-    "Raindrop.io/Collections"
+    "Raindrop.io/Collections/Reader"
   ]
 }

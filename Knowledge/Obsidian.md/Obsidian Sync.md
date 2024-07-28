@@ -3,20 +3,25 @@ tags: en
 dg-publish: true
 ---
 
+> [!warning]
+> Do not run more than one syncing tool at the same time. Remember to always back up first before trying out.
+
 # Overview
 
 |                               Plugin Name                                | Rating | E2EE |            Version history            | Cross-platform | Number of synced platforms  | Offline First | Vault settings | Selective sync |
 |:------------------------------------------------------------------------:|:------:|:----:|:-------------------------------------:| -------------- | --------------------------- | ------------- | -------------- | -------------- |
 |      [Remotely Save](obsidian://show-plugin?id=remotely-save) [^1]       |  3/5   |  ✅  | Not implemented, but cloud integrated | ✅             | ♾️                          | ✅            | ✅             | ❌             |
 |   [Self-Hosted Live Sync](obsidian://show-plugin?id=obsidian-livesync)   |  3/5   |  ✅  |            Not implemented            | ✅             | ♾️                          | ✅            | ✅             | ❌             |
-|        [Obsidian Git](obsidian://show-plugin?id=obsidian-git) ⭐         | 3.5/5  |  ❌  | Not implemented, but cloud integrated | ✅             | ♾️                          | ✅            | ✅             | `.gitignore`   |
-|                   Obsidian Google Drive Auto Sync [^2]                   | 2.5/5  |  ❌  | Not implemented, but cloud integrated | ✅             | ♾️                          | ✅            | ❌             | ✅             |
-|                [Fit](obsidian://show-plugin?id=fit) [^3]                 | 2.5/5  |  ❌  | Not implemented, but cloud integrated | ✅             | ♾️                          | ✅            | ❌             | `.gitignore`   |
-| [Fleeting Notes Sync](obsidian://show-plugin?id=fleeting-notes-obsidian) |  2/5   |  ✅  |                  ❌                   | ✅             | 1 in Fleeting Notes; but ♾️ | ✅            | ❌             | ✅             |
+|        [Obsidian Git](obsidian://show-plugin?id=obsidian-git)[^2] ⭐         | 3.5/5  |  ❌  | Not implemented, but cloud integrated | ✅             | ♾️                          | ✅            | ✅             | `.gitignore`   |
+|                   Obsidian Google Drive Auto Sync [^3]                   | 2.5/5  |  ❌  | Not implemented, but cloud integrated | ✅             | ♾️                          | ✅            | ❌             | ✅             |
+|                [Fit](obsidian://show-plugin?id=fit) [^4]                 | 2.5/5  |  ❌  | Not implemented, but cloud integrated | ✅             | ♾️                          | ✅            | ❌             | `.gitignore`   |
+| [Fleeting Notes Sync](obsidian://show-plugin?id=fleeting-notes-obsidian) [^5] |  2/5   |  ✅  |                  ❌                   | ✅             | 1 in Fleeting Notes; but ♾️ | ✅            | ❌             | ✅             |
 
 [^1]: Freemium: limited features may affect your usage.
-[^2]: Slow sync, may lose data, and cannot sync over 1000 files.
-[^3]: Not very good at auto merge conflict. Every run by an interval sync notifies you of an error, although it works.
+[^2]: Async.
+[^3]: Slow sync, may lose data, and cannot sync over 1000 files.
+[^4]: Not very good at auto merge conflict. Every run by an interval sync notifies you of an error, although it works.
+[^5]: Extremely fast sync between Obsidian and Fleeting Notes.
 # Obsidian Git
 
 > [!check] Tested Platforms

@@ -2,7 +2,6 @@
   "obsidian-stille",
   "obsidian-auto-split",
   "obsidian-linter",
-  "share-my-plugin-list",
   "obsidian-languagetool-plugin",
   "surfing",
   "languagetool",
@@ -19,5 +18,10 @@
   "obsidian-table-generator",
   "symbols-prettifier",
   "unicode-search",
-  "obsidian-tidy-footnotes"
+  "obsidian-tidy-footnotes",
+  "sets",
+  "obsidian-hyphenation",
+  "avatar",
+  "obsidian-vault-changelog",
+  "share-my-plugin-list"
 ]
