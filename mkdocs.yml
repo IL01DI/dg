@@ -25,16 +25,7 @@ theme:
         name: Switch to system preference
 
 plugins:
-    - pub-obsidian:
-        callouts:
-          enabled: true
-          indentation: spaces
-        comments:
-          enabled: true
-          inject_as_html: false
-        links:
-          wikilinks_enabled: true
-        vega:
-          enabled: true
-          vega_schema: https://vega.github.io/schema/vega/v5.json
-          vega_lite_schema: https://vega.github.io/schema/vega-lite/v5.json
+  - pub-obsidian:
+    callouts:
+      enabled: true
+      indentation: spaces
