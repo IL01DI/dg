@@ -25,4 +25,5 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: pip install mkdocs-publisher
+      - run: pip install mkdocs-callouts
       - run: mkdocs gh-deploy --force
