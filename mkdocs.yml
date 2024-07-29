@@ -1,6 +1,8 @@
 site_name: L01D's Obsidian MkDocs
 
 theme:
+  name: material
+  custom_dir: overrides
   palette:
 
     # Palette toggle for automatic mode
