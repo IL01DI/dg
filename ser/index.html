@@ -1,0 +1,615 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="..">
+      
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.0, mkdocs-material-9.5.30">
+    
+    
+      
+        <title>Ser - L01D's MkDocs</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.3cba04c6.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="L01D&#39;s MkDocs" class="md-header__button md-logo" aria-label="L01D's MkDocs" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            L01D's MkDocs
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Ser
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme)" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m14.3 16-.7-2h-3.2l-.7 2H7.8L11 7h2l3.2 9h-1.9M20 8.69V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69m-9.15 3.96h2.3L12 9l-1.15 3.65Z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to system preference"  type="radio" name="__palette" id="__palette_2">
+    
+      <label class="md-header__button md-icon" title="Switch to system preference" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12c0-2.42-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/IL01DI/dg" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="L01D&#39;s MkDocs" class="md-nav__button md-logo" aria-label="L01D's MkDocs" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    L01D's MkDocs
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/IL01DI/dg" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Hello, World!
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Ser
+  </span>
+  
+
+      </a>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+  
+
+
+  <h1>Ser</h1>
+
+<div class="highlight"><pre><span></span><code>Definición: Esencia
+</code></pre></div>
+<div class="admonition quote">
+<p class="admonition-title"><em>Sobre la naturaleza</em> (Derivada)</p>
+<blockquote>
+<p>Lo que es es, y lo que no es no es.</p>
+</blockquote>
+<p>- Parménides de Elea</p>
+<details class="note">
+<summary>Nota</summary>
+<ul>
+<li>La verdad se esconde de las apariencias.<ol>
+<li>La experiencia engaña.</li>
+<li>El conocimiento no engaña.</li>
+<li>La sabiduría se basa en la razón lógica.</li>
+</ol>
+</li>
+<li>Lo que es <code>x</code> es <code>x</code>, y lo que no es <code>x</code> no es <code>x</code>.<ul>
+<li>PTE: <code>x</code> o es <code>x</code> o no es <code>x</code></li>
+<li>PI: <code>x</code> es <code>x</code></li>
+<li>PNC: <code>x</code> no es <code>no-x</code></li>
+</ul>
+</li>
+<li>Ser como concepto unívoco<ul>
+<li>Son todos entre todos los que son.</li>
+<li>Lo que es sigue siendo lo que es</li>
+</ul>
+</li>
+<li>Unicidad del ser<ol>
+<li>Es uno lo que es.</li>
+<li>Si no fuera así, ¿cuál es la diferencia?</li>
+<li>No podría diferenciar entre lo que es con lo que es, ya que, en tanto que sean diferentes, es (continúa siendo lo que es y, por tanto, no es diferente de lo que es).</li>
+<li>Ni mucho menos aún podría diferenciar lo que no es con lo que no es, puesto que no es lo que no es.</li>
+</ol>
+</li>
+<li>
+<p>Eternidad del ser<br />
+    &gt;[!warning] Requisito<br />
+    &gt;- nada</p>
+<ol>
+<li>Lo que es no puede no haber sido, ni puede no llegar a no ser.</li>
+<li>Si hubiera un origen, ¿cuándo y dónde habría dado lugar?<ul>
+<li>No puede proceder de lo que es, ya que no es un origen, siendo ya lo que es.</li>
+<li>No puede proceder de lo que no es, puesto que no es lo que no es.</li>
+</ul>
+</li>
+<li>¿Qué necesidad tiene que surgir tarde o temprano si viene de la nada?</li>
+<li>Pues así, es necesario que absolutamente sea, o que en absoluto no sea.</li>
+</ol>
+</li>
+<li>
+<p>Conservación del ser</p>
+<ol>
+<li>Si es movible lo que es, debería mover en alguna cosa; pero esta cosa, ¿es o no es?</li>
+<li>Si es, es lo que es en lo que es y no es movible.</li>
+<li>Por otro lado, no puede no ser, ya que no es lo que no es.</li>
+<li>Pero dejar de ser no es posible, puesto que sería aceptar lo que no es.</li>
+</ol>
+</li>
+<li>Identidad entre pensar y ser<ol>
+<li>Solo lo que es puede ser pensado, puesto que lo que no es, en tanto que no es, no puede ni tan solo ser concebido.<blockquote>
+<p>[!tip]+ Dato<br />
+Hay muy pocos detalles relacionados con esto los cuales se han preservado hasta ahora.</p>
+</blockquote>
+</li>
+</ol>
+</li>
+</ul>
+</details>
+</div>
+<div class="admonition quote">
+<p class="admonition-title"><em>Metafísica</em></p>
+<blockquote>
+<p>El ser se dice de muchas maneras.</p>
+</blockquote>
+<p>- Aristóteles</p>
+<details class="note">
+<summary>Nota</summary>
+<ul>
+<li>Ser como concepto análogo<ul>
+<li>El ser es una palabra polisémica y categóricamente variable.</li>
+<li>Todo es atribuible, pero de diferentes formas</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>Sustancia primera<ul>
+<li>Sustancia segunda</li>
+<li>Accidente<ul>
+<li>Cualidad</li>
+<li>Cantidad</li>
+<li>Lugar</li>
+<li>Tiempo</li>
+<li>Acción</li>
+<li>Pasión</li>
+<li>Relación</li>
+<li>Posesión<br />
+```python<br />
+"""<br />
+X = sustancia primera / invariable<br />
+Y = sustancia segunda / invariable<br />
+Z = accidentes / variable<br />
+"""</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>Categorías del ser</p>
+<p>r = ["hombre", "animal", "planta", "mineral"]<br />
+s = {<br />
+    cualidad : "Qué color es" # rojo, verde, azul<br />
+    cantidad : "Cuánto es" # 1, 2, 3, 4, 5, 6, 7, 8, 9...<br />
+    lugar : "Dónde es" # en Atenas, en Grecia<br />
+    tiempo : "Cuándo es" # mañana, tarde, noche<br />
+    accion : "Qué hace" # pensar, caminar...<br />
+    pasion : "Qué afecta a" # es sentido, es juzgado...<br />
+    relacion : "De dónde es" # de Atenas, de Estagira<br />
+    posesion : "De quién es" # de Sócrates, de Platón<br />
+}<br />
+X = input("¿Quién es?")<br />
+Y = input("¿Qué es", X + "?")<br />
+if X = ["Sócrates", "Platón", "Aristóteles"]:<br />
+    while True:<br />
+        if Y == r[0]:<br />
+            print("\t 1.", X, "es", Y)<br />
+            break<br />
+        elif Y != r[0]:<br />
+            print("\t 1.", X, "no es", Y)<br />
+            print ("\t 2.", X, "es", r[0])<br />
+            break<br />
+        else:<br />
+            continue<br />
+    Y = r[0]<br />
+    n = 0<br />
+    for i in s:<br />
+        Z = input ("¿" + i, X + "?")<br />
+        print ("\t 3." +str(n), X, "es", Z)<br />
+        n += 1</p>
+<p>````</p>
+</li>
+<li>
+<p>Hilemorfismo</p>
+<ul>
+<li>Sustancia<ul>
+<li>Materia<ul>
+<li>Potencialidad</li>
+</ul>
+</li>
+<li>Forma<ul>
+<li>Actualidad</li>
+<li>Perfección</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Causa intrínseca<ul>
+<li>Causa material</li>
+<li>Causa formal</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Cambio<ul>
+<li>Sustancial<ul>
+<li>Alterar la sustancia segunda afecta la sustancia primera.</li>
+<li>Si la sustancia primera ya no es la sustancia segunda.</li>
+<li>Entonces la sustancia primera ya no es.</li>
+</ul>
+</li>
+<li>Accidental<ul>
+<li>Alterar el accidente no afecta la sustancia primera.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Las 4 causas</li>
+<li></li>
+</ul>
+</details>
+</div>
+<div class="admonition quote">
+<p class="admonition-title"><em>Discurso del método</em></p>
+<blockquote>
+<p>Pienso, luego existo (Cogito, ergo sum)</p>
+</blockquote>
+<p>- René Descartes</p>
+<details class="note">
+<summary>Nota</summary>
+<ol>
+<li>Duda metódica<ol>
+<li>Dudar de todo lo que es dudable.</li>
+<li>Si es, puede ser verdadero o falso.</li>
+<li>Por tanto, no se puede conocer.</li>
+</ol>
+</li>
+<li>Duda indudable.<ul>
+<li>No puede dudar de sí mismo.</li>
+<li>La misma duda no se duda.</li>
+<li>Dudar algo requiere afirmar la duda.</li>
+<li>Primera verdad epistémica.</li>
+</ul>
+</li>
+<li>Sustancia pensante<ul>
+<li>Todo acto es pensar.<ul>
+<li>Dudar es pensar.<ul>
+<li>Pensar es indudable.</li>
+<li>Pensar requiere existir primero.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Uno puede conocer la propia existencia bajo el acto de pensar. </li>
+</ol>
+</details>
+</div>
+<div class="admonition quote">
+<p class="admonition-title">Obra desconocida</p>
+<blockquote>
+<p>Todo ser nace sin razón, continúa por debilidad y muere por encuentro.</p>
+</blockquote>
+<p>- Jean-Paul Sartre</p>
+</div>
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "..", "features": [], "search": "../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.fe8b6f2b.min.js"></script>
+      
+    
+  </body>
+</html>
