@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home.md",
+                "file": "Knowledge/episteme/genre.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home.md",
+                "file": "Knowledge/episteme/genre.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -87,14 +87,6 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "a0b2fb411115f84a",
-            "type": "leaf",
-            "state": {
-              "type": "trash-explorer",
-              "state": {}
-            }
           }
         ]
       },
@@ -109,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home.md"
+                "file": "Knowledge/episteme/genre.md"
               }
             }
           }
@@ -132,7 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 200
   },
   "right": {
     "id": "bd075b5ed75b1aed",
@@ -160,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home.md",
+                "file": "Knowledge/episteme/genre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home.md",
+                "file": "Knowledge/episteme/genre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -230,46 +222,46 @@
       "digitalgarden:Digital Garden Publication Center": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
-      "remotely-save:Remotely Save": false,
-      "obsidian-trash-explorer:Open trash explorer": false
+      "remotely-save:Remotely Save": false
     }
   },
   "active": "b1c32a75387338ca",
   "lastOpenFiles": [
-    "changelog.md",
-    "home.md",
-    "Knowledge/techne/Obsidian.md/Obsidian Sync.md",
-    "Knowledge/techne/Obsidian.md/Obsidian Publish.md",
-    "ShareMyPlugin.md",
-    "rs-test-folder-nyX57KIde_rl5ss6fnole",
-    "Kanban/Untitled Kanban.md",
-    "Knowledge/techne/python/0. Introduction to Python.md",
-    "changelog (2).md",
-    "ShareMyPlugin (2).md",
-    "rs-test-folder-PZxpW2QdL-UpimafXtELC",
-    "Knowledge/mathema/Calculus.md",
-    "_fit/Obsidian.md/Obsidian Sync (2).md",
-    " (2).gitignore",
-    "rs-test-folder-WCAl5YmUPAwdJ8RtSNjDW",
     "rs-test-folder-PkZzati6nu9Dx6PmYOSii",
     "rs-test-folder-ai9iz6trDgZcxQ6I_3qyR",
-    "Knowledge/techne/python/3.2. Python Variables - Assign Multiple Values.md",
-    "Knowledge/techne/python/3. Python Variables .md",
-    "Knowledge/techne/python/3.1. Python Variable Names.md",
-    "Knowledge/techne/python/2. Python Comments.md",
-    "Knowledge/techne/HOW TOs/how to be digitally minimal.md",
-    "Knowledge/techne/python",
-    "Knowledge/techne/Obsidian.md",
-    "Knowledge/techne/HOW TOs",
+    "rs-test-folder-WCAl5YmUPAwdJ8RtSNjDW",
+    "Knowledge/episteme/CODE Model.md",
+    "Knowledge/episteme/genre.md",
+    "Knowledge/episteme/amor.md",
+    "Knowledge/episteme/History of the atomic model.md",
+    "Knowledge/episteme/anamnesis.md",
+    "Kanban/Untitled Kanban.md",
+    "Knowledge/episteme/History of the life.md",
     "Knowledge/episteme/Verbal Tense.md",
-    "Knowledge/episteme/wonder.md",
-    "Knowledge/episteme/saber.md",
-    "Knowledge/episteme/ser.md",
+    "Knowledge/episteme/Dictionarium.md",
+    "home.md",
     "Knowledge/episteme/Second Brain.md",
-    "Knowledge/episteme/OpenAI.md",
+    "systema dynamica",
+    "systema statica",
     "Knowledge/episteme/PARA Method.md",
-    "Knowledge/episteme/ollama.md",
-    "Knowledge/techne",
-    "Knowledge/mathema"
+    "Kanban",
+    "changelog.md",
+    "ShareMyPlugin.md",
+    "Sets/VocabulariumSet/Untitled 12.md",
+    "Sets/VocabulariumSet/Untitled 11.md",
+    "Sets/VocabulariumSet/Untitled 1.md",
+    "Sets/VocabulariumSet/sapientia.md",
+    "Sets/VocabulariumSet/VocabulariumSet.md",
+    "Sets/Types/vocabulariumType.md",
+    "Notion/Vocabularium/actu.md",
+    "Notion/Vocabularium/-aceus.md",
+    "Knowledge/techne/Obsidian.md/Obsidian Publish.md",
+    "Notion/Vocabularium/intercedĕre.md",
+    "Notion/Vocabularium/chlore.md",
+    "Notion/Vocabularium",
+    "Notion",
+    "dictionarium bdecc586ee634a6fbf6551846c391422_all.csv",
+    "83ee4376-91e6-46f2-8d26-fb0bdea0e8ae_Export-c09cedd3-8f82-4dce-ab25-9e9f708d2314.zip",
+    "Sets/VocabulariumSet"
   ]
 }

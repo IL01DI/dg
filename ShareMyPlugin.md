@@ -20,11 +20,12 @@
 - [⬇️](obsidian://SP-install?id=symbols-prettifier&enable=true) [**Symbols Prettifier**](https://obsidian.md/plugins?id=symbols-prettifier) by [*Florian Woelki*](https://florianwoelki.com) ^[This plugin allows you to prettify the symbols with actual symbols you commonly type, like arrows.]
 - [⬇️](obsidian://SP-install?id=unicode-search&enable=true) [**Unicode Search**](https://obsidian.md/plugins?id=unicode-search) by [*BambusControl*](https://github.com/BambusControl) ^[Search and insert Unicode characters into your editor]
 - [⬇️](obsidian://SP-install?id=obsidian-tidy-footnotes&enable=true) [**Tidy Footnotes**](https://obsidian.md/plugins?id=obsidian-tidy-footnotes) by [*Charlie Chao*](https://github.com/charliecm) ^[Tidy your footnotes seamlessly.]
-- [⬇️](obsidian://SP-install?id=sets&enable=true) [**Sets**](https://obsidian.md/plugins?id=sets) by [*Gabriele Cannata*](https://github.com/Canna71) ^[Create, edit and search sets of notes like Notion or AnyType DBs]
 - [⬇️](obsidian://SP-install?id=obsidian-hyphenation&enable=true) [**Hyphenation**](https://obsidian.md/plugins?id=obsidian-hyphenation) by [*Cassandra McCarthy*](https://github.com/7596ff) ^[Enables justified text and hyphenation]
 - [⬇️](obsidian://SP-install?id=avatar&enable=true) [**Avatar**](https://obsidian.md/plugins?id=avatar) by [*froehlichA*](https://github.com/froehlichA) ^[Display an avatar image in your notes.]
 - [⬇️](obsidian://SP-install?id=obsidian-vault-changelog&enable=true) [**Vault Changelog**](https://obsidian.md/plugins?id=obsidian-vault-changelog) by [*Badr Bouslikhin*](https://github.com/MrZeroo00) ^[Obsidian plugin to maintain a notes changelog in a vault]
 - [⬇️](obsidian://SP-install?id=share-my-plugin-list&enable=true) [**Share my plugin list**](https://obsidian.md/plugins?id=share-my-plugin-list) by [*Benature*](https://github.com/Benature) [☕️](https://www.buymeacoffee.com/benature)/[⚡️](https://afdian.net/a/Benature-K)/[♡](https://s2.loli.net/2024/01/30/jQ9fTSyBxvXRoOM.png) ^[Share the enabled plugins in list/table format.]
+- [⬇️](obsidian://SP-install?id=auto-note-mover&enable=true) [**Auto Note Mover**](https://obsidian.md/plugins?id=auto-note-mover) by [*faru*](https://github.com/farux/) ^[Auto Note Mover will automatically move the active notes to their respective folders according to the rules.]
+- [⬇️](obsidian://SP-install?id=obsidian-kanban&enable=true) [**Kanban**](https://obsidian.md/plugins?id=obsidian-kanban) by [*mgmeyers*](https://github.com/mgmeyers/obsidian-kanban) ^[Create markdown-backed Kanban boards in Obsidian.]
 
 
 

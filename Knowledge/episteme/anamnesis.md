@@ -2,6 +2,8 @@
 tags:
   - es
   - philosophia
+aliases:
+- recuerdo
 ---
 > [!quote] _Menón_, _Fedón_, _Fedro_
 >> Conocer es recordar.

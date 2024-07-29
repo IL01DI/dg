@@ -27,9 +27,7 @@
   "obsidian-kanban",
   "obsidian-tasks-plugin",
   "obsidian-plugin-groups",
+  "sheets",
   "ling-gloss",
-  "remotely-save",
-  "obsidian-trash-explorer",
-  "lovely-mindmap",
-  "optimize-canvas-connections"
+  "remotely-save"
 ]

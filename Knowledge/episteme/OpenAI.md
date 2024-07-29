@@ -1,4 +1,4 @@
-As stated in the official [OpenAI article](https://help.openai.com/en/articles/4936830-what-happens-after-i-use-my-free-tokens-or-the-3-months-is-up-in-the-free-trial):
+~~As stated in the official [OpenAI article](https://help.openai.com/en/articles/4936830-what-happens-after-i-use-my-free-tokens-or-the-3-months-is-up-in-the-free-trial)~~:[^1]
 
 > To explore and experiment with the API, all new users get $5 worth of free tokens. These tokens expire after 3 months.
 > 
@@ -6,4 +6,4 @@ As stated in the official [OpenAI article](https://help.openai.com/en/articles/
 > 
 > Please see the [pricing](https://openai.com/pricing) page for the latest information on pay-as-you-go pricing.
 
-However, the article is no longer available and OpenAI does not offer any reset token for free accounts. Therefore, I can't use OpenAI API.
+[^1]:The article is no longer available and OpenAI does not offer any reset token for free accounts. Therefore, I can't use OpenAI API for now.
