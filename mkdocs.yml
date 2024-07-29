@@ -26,16 +26,13 @@ theme:
 
 plugins:
     - search  # Material for MkDocs search plugin
-    - pub-debugger
     - pub-obsidian:
-        obsidian_dir: .obsidian
-        templates_dir: _templates
         callouts:
           enabled: true
           indentation: spaces
-        callouts:
+        comments:
           enabled: true
-          indentation: spaces
+          inject_as_html: false
         links:
           wikilinks_enabled: true
         vega:
