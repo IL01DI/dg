@@ -9,8 +9,10 @@
       
       
       
-        <link rel="prev" href="../how%20to%20be%20digitally%20minimal/">
+        <link rel="prev" href="../3.2.%20Python%20Variables%20-%20Assign%20Multiple%20Values/">
       
+      
+        <link rel="next" href="../Obsidian%20Sync/">
       
       
       <link rel="icon" href="../assets/images/favicon.png">
@@ -18,7 +20,7 @@
     
     
       
-        <title>Ser - L01D's MkDocs</title>
+        <title>Obsidian Publish - L01D's MkDocs</title>
       
     
     
@@ -101,7 +103,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Ser
+              Obsidian Publish
             
           </span>
         </div>
@@ -371,10 +373,17 @@
       
   
   
+    
   
   
-    <li class="md-nav__item">
-      <a href="../Obsidian%20Publish/" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         
   
   <span class="md-ellipsis">
@@ -383,6 +392,7 @@
   
 
       </a>
+      
     </li>
   
 
@@ -431,17 +441,10 @@
       
   
   
-    
   
   
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
-      
-      
-      
-      <a href="./" class="md-nav__link md-nav__link--active">
+    <li class="md-nav__item">
+      <a href="../ser/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -450,7 +453,6 @@
   
 
       </a>
-      
     </li>
   
 
@@ -486,7 +488,7 @@
                   
 
   
-    <a href="https://github.com/IL01DI/dg/edit/mkdocs/ser.md" title="Edit this page" class="md-content__button md-icon">
+    <a href="https://github.com/IL01DI/dg/edit/mkdocs/Obsidian Publish.md" title="Edit this page" class="md-content__button md-icon">
       
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 20H6V4h7v5h5v3.1l2-2V8l-6-6H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h4v-2m10.2-7c.1 0 .3.1.4.2l1.3 1.3c.2.2.2.6 0 .8l-1 1-2.1-2.1 1-1c.1-.1.2-.2.4-.2m0 3.9L14.1 23H12v-2.1l6.1-6.1 2.1 2.1Z"/></svg>
     </a>
@@ -495,240 +497,29 @@
     
       
     
-    <a href="https://github.com/IL01DI/dg/raw/mkdocs/ser.md" title="View source of this page" class="md-content__button md-icon">
+    <a href="https://github.com/IL01DI/dg/raw/mkdocs/Obsidian Publish.md" title="View source of this page" class="md-content__button md-icon">
       
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 18c.56 0 1 .44 1 1s-.44 1-1 1-1-.44-1-1 .44-1 1-1m0-3c-2.73 0-5.06 1.66-6 4 .94 2.34 3.27 4 6 4s5.06-1.66 6-4c-.94-2.34-3.27-4-6-4m0 6.5a2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5 2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5M9.27 20H6V4h7v5h5v4.07c.7.08 1.36.25 2 .49V8l-6-6H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h4.5a8.15 8.15 0 0 1-1.23-2Z"/></svg>
     </a>
   
 
 
-  <h1>Ser</h1>
+  <h1>Obsidian Publish</h1>
 
-<div class="highlight"><pre><span></span><code>Definición: Esencia
-</code></pre></div>
-<div class="admonition quote">
-<p class="admonition-title"><em>Sobre la naturaleza</em> (Derivada)</p>
-<blockquote>
-<p>Lo que es es, y lo que no es no es.</p>
-</blockquote>
-<p>- Parménides de Elea</p>
-<details class="note">
-<summary>Nota</summary>
+<div class="admonition warning">
+<p class="admonition-title">Requisites</p>
+<p>Assuming you already have:</p>
 <ul>
-<li>La verdad se esconde de las apariencias.<ol>
-<li>La experiencia engaña.</li>
-<li>El conocimiento no engaña.</li>
-<li>La sabiduría se basa en la razón lógica.</li>
-</ol>
-</li>
-<li>Lo que es <code>x</code> es <code>x</code>, y lo que no es <code>x</code> no es <code>x</code>.<ul>
-<li>PTE: <code>x</code> o es <code>x</code> o no es <code>x</code></li>
-<li>PI: <code>x</code> es <code>x</code></li>
-<li>PNC: <code>x</code> no es <code>no-x</code></li>
+<li>A <a href="https://github.com/signup">GitHub</a> account.</li>
+<li>A <a href="https://vercel.com/signup">Vercel</a> or Netlify account.</li>
+<li>An empty vault on mobile.</li>
 </ul>
-</li>
-<li>Ser como concepto unívoco<ul>
-<li>Son todos entre todos los que son.</li>
-<li>Lo que es sigue siendo lo que es</li>
-</ul>
-</li>
-<li>Unicidad del ser<ol>
-<li>Es uno lo que es.</li>
-<li>Si no fuera así, ¿cuál es la diferencia?</li>
-<li>No podría diferenciar entre lo que es con lo que es, ya que, en tanto que sean diferentes, es (continúa siendo lo que es y, por tanto, no es diferente de lo que es).</li>
-<li>Ni mucho menos aún podría diferenciar lo que no es con lo que no es, puesto que no es lo que no es.</li>
-</ol>
-</li>
-<li>
-<p>Eternidad del ser<br />
-    &gt;[!warning] Requisito<br />
-    &gt;- nada</p>
+</div>
+<p>The initial setup takes a couple of minutes, but when you're done you'll have a digital garden in which you are in control of every part of it, and can customize it as you see fit. Which is what makes digital gardens so delightful.</p>
 <ol>
-<li>Lo que es no puede no haber sido, ni puede no llegar a no ser.</li>
-<li>Si hubiera un origen, ¿cuándo y dónde habría dado lugar?<ul>
-<li>No puede proceder de lo que es, ya que no es un origen, siendo ya lo que es.</li>
-<li>No puede proceder de lo que no es, puesto que no es lo que no es.</li>
-</ul>
-</li>
-<li>¿Qué necesidad tiene que surgir tarde o temprano si viene de la nada?</li>
-<li>Pues así, es necesario que absolutamente sea, o que en absoluto no sea.</li>
+<li>Download and install the community plugin <a href="obsidian://show-plugin?id=digitalgarden">Digital Garden</a> in Obsidian.</li>
+<li>Open <a href="https://github.com/oleeskild/digitalgarden">this repo</a>, and click the blue "Deploy to Vercel" button if your hosting choice is Vercel. Otherwise, clone or fork it.</li>
 </ol>
-</li>
-<li>
-<p>Conservación del ser</p>
-<ol>
-<li>Si es movible lo que es, debería mover en alguna cosa; pero esta cosa, ¿es o no es?</li>
-<li>Si es, es lo que es en lo que es y no es movible.</li>
-<li>Por otro lado, no puede no ser, ya que no es lo que no es.</li>
-<li>Pero dejar de ser no es posible, puesto que sería aceptar lo que no es.</li>
-</ol>
-</li>
-<li>Identidad entre pensar y ser<ol>
-<li>Solo lo que es puede ser pensado, puesto que lo que no es, en tanto que no es, no puede ni tan solo ser concebido.<blockquote>
-<p>[!tip]+ Dato<br />
-Hay muy pocos detalles relacionados con esto los cuales se han preservado hasta ahora.</p>
-</blockquote>
-</li>
-</ol>
-</li>
-</ul>
-</details>
-</div>
-<div class="admonition quote">
-<p class="admonition-title"><em>Metafísica</em></p>
-<blockquote>
-<p>El ser se dice de muchas maneras.</p>
-</blockquote>
-<p>- Aristóteles</p>
-<details class="note">
-<summary>Nota</summary>
-<ul>
-<li>Ser como concepto análogo<ul>
-<li>El ser es una palabra polisémica y categóricamente variable.</li>
-<li>Todo es atribuible, pero de diferentes formas</li>
-</ul>
-</li>
-<li>
-<ul>
-<li>Sustancia primera<ul>
-<li>Sustancia segunda</li>
-<li>Accidente<ul>
-<li>Cualidad</li>
-<li>Cantidad</li>
-<li>Lugar</li>
-<li>Tiempo</li>
-<li>Acción</li>
-<li>Pasión</li>
-<li>Relación</li>
-<li>Posesión<br />
-```python<br />
-"""<br />
-X = sustancia primera / invariable<br />
-Y = sustancia segunda / invariable<br />
-Z = accidentes / variable<br />
-"""</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<p>Categorías del ser</p>
-<p>r = ["hombre", "animal", "planta", "mineral"]<br />
-s = {<br />
-    cualidad : "Qué color es" # rojo, verde, azul<br />
-    cantidad : "Cuánto es" # 1, 2, 3, 4, 5, 6, 7, 8, 9...<br />
-    lugar : "Dónde es" # en Atenas, en Grecia<br />
-    tiempo : "Cuándo es" # mañana, tarde, noche<br />
-    accion : "Qué hace" # pensar, caminar...<br />
-    pasion : "Qué afecta a" # es sentido, es juzgado...<br />
-    relacion : "De dónde es" # de Atenas, de Estagira<br />
-    posesion : "De quién es" # de Sócrates, de Platón<br />
-}<br />
-X = input("¿Quién es?")<br />
-Y = input("¿Qué es", X + "?")<br />
-if X = ["Sócrates", "Platón", "Aristóteles"]:<br />
-    while True:<br />
-        if Y == r[0]:<br />
-            print("\t 1.", X, "es", Y)<br />
-            break<br />
-        elif Y != r[0]:<br />
-            print("\t 1.", X, "no es", Y)<br />
-            print ("\t 2.", X, "es", r[0])<br />
-            break<br />
-        else:<br />
-            continue<br />
-    Y = r[0]<br />
-    n = 0<br />
-    for i in s:<br />
-        Z = input ("¿" + i, X + "?")<br />
-        print ("\t 3." +str(n), X, "es", Z)<br />
-        n += 1</p>
-<p>````</p>
-</li>
-<li>
-<p>Hilemorfismo</p>
-<ul>
-<li>Sustancia<ul>
-<li>Materia<ul>
-<li>Potencialidad</li>
-</ul>
-</li>
-<li>Forma<ul>
-<li>Actualidad</li>
-<li>Perfección</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Causa intrínseca<ul>
-<li>Causa material</li>
-<li>Causa formal</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Cambio<ul>
-<li>Sustancial<ul>
-<li>Alterar la sustancia segunda afecta la sustancia primera.</li>
-<li>Si la sustancia primera ya no es la sustancia segunda.</li>
-<li>Entonces la sustancia primera ya no es.</li>
-</ul>
-</li>
-<li>Accidental<ul>
-<li>Alterar el accidente no afecta la sustancia primera.</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Las 4 causas</li>
-<li></li>
-</ul>
-</details>
-</div>
-<div class="admonition quote">
-<p class="admonition-title"><em>Discurso del método</em></p>
-<blockquote>
-<p>Pienso, luego existo (Cogito, ergo sum)</p>
-</blockquote>
-<p>- René Descartes</p>
-<details class="note">
-<summary>Nota</summary>
-<ol>
-<li>Duda metódica<ol>
-<li>Dudar de todo lo que es dudable.</li>
-<li>Si es, puede ser verdadero o falso.</li>
-<li>Por tanto, no se puede conocer.</li>
-</ol>
-</li>
-<li>Duda indudable.<ul>
-<li>No puede dudar de sí mismo.</li>
-<li>La misma duda no se duda.</li>
-<li>Dudar algo requiere afirmar la duda.</li>
-<li>Primera verdad epistémica.</li>
-</ul>
-</li>
-<li>Sustancia pensante<ul>
-<li>Todo acto es pensar.<ul>
-<li>Dudar es pensar.<ul>
-<li>Pensar es indudable.</li>
-<li>Pensar requiere existir primero.</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Uno puede conocer la propia existencia bajo el acto de pensar. </li>
-</ol>
-</details>
-</div>
-<div class="admonition quote">
-<p class="admonition-title">Obra desconocida</p>
-<blockquote>
-<p>Todo ser nace sin razón, continúa por debilidad y muere por encuentro.</p>
-</blockquote>
-<p>- Jean-Paul Sartre</p>
-</div>
 
 
 
@@ -761,7 +552,7 @@ if X = ["Sócrates", "Platón", "Aristóteles"]:<br />
     <span class="md-icon" title="Created">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14.47 15.08 11 13V7h1.5v5.25l3.08 1.83c-.41.28-.79.62-1.11 1m-1.39 4.84c-.36.05-.71.08-1.08.08-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8c0 .37-.03.72-.08 1.08.69.1 1.33.32 1.92.64.1-.56.16-1.13.16-1.72 0-5.5-4.5-10-10-10S2 6.5 2 12s4.47 10 10 10c.59 0 1.16-.06 1.72-.16-.32-.59-.54-1.23-.64-1.92M18 15v3h-3v2h3v3h2v-3h3v-2h-3v-3h-2Z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">July 25, 2024</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">July 29, 2024</span>
   </span>
 
     
