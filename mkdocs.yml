@@ -46,4 +46,4 @@ markdown_extensions:
 
 plugins:
   - search
-  - roamlinks 
+  - pub-obsidian
