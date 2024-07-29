@@ -47,3 +47,16 @@ markdown_extensions:
 plugins:
   - search
   - pub-obsidian
+    callouts:
+      enabled: true
+      indentation: spaces
+    callouts:
+      enabled: true
+      indentation: spaces
+    links:
+      wikilinks_enabled: true
+      img_lazy: true
+    vega:
+      enabled: true
+      vega_schema: https://vega.github.io/schema/vega/v5.json
+      vega_lite_schema: https://vega.github.io/schema/vega-lite/v5.json
