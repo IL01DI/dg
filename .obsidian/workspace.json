@@ -11,13 +11,8 @@
             "id": "b1c32a75387338ca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "home.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             },
             "group": "50f0b27ec7eed46c"
           }
@@ -31,13 +26,8 @@
             "id": "1daaff19d1af7e32",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "home.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             },
             "group": "50f0b27ec7eed46c"
           }
@@ -71,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "key",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,9 +98,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "home.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,7 +148,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +194,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -231,45 +217,49 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
       "remotely-save:Remotely Save": false,
-      "obsidian-trash-explorer:Open trash explorer": false
+      "obsidian-trash-explorer:Open trash explorer": false,
+      "ob2static-site:Current file - Static Site MD Export": false,
+      "ob2static-site:All validate files - Static Site MD Export": false,
+      "ob2static-site:Trigger GitHub Action deploy": false,
+      "hugo-publish:hugo sync": false
     }
   },
   "active": "b1c32a75387338ca",
   "lastOpenFiles": [
-    "changelog.md",
+    "knowledge/techne/python/0. Introduction to Python.md",
+    "overrides/partials/comments.html",
+    "overrides/partials",
+    "overrides",
+    "mkdocs.yml",
+    "docs/Obsidian.md/Obsidian Sync.md",
+    "docs/Obsidian.md/Obsidian Publish.md",
+    "docs/Python/3.1. Python Variable Names.md",
+    "docs/Python/3.2. Python Variables - Assign Multiple Values.md",
+    "docs/Python/3. Python Variables .md",
+    "docs/Python/2. Python Comments.md",
+    "docs/Python/0. Introduction to Python.md",
+    "docs/HOW TOs/how to be digitally minimal.md",
+    "docs/index.md",
+    "docs/Obsidian.md",
+    "docs/Python",
+    "docs/HOW TOs",
+    "docs",
+    "knowledge/techne/HOW TOs/how to be digitally minimal.md",
+    "knowledge/techne/Obsidian.md/Obsidian Publish.md",
+    "knowledge/techne/Obsidian.md/Obsidian Sync.md",
+    "knowledge/techne/python/2. Python Comments.md",
+    "knowledge/techne/python/3. Python Variables .md",
+    "knowledge/techne/python/3.1. Python Variable Names.md",
+    "knowledge/techne/python/3.2. Python Variables - Assign Multiple Values.md",
     "home.md",
-    "Knowledge/techne/Obsidian.md/Obsidian Sync.md",
-    "Knowledge/techne/Obsidian.md/Obsidian Publish.md",
-    "ShareMyPlugin.md",
+    "knowledge/episteme/ser.md",
+    "knowledge/episteme/nothing.md",
+    "knowledge/episteme/History of the life.md",
+    "knowledge/episteme/identity.md",
+    "knowledge/episteme/History of the atomic model.md",
+    "knowledge/episteme/genre.md",
+    "FleetingNotesApp",
     "rs-test-folder-nyX57KIde_rl5ss6fnole",
-    "Kanban/Untitled Kanban.md",
-    "Knowledge/techne/python/0. Introduction to Python.md",
-    "changelog (2).md",
-    "ShareMyPlugin (2).md",
-    "rs-test-folder-PZxpW2QdL-UpimafXtELC",
-    "Knowledge/mathema/Calculus.md",
-    "_fit/Obsidian.md/Obsidian Sync (2).md",
-    " (2).gitignore",
-    "rs-test-folder-WCAl5YmUPAwdJ8RtSNjDW",
-    "rs-test-folder-PkZzati6nu9Dx6PmYOSii",
-    "rs-test-folder-ai9iz6trDgZcxQ6I_3qyR",
-    "Knowledge/techne/python/3.2. Python Variables - Assign Multiple Values.md",
-    "Knowledge/techne/python/3. Python Variables .md",
-    "Knowledge/techne/python/3.1. Python Variable Names.md",
-    "Knowledge/techne/python/2. Python Comments.md",
-    "Knowledge/techne/HOW TOs/how to be digitally minimal.md",
-    "Knowledge/techne/python",
-    "Knowledge/techne/Obsidian.md",
-    "Knowledge/techne/HOW TOs",
-    "Knowledge/episteme/Verbal Tense.md",
-    "Knowledge/episteme/wonder.md",
-    "Knowledge/episteme/saber.md",
-    "Knowledge/episteme/ser.md",
-    "Knowledge/episteme/Second Brain.md",
-    "Knowledge/episteme/OpenAI.md",
-    "Knowledge/episteme/PARA Method.md",
-    "Knowledge/episteme/ollama.md",
-    "Knowledge/techne",
-    "Knowledge/mathema"
+    "rs-test-folder-PZxpW2QdL-UpimafXtELC"
   ]
 }
