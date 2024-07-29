@@ -12,6 +12,7 @@ jobs:
       - uses: actions/checkout@v4
       - name: Configure Git Credentials
         run: |
+          git fetch origin gh-pages --depth=1
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
       - uses: actions/setup-python@v5
