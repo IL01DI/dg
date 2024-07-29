@@ -46,7 +46,7 @@ markdown_extensions:
 
 plugins:
   - search
-  - pub-obsidian
+  - pub-obsidian:
     obsidian_dir: .obsidian
     templates_dir: _templates
 
