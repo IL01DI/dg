@@ -32,8 +32,5 @@ markdown_extensions:
 
 plugins:
   - search
-  - pub-obsidian:
-      callouts:
-          enabled: true
-          indentation: spaces
+  - callouts
   - print-site
