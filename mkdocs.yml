@@ -2,7 +2,7 @@ site_name: L01D's MkDocs
 
 repo_url: https://github.com/IL01DI/dg
 repo_name: IL01DI/dg
-edit_uri: edit/main/
+edit_uri: edit/main/docs
 
 theme:
   name: material
