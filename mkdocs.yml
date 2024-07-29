@@ -48,12 +48,6 @@ plugins:
     - pub-obsidian:
         obsidian_dir: .obsidian
         templates_dir: _templates
-        callouts:
-          enabled: true
-          indentation: spaces
-        callouts:
-          enabled: true
-          indentation: spaces
         links:
           wikilinks_enabled: true
           img_lazy: true
