@@ -26,4 +26,5 @@ jobs:
             mkdocs-material-
       - run: pip install mkdocs-publisher
       - run: pip3 install mkdocs-print-site-plugin
+      - run: pip install --upgrade pip
       - run: mkdocs gh-deploy --force
