@@ -25,7 +25,5 @@ theme:
         name: Switch to system preference
 
 plugins:
-  - pub-obsidian:
-      callouts:
-        enabled: true
-        indentation: spaces
+  - pub-obsidian
+  - callouts
