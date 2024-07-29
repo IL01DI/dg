@@ -1,6 +1,7 @@
 ---
 tags: en
 dg-publish: true
+published: true
 ---
 
 > [!warning]
@@ -12,7 +13,7 @@ dg-publish: true
 |:-----------------------------------------------------------------------------:|:------:|:----:|:-------------------------------------:| -------------- | --------------------------- | ------------- | -------------- | -------------- |
 |       [Remotely Save](obsidian://show-plugin?id=remotely-save) [^1] ⭐        | 3.5/5  |  ✅  | Not implemented, but cloud integrated | ✅             | ♾️                          | ✅            | ✅             | ❌             |
 |     [Self-Hosted Live Sync](obsidian://show-plugin?id=obsidian-livesync)      | 3.5/5  |  ✅  |            Not implemented            | ✅             | ♾️                          | ✅            | ✅             | ❌             |
-|          [Obsidian Git](obsidian://show-plugin?id=obsidian-git)[^2]           | 3.5/5  |  ❌  | Not implemented, but cloud integrated | ✅             | ♾️                          | ✅            | ✅             | `.gitignore`   |
+|          [Obsidian Git](obsidian://show-plugin?id=obsidian-git) [^2]          | 3.5/5  |  ❌  | Not implemented, but cloud integrated | ✅             | ♾️                          | ✅            | ✅             | `.gitignore`   |
 |                     Obsidian Google Drive Auto Sync [^3]                      | 2.5/5  |  ❌  | Not implemented, but cloud integrated | ✅             | ♾️                          | ✅            | ❌             | ✅             |
 |                   [Fit](obsidian://show-plugin?id=fit) [^4]                   | 2.5/5  |  ❌  | Not implemented, but cloud integrated | ✅             | ♾️                          | ✅            | ❌             | `.gitignore`   |
 | [Fleeting Notes Sync](obsidian://show-plugin?id=fleeting-notes-obsidian) [^5] |  2/5   |  ✅  |                  ❌                   | ✅             | 1 in Fleeting Notes; but ♾️ | ✅            | ❌             | ✅             |

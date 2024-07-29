@@ -1,7 +1,7 @@
 ---
-lastSync: Fri Jul 26 2024 17:31:17 GMT+0200 (Central European Summer Time)
 tags: en
 dg-publish: true
+published: true
 ---
 
 > [!warning] Requisites

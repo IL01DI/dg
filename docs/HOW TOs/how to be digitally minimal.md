@@ -1,6 +1,7 @@
 ---
 tags:
   - en
+published: true
 ---
 
 This guide will reduce your number of accounts you have and also use alternative services or applications.
@@ -126,4 +127,3 @@ This guide will reduce your number of accounts you have and also use alternative
 [^4]: Not worth having Microsoft account when Google is your choice.
 [^5]: Unless you are looking into a full Apple Ecosystem.
 [^6]: Requires you to have additional non-providing iCloud email.
-

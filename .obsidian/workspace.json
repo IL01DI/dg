@@ -11,8 +11,6 @@
             "id": "b1c32a75387338ca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
             },
             "group": "50f0b27ec7eed46c"
           }
@@ -26,8 +24,6 @@
             "id": "1daaff19d1af7e32",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
             },
             "group": "50f0b27ec7eed46c"
           }
@@ -98,7 +94,6 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
             }
           }
         ]
@@ -220,37 +215,10 @@
       "obsidian-trash-explorer:Open trash explorer": false,
       "ob2static-site:Current file - Static Site MD Export": false,
       "ob2static-site:All validate files - Static Site MD Export": false,
-      "ob2static-site:Trigger GitHub Action deploy": false,
-      "hugo-publish:hugo sync": false
     }
   },
   "active": "b1c32a75387338ca",
   "lastOpenFiles": [
-    "knowledge/techne/python/0. Introduction to Python.md",
-    "overrides/partials/comments.html",
-    "overrides/partials",
-    "overrides",
-    "mkdocs.yml",
-    "docs/Obsidian.md/Obsidian Sync.md",
-    "docs/Obsidian.md/Obsidian Publish.md",
-    "docs/Python/3.1. Python Variable Names.md",
-    "docs/Python/3.2. Python Variables - Assign Multiple Values.md",
-    "docs/Python/3. Python Variables .md",
-    "docs/Python/2. Python Comments.md",
-    "docs/Python/0. Introduction to Python.md",
-    "docs/HOW TOs/how to be digitally minimal.md",
-    "docs/index.md",
-    "docs/Obsidian.md",
-    "docs/Python",
-    "docs/HOW TOs",
-    "docs",
-    "knowledge/techne/HOW TOs/how to be digitally minimal.md",
-    "knowledge/techne/Obsidian.md/Obsidian Publish.md",
-    "knowledge/techne/Obsidian.md/Obsidian Sync.md",
-    "knowledge/techne/python/2. Python Comments.md",
-    "knowledge/techne/python/3. Python Variables .md",
-    "knowledge/techne/python/3.1. Python Variable Names.md",
-    "knowledge/techne/python/3.2. Python Variables - Assign Multiple Values.md",
     "home.md",
     "knowledge/episteme/ser.md",
     "knowledge/episteme/nothing.md",
@@ -258,8 +226,18 @@
     "knowledge/episteme/identity.md",
     "knowledge/episteme/History of the atomic model.md",
     "knowledge/episteme/genre.md",
+    "knowledge/episteme/anamnesis.md",
+    "knowledge/episteme/abstracció.md",
+    "knowledge/episteme/BLM.md",
+    "knowledge/episteme/god.md",
+    "knowledge/episteme/CODE Model.md",
+    "knowledge/episteme/amor.md",
     "FleetingNotesApp",
-    "rs-test-folder-nyX57KIde_rl5ss6fnole",
-    "rs-test-folder-PZxpW2QdL-UpimafXtELC"
+    "changelog.md",
+    "ShareMyPlugin.md",
+    "Kanban/Untitled Kanban.md",
+    "Knowledge/techne/python",
+    "Knowledge/techne/HOW TOs",
+    "Knowledge/techne"
   ]
 }
