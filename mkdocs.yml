@@ -44,7 +44,9 @@ markdown_extensions:
   - toc:
       permalink: true
 plugins:
-    - search
+    - search  # Material for MkDocs search plugin
+    - pub-debugger
+    - pub-blog
     - pub-obsidian:
         obsidian_dir: .obsidian
         templates_dir: _templates
@@ -61,3 +63,6 @@ plugins:
           enabled: true
           vega_schema: https://vega.github.io/schema/vega/v5.json
           vega_lite_schema: https://vega.github.io/schema/vega-lite/v5.json
+    - pub-social
+    - pub-meta
+    - pub-minifier
