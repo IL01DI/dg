@@ -25,7 +25,6 @@ theme:
         name: Switch to system preference
 
 plugins:
-    - search  # Material for MkDocs search plugin
     - pub-obsidian:
         callouts:
           enabled: true
