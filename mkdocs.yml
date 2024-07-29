@@ -1,4 +1,4 @@
-site_name: L01D's Obsidian MkDocs
+site_name: L01D's MkDocs
 
 theme:
   name: material
@@ -43,23 +43,21 @@ markdown_extensions:
   # - admonition
   - toc:
       permalink: true
-
 plugins:
-  - search
-  - pub-obsidian:
-    obsidian_dir: .obsidian
-    templates_dir: _templates
-
-    callouts:
-      enabled: true
-      indentation: spaces
-    callouts:
-      enabled: true
-      indentation: spaces
-    links:
-      wikilinks_enabled: true
-      img_lazy: true
-    vega:
-      enabled: true
-      vega_schema: https://vega.github.io/schema/vega/v5.json
-      vega_lite_schema: https://vega.github.io/schema/vega-lite/v5.json
+    - search
+    - pub-obsidian:
+        obsidian_dir: .obsidian
+        templates_dir: _templates
+        callouts:
+          enabled: true
+          indentation: spaces
+        callouts:
+          enabled: true
+          indentation: spaces
+        links:
+          wikilinks_enabled: true
+          img_lazy: true
+        vega:
+          enabled: true
+          vega_schema: https://vega.github.io/schema/vega/v5.json
+          vega_lite_schema: https://vega.github.io/schema/vega-lite/v5.json
