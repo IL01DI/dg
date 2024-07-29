@@ -57,7 +57,6 @@ plugins:
           indentation: spaces
         links:
           wikilinks_enabled: true
-          img_lazy: true
         vega:
           enabled: true
           vega_schema: https://vega.github.io/schema/vega/v5.json
