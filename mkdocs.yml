@@ -26,6 +26,6 @@ theme:
 
 plugins:
   - pub-obsidian:
-    callouts:
-      enabled: true
-      indentation: spaces
+      callouts:
+        enabled: true
+        indentation: spaces
