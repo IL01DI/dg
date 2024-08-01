@@ -81,13 +81,16 @@ This guide will reduce your number of accounts you have and also use alternative
 # 7. Replacements
 
 > [!check] Recommended
-> - Notion:
+> - Notion or AnyType:
 >   - Writing App
 >   - Calendar
 >   - To-do list
 >   - Database
 >   - Document
-> - AnyType
+> - Bitwarden:
+> 	- PWM
+> 	- File Sharing
+> 	- Clipboard Manager
 
 # 8. Writing App
 

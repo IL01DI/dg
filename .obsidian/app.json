@@ -3,5 +3,8 @@
   "livePreview": false,
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "spellcheckDictionary": [
+    "essere"
+  ]
 }

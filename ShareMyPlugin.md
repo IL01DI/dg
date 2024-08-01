@@ -26,6 +26,7 @@
 - [⬇️](obsidian://SP-install?id=share-my-plugin-list&enable=true) [**Share my plugin list**](https://obsidian.md/plugins?id=share-my-plugin-list) by [*Benature*](https://github.com/Benature) [☕️](https://www.buymeacoffee.com/benature)/[⚡️](https://afdian.net/a/Benature-K)/[♡](https://s2.loli.net/2024/01/30/jQ9fTSyBxvXRoOM.png) ^[Share the enabled plugins in list/table format.]
 - [⬇️](obsidian://SP-install?id=auto-note-mover&enable=true) [**Auto Note Mover**](https://obsidian.md/plugins?id=auto-note-mover) by [*faru*](https://github.com/farux/) ^[Auto Note Mover will automatically move the active notes to their respective folders according to the rules.]
 - [⬇️](obsidian://SP-install?id=obsidian-kanban&enable=true) [**Kanban**](https://obsidian.md/plugins?id=obsidian-kanban) by [*mgmeyers*](https://github.com/mgmeyers/obsidian-kanban) ^[Create markdown-backed Kanban boards in Obsidian.]
+- [⬇️](obsidian://SP-install?id=obsidian-tasks-plugin&enable=true) [**Tasks**](https://obsidian.md/plugins?id=obsidian-tasks-plugin) by [*Martin Schenck and Clare Macrae*](https://github.com/obsidian-tasks-group) [♡](https://github.com/sponsors/claremacrae) ^[Track tasks across your vault. Supports due dates, recurring tasks, done dates, sub-set of checklist items, and filtering.]
 
 
 

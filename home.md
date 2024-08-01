@@ -3,7 +3,7 @@ dg-publish: true
 dg-home: true
 ---
 
-Welcome to my Digital Garden! For the best experience, I recommend you to download [my vault](https://github.com/IL01DI/dg) and check it out using [Obsidian](https://obsidian.md).
+Welcome to my Digital Garden! For the best experience, I recommend you to download [my vault](https://github.com/IL01DI/dg) and view it on [Obsidian](https://obsidian.md).
 
 # Organization
 

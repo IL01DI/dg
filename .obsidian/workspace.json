@@ -6,28 +6,55 @@
       {
         "id": "39acc397a0e2fcd0",
         "type": "tabs",
+        "dimension": 48.67841409691629,
         "children": [
           {
             "id": "b1c32a75387338ca",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "home.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             },
-            "group": "50f0b27ec7eed46c"
+            "group": "cf27dc31d55ce141"
           }
         ]
       },
       {
         "id": "771f9f9aec3a54ed",
         "type": "tabs",
+        "dimension": 51.32158590308371,
         "children": [
           {
-            "id": "1daaff19d1af7e32",
+            "id": "17d20a67b5f74bf9",
             "type": "leaf",
             "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://www.zompist.com/kitgram.html"
+              }
+            }
+          },
+          {
+            "id": "4dcfa1bb0df29e1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "home.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
             },
-            "group": "50f0b27ec7eed46c"
+            "group": "cf27dc31d55ce141"
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -57,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "key",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,6 +121,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "home.md"
+              }
             }
           }
         ]
@@ -143,6 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +207,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "121cdea3a1f54d41",
@@ -189,6 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -212,32 +245,51 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
       "remotely-save:Remotely Save": false,
-      "obsidian-trash-explorer:Open trash explorer": false,
-      "ob2static-site:Current file - Static Site MD Export": false,
-      "ob2static-site:All validate files - Static Site MD Export": false,
+      "obsidian-trash-explorer:Open trash explorer": false
     }
   },
   "active": "b1c32a75387338ca",
   "lastOpenFiles": [
-    "home.md",
-    "knowledge/episteme/ser.md",
-    "knowledge/episteme/nothing.md",
-    "knowledge/episteme/History of the life.md",
-    "knowledge/episteme/identity.md",
-    "knowledge/episteme/History of the atomic model.md",
-    "knowledge/episteme/genre.md",
-    "knowledge/episteme/anamnesis.md",
+    "docs/HOW TOs/how to be digitally minimal.md",
+    "docs/Documentation for Latina/4. Morphosyntax.md",
+    "docs/Documentation for Latina/3. Syntax.md",
+    "docs/Documentation for Latina/2. Morphology.md",
+    "docs/Documentation for Latina/1. Phonology.md",
+    "docs/Documentation for Latina/6. Semantic.md",
+    "docs/Documentation for Latina/5. Pragmatic.md",
+    "docs/Documentation for Latina/Classification.md",
+    "blog/behind Latina.md",
+    "docs/Documentation for Latina",
+    "knowledge/episteme/Latina.md",
+    "knowledge/episteme/gender.md",
+    "docs/HOW TOs/how to create a language.md",
+    "blog",
+    "docs/Obsidian.md/Obsidian Publish.md",
+    "FleetingNotesApp/START HERE.md",
+    "FleetingNotesApp/what are backlinks.md",
+    "FleetingNotesApp/how to sync notes with Obsidian.md",
+    "FleetingNotesApp/how to build connections in Fleeting Notes.md",
+    "knowledge/episteme/realitat.md",
+    "docs/Obsidian.md/Obsidian Sync.md",
+    "knowledge/episteme/veritat.md",
+    "assets/Pasted image 20240730103144.png",
+    "assets/Pasted image 20240730100738.png",
+    "assets/Pasted image 20240730100705.png",
+    "assets/5CAROmZpll-700.webp",
+    "assets",
+    "assets/BfxGAQpDcz-700.webp",
     "knowledge/episteme/abstracció.md",
-    "knowledge/episteme/BLM.md",
-    "knowledge/episteme/god.md",
-    "knowledge/episteme/CODE Model.md",
-    "knowledge/episteme/amor.md",
-    "FleetingNotesApp",
-    "changelog.md",
-    "ShareMyPlugin.md",
-    "Kanban/Untitled Kanban.md",
-    "Knowledge/techne/python",
-    "Knowledge/techne/HOW TOs",
-    "Knowledge/techne"
+    "kanban/Untitled Kanban.md",
+    "knowledge/techne/python/0. Introduction to Python.md",
+    "overrides/partials/comments.html",
+    "overrides/partials",
+    "overrides",
+    "mkdocs.yml",
+    "docs/Python/3.1. Python Variable Names.md",
+    "docs/Python/3.2. Python Variables - Assign Multiple Values.md",
+    "docs/Python/3. Python Variables .md",
+    "docs/Python",
+    "docs/HOW TOs",
+    "docs"
   ]
 }
