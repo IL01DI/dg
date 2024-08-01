@@ -1,0 +1,2225 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../3.%20Syntax/">
+      
+      
+        <link rel="next" href="../5.%20Pragmatic/">
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.0, mkdocs-material-9.5.30">
+    
+    
+      
+        <title>Noun - L01D's MkDocs</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.3cba04c6.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#noun" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="L01D&#39;s MkDocs" class="md-header__button md-logo" aria-label="L01D's MkDocs" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            L01D's MkDocs
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Noun
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme)" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m14.3 16-.7-2h-3.2l-.7 2H7.8L11 7h2l3.2 9h-1.9M20 8.69V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69m-9.15 3.96h2.3L12 9l-1.15 3.65Z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to system preference"  type="radio" name="__palette" id="__palette_2">
+    
+      <label class="md-header__button md-icon" title="Switch to system preference" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12c0-2.42-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/IL01DI/dg" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    IL01DI/dg
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="L01D&#39;s MkDocs" class="md-nav__button md-logo" aria-label="L01D's MkDocs" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    L01D's MkDocs
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/IL01DI/dg" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    IL01DI/dg
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Hello, World!
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Documentation for Latina
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Documentation for Latina
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../1.%20Phonology/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Consonants
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../2.%20Morphology/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2. Morphology
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../3.%20Syntax/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Word Order
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Noun
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Noun
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#case-system" class="md-nav__link">
+    <span class="md-ellipsis">
+      Case System
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Case System">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#nominative-case" class="md-nav__link">
+    <span class="md-ellipsis">
+      Nominative Case
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Nominative Case">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#function" class="md-nav__link">
+    <span class="md-ellipsis">
+      Function
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#usage" class="md-nav__link">
+    <span class="md-ellipsis">
+      Usage
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#examples" class="md-nav__link">
+    <span class="md-ellipsis">
+      Examples
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Examples">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#simple-sentence" class="md-nav__link">
+    <span class="md-ellipsis">
+      Simple Sentence
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#compound-sentence" class="md-nav__link">
+    <span class="md-ellipsis">
+      Compound Sentence
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#complex-sentence" class="md-nav__link">
+    <span class="md-ellipsis">
+      Complex Sentence
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#subject-in-questions" class="md-nav__link">
+    <span class="md-ellipsis">
+      Subject in Questions
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#subject-in-exclamations" class="md-nav__link">
+    <span class="md-ellipsis">
+      Subject in Exclamations
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#subject-in-commands" class="md-nav__link">
+    <span class="md-ellipsis">
+      Subject in Commands
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#subject-in-coordinated-sentences" class="md-nav__link">
+    <span class="md-ellipsis">
+      Subject in Coordinated Sentences
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#emphatic-subject" class="md-nav__link">
+    <span class="md-ellipsis">
+      Emphatic Subject
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#accusative-case" class="md-nav__link">
+    <span class="md-ellipsis">
+      Accusative Case
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#dative-case" class="md-nav__link">
+    <span class="md-ellipsis">
+      Dative Case
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#genitive-case" class="md-nav__link">
+    <span class="md-ellipsis">
+      Genitive Case
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#agreement" class="md-nav__link">
+    <span class="md-ellipsis">
+      Agreement
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Agreement">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#subject-verb-agreement" class="md-nav__link">
+    <span class="md-ellipsis">
+      Subject-Verb Agreement
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#noun-adjective-agreement" class="md-nav__link">
+    <span class="md-ellipsis">
+      Noun-Adjective Agreement
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../5.%20Pragmatic/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    5. Pragmatic
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../6.%20Semantic/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    6. Semantic
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    HOW TOs
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            HOW TOs
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../HOW%20TOs/how%20to%20be%20digitally%20minimal/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    How to be digitally minimal
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../HOW%20TOs/how%20to%20create%20a%20language/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    How to create a language
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Obsidian.md
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Obsidian.md
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Obsidian.md/Obsidian%20Publish/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Overview
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Obsidian.md/Obsidian%20Sync/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Obsidian Sync
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Python
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Python
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Python/0.%20Introduction%20to%20Python/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    What is Python?
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Python/2.%20Python%20Comments/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2. Python Comments
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Python/3.%20Python%20Variables%20/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Variables
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Python/3.1.%20Python%20Variable%20Names/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Variable Names
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Python/3.2.%20Python%20Variables%20-%20Assign%20Multiple%20Values/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Many Values to Multiple Variables
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#case-system" class="md-nav__link">
+    <span class="md-ellipsis">
+      Case System
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Case System">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#nominative-case" class="md-nav__link">
+    <span class="md-ellipsis">
+      Nominative Case
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Nominative Case">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#function" class="md-nav__link">
+    <span class="md-ellipsis">
+      Function
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#usage" class="md-nav__link">
+    <span class="md-ellipsis">
+      Usage
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#examples" class="md-nav__link">
+    <span class="md-ellipsis">
+      Examples
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Examples">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#simple-sentence" class="md-nav__link">
+    <span class="md-ellipsis">
+      Simple Sentence
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#compound-sentence" class="md-nav__link">
+    <span class="md-ellipsis">
+      Compound Sentence
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#complex-sentence" class="md-nav__link">
+    <span class="md-ellipsis">
+      Complex Sentence
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#subject-in-questions" class="md-nav__link">
+    <span class="md-ellipsis">
+      Subject in Questions
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#subject-in-exclamations" class="md-nav__link">
+    <span class="md-ellipsis">
+      Subject in Exclamations
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#subject-in-commands" class="md-nav__link">
+    <span class="md-ellipsis">
+      Subject in Commands
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#subject-in-coordinated-sentences" class="md-nav__link">
+    <span class="md-ellipsis">
+      Subject in Coordinated Sentences
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#emphatic-subject" class="md-nav__link">
+    <span class="md-ellipsis">
+      Emphatic Subject
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#accusative-case" class="md-nav__link">
+    <span class="md-ellipsis">
+      Accusative Case
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#dative-case" class="md-nav__link">
+    <span class="md-ellipsis">
+      Dative Case
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#genitive-case" class="md-nav__link">
+    <span class="md-ellipsis">
+      Genitive Case
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#agreement" class="md-nav__link">
+    <span class="md-ellipsis">
+      Agreement
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Agreement">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#subject-verb-agreement" class="md-nav__link">
+    <span class="md-ellipsis">
+      Subject-Verb Agreement
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#noun-adjective-agreement" class="md-nav__link">
+    <span class="md-ellipsis">
+      Noun-Adjective Agreement
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+    <a href="https://github.com/IL01DI/dg/edit/main/docs/Documentation for Latina/4. Morphosyntax.md" title="Edit this page" class="md-content__button md-icon">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 20H6V4h7v5h5v3.1l2-2V8l-6-6H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h4v-2m10.2-7c.1 0 .3.1.4.2l1.3 1.3c.2.2.2.6 0 .8l-1 1-2.1-2.1 1-1c.1-.1.2-.2.4-.2m0 3.9L14.1 23H12v-2.1l6.1-6.1 2.1 2.1Z"/></svg>
+    </a>
+  
+  
+    
+      
+    
+    <a href="https://github.com/IL01DI/dg/raw/main/docs/Documentation for Latina/4. Morphosyntax.md" title="View source of this page" class="md-content__button md-icon">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 18c.56 0 1 .44 1 1s-.44 1-1 1-1-.44-1-1 .44-1 1-1m0-3c-2.73 0-5.06 1.66-6 4 .94 2.34 3.27 4 6 4s5.06-1.66 6-4c-.94-2.34-3.27-4-6-4m0 6.5a2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5 2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5M9.27 20H6V4h7v5h5v4.07c.7.08 1.36.25 2 .49V8l-6-6H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h4.5a8.15 8.15 0 0 1-1.23-2Z"/></svg>
+    </a>
+  
+
+
+<h1 id="noun">Noun<a class="headerlink" href="#noun" title="Permanent link">&para;</a></h1>
+<h2 id="case-system">Case System<a class="headerlink" href="#case-system" title="Permanent link">&para;</a></h2>
+<p>Lingua Latina employs a case system to denote the grammatical roles of nouns within sentences. Each case has a specific function and is marked by distinct suffixes, which helps clarify the relationships between different parts of a sentence. This detailed description of each case includes its function, usage, and examples.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Case</strong></th>
+<th><strong>Function</strong></th>
+<th><strong>Marker</strong></th>
+<th><strong>Example</strong></th>
+<th><strong>Gloss</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Nominative</strong></td>
+<td>Subject of the sentence</td>
+<td>None</td>
+<td><em>lo rexo</em></td>
+<td>the king</td>
+</tr>
+<tr>
+<td><strong>Accusative</strong></td>
+<td>Direct object of the verb</td>
+<td><em>-a</em></td>
+<td><em>lo rexo miran lo-a arbor-a</em></td>
+<td>the king sees the tree</td>
+</tr>
+<tr>
+<td><strong>Dative</strong></td>
+<td>Indirect object, recipient</td>
+<td><em>-d</em></td>
+<td><em>lo rexo ad eio-d</em></td>
+<td>the king to him</td>
+</tr>
+<tr>
+<td><strong>Genitive</strong></td>
+<td>Possession or relationship</td>
+<td><em>-g</em></td>
+<td><em>lo rexo-g arbor</em></td>
+<td>the king's tree</td>
+</tr>
+</tbody>
+</table>
+<h3 id="nominative-case">Nominative Case<a class="headerlink" href="#nominative-case" title="Permanent link">&para;</a></h3>
+<h4 id="function">Function<a class="headerlink" href="#function" title="Permanent link">&para;</a></h4>
+<ul>
+<li><strong>Marks the subject of the sentence</strong>: The nominative case indicates who or what is performing the action or being described.</li>
+<li><strong>Focus on the subject</strong>: The subject is typically the noun or pronoun that is in focus or that performs the action of the verb.</li>
+<li><strong>Establishes the main topic</strong>: It establishes the main topic of the sentence and can be used to provide emphasis on the doer of the action.</li>
+</ul>
+<h4 id="usage">Usage<a class="headerlink" href="#usage" title="Permanent link">&para;</a></h4>
+<ul>
+<li><strong>Primary noun or pronoun</strong>: This case is used for the primary noun or pronoun in a sentence.</li>
+<li><strong>No marker</strong>: It does not have a marker, meaning the form of the noun remains unchanged.</li>
+<li><strong>Forming declarative sentences</strong>: The nominative case is crucial for forming declarative sentences and for identifying the actor in a sentence.</li>
+<li><strong>Highlighting the subject</strong>: It is used in both simple and complex sentences to highlight the subject.</li>
+<li><strong>Questions and exclamations</strong>: The nominative is also used in questions, exclamations, and in coordination to join subjects in compound sentences.</li>
+<li><strong>Commands and requests</strong>: In commands and requests, the nominative can be used for emphasis or when addressing the subject directly.</li>
+</ul>
+<h4 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h4>
+<h5 id="simple-sentence">Simple Sentence<a class="headerlink" href="#simple-sentence" title="Permanent link">&para;</a></h5>
+<ul>
+<li><em>lo rexo miran</em> (the king sees) - "lo rexo" is the subject performing the action of seeing.</li>
+</ul>
+<h5 id="compound-sentence">Compound Sentence<a class="headerlink" href="#compound-sentence" title="Permanent link">&para;</a></h5>
+<ul>
+<li><em>lo rexo miran et lo arbor floran</em> (the king sees and the tree blooms) - "lo rexo" and "lo arbor" are both subjects of their respective clauses.</li>
+</ul>
+<h5 id="complex-sentence">Complex Sentence<a class="headerlink" href="#complex-sentence" title="Permanent link">&para;</a></h5>
+<ul>
+<li><em>lo rexo, quo miran lo-a arbor-a, esse alto</em> (the king, who sees the tree, is tall) - "lo rexo" is the subject of the main clause, and also of the relative clause "quo miran lo-a arbor-a."</li>
+</ul>
+<h5 id="subject-in-questions">Subject in Questions<a class="headerlink" href="#subject-in-questions" title="Permanent link">&para;</a></h5>
+<ul>
+<li><em>lo rexo miran-q?</em> (does the king see?) - "lo rexo" is the subject of the interrogative sentence.</li>
+</ul>
+<h5 id="subject-in-exclamations">Subject in Exclamations<a class="headerlink" href="#subject-in-exclamations" title="Permanent link">&para;</a></h5>
+<ul>
+<li><em>lo rexo!</em> (The king!) - "lo rexo" stands as the subject in an exclamatory sentence, possibly implying surprise or calling attention.</li>
+</ul>
+<h5 id="subject-in-commands">Subject in Commands<a class="headerlink" href="#subject-in-commands" title="Permanent link">&para;</a></h5>
+<ul>
+<li><em>rexo, mira!</em> (King, see!) - "rexo" is used as a vocative form (although it is completely replaced by nominative), addressing the subject directly in an imperative sentence.</li>
+</ul>
+<h5 id="subject-in-coordinated-sentences">Subject in Coordinated Sentences<a class="headerlink" href="#subject-in-coordinated-sentences" title="Permanent link">&para;</a></h5>
+<ul>
+<li><em>lo rexo et la rexa miranz</em> (The king and the queen see) - "lo rexo" and "la rexa" are joined as subjects performing the action together.</li>
+</ul>
+<h5 id="emphatic-subject">Emphatic Subject<a class="headerlink" href="#emphatic-subject" title="Permanent link">&para;</a></h5>
+<ul>
+<li><em>lo rexo ipse miran</em> (The king himself sees) - "lo rexo" is emphasized as the subject performing the action, using "ipse" for added emphasis.</li>
+</ul>
+<hr />
+<h3 id="accusative-case">Accusative Case<a class="headerlink" href="#accusative-case" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>Function</strong>: Marks the direct object of the verb, which is the entity directly affected by the action. The accusative case answers the questions "what?" or "whom?" in relation to the verb.</li>
+<li><strong>Usage</strong>:<ul>
+<li>The accusative case is employed to show what is being acted upon by the subject. It is marked by the suffix <em>-a</em>, and it plays a critical role in clarifying the object of the action within the sentence structure.</li>
+<li>It is essential in differentiating the subject (the doer of the action) from the direct object (the receiver of the action).</li>
+</ul>
+</li>
+<li><strong>Examples</strong>:<ul>
+<li><em>lo rexo miran lo-a arbor-a</em> (the king sees the tree)<ul>
+<li>The tree (<em>arbor-a</em>) is the direct object of the action "sees" performed by the king (<em>lo rexo</em>).</li>
+</ul>
+</li>
+<li><em>eio donan lo-a libro-a</em> (he gives the book)<ul>
+<li>The book (<em>libro-a</em>), marked with <em>-a</em>, is the object being given, directly affected by the action of giving.</li>
+</ul>
+</li>
+<li><em>nos facen pan-a</em> (we make bread)<ul>
+<li>Bread (<em>pan-a</em>) is the direct object of the action "make" performed by us (<em>nos</em>).</li>
+</ul>
+</li>
+<li><em>ego-comedo pom-a</em> (I eat the apple)<ul>
+<li>The apple (<em>pom-a</em>) is the direct object of the action "eat" performed by me (<em>ego</em>).</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="dative-case">Dative Case<a class="headerlink" href="#dative-case" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>Function</strong>: Indicates the indirect object, typically the recipient or beneficiary of the action. This case answers the questions "to whom?" or "for whom?" in relation to the verb.</li>
+<li><strong>Usage</strong>:<ul>
+<li>The dative case is used to denote the recipient or benefactor of an action. It is marked by the suffix <em>-d</em>, and it often accompanies verbs that involve giving, sending, or showing.</li>
+<li>This case is crucial for expressing relationships where an entity receives or benefits from the action, adding clarity to the sentence by specifying who is indirectly affected by the action.</li>
+</ul>
+</li>
+<li><strong>Examples</strong>:<ul>
+<li><em>lo rexo ad eio-d</em> (the king to him)<ul>
+<li>"Him" (<em>eio-d</em>) is the indirect object receiving the king's action or benefit.</li>
+</ul>
+</li>
+<li><em>eio donan lo-a libro-a ad eia-d</em> (he gives the book to her)<ul>
+<li>"Her" (<em>eia-d</em>) is the recipient of the book, marked by <em>-d</em>, showing that she benefits from the giving action.</li>
+</ul>
+</li>
+<li><em>nos cantan ad amici-d</em> (we sing to the friend)<ul>
+<li>The friend (<em>amici-d</em>) is the indirect object receiving the action of singing.</li>
+</ul>
+</li>
+<li><em>ego scribo epistola-a ad mater-d</em> (I write a letter to mother)<ul>
+<li>"Mother" (<em>mater-d</em>) is the recipient of the letter, benefiting from the action of writing.</li>
+</ul>
+</li>
+<li><em>ei mittan lo-a flor-a ad tu-d</em> (they send the flower to you)<ul>
+<li>"You" (<em>tu-d</em>) is the recipient of the flower, marked by <em>-d</em>, indicating you benefit from the action of sending.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="genitive-case">Genitive Case<a class="headerlink" href="#genitive-case" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>Function</strong>: Shows possession or a relationship between nouns. It indicates that one noun belongs to or is associated with another. This case answers the question "whose?" in relation to the noun being described.</li>
+<li><strong>Usage</strong>: The genitive case is used to express ownership or a relationship between two entities. It is marked by the suffix <em>-g</em>, and it often appears in possessive constructions or to denote familial, partitive, or descriptive relationships.</li>
+<li><strong>Examples</strong>:<ul>
+<li><em>lo rexo-g arbor</em> (the king's tree) - The tree belongs to the king, with <em>-g</em> indicating possession.</li>
+<li><em>lo rexa-g domo</em> (the queen’s house) - The house is owned by the queen, with <em>-g</em> denoting the relationship of ownership.</li>
+</ul>
+</li>
+</ul>
+<hr />
+<h2 id="agreement">Agreement<a class="headerlink" href="#agreement" title="Permanent link">&para;</a></h2>
+<h3 id="subject-verb-agreement">Subject-Verb Agreement<a class="headerlink" href="#subject-verb-agreement" title="Permanent link">&para;</a></h3>
+<p>Verbs in Lingua Latina agree with their subjects in person and number, ensuring consistency within the sentence structure.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Subject</strong></th>
+<th><strong>Verb Form</strong></th>
+<th><strong>Gloss</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Singular</strong></td>
+<td><em>lo rexo miran</em></td>
+<td>The king sees</td>
+</tr>
+<tr>
+<td><strong>Plural</strong></td>
+<td><em>los rexos mirans</em></td>
+<td>The kings see</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><strong>Singular Example</strong>:<ul>
+<li><em>lo rexo miran</em> (The king sees)</li>
+</ul>
+</li>
+<li><strong>Plural Example</strong>:<ul>
+<li><em>los rexos mirans</em> (The kings see)</li>
+</ul>
+</li>
+</ul>
+<h3 id="noun-adjective-agreement">Noun-Adjective Agreement<a class="headerlink" href="#noun-adjective-agreement" title="Permanent link">&para;</a></h3>
+<p>Adjectives in Lingua Latina must agree with nouns in gender, number, and case, providing more precise descriptions.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Noun</strong></th>
+<th><strong>Adjective</strong></th>
+<th><strong>Gloss</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>lo alto arbor</em></td>
+<td><em>alto</em></td>
+<td>the tall tree</td>
+</tr>
+<tr>
+<td><em>los altos arbor</em></td>
+<td><em>alto</em></td>
+<td>the tall trees</td>
+</tr>
+<tr>
+<td><em>lo arbor alto</em></td>
+<td><em>alto</em></td>
+<td>the tree tall</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><strong>Before Noun</strong>:<ul>
+<li><em>lo alto arbor</em> (the tall tree)</li>
+</ul>
+</li>
+<li><strong>After Noun</strong>:<ul>
+<li><em>lo arbor alto</em> (the tree tall)</li>
+</ul>
+</li>
+<li><strong>Postpositive Modifier</strong>:<ul>
+<li><em>lo arbor lo alto</em> (the tree, the tall)</li>
+</ul>
+</li>
+</ul>
+<h1 id="verb">Verb<a class="headerlink" href="#verb" title="Permanent link">&para;</a></h1>
+<h2 id="tam-tense-aspect-mood">TAM (Tense-Aspect-Mood)<a class="headerlink" href="#tam-tense-aspect-mood" title="Permanent link">&para;</a></h2>
+<h3 id="tense">Tense<a class="headerlink" href="#tense" title="Permanent link">&para;</a></h3>
+<p>Tenses are indicated through specific markers or suffixes.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Tense</strong></th>
+<th><strong>Marker</strong></th>
+<th><strong>Example</strong></th>
+<th><strong>Gloss</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Present</td>
+<td>None</td>
+<td><em>mira</em></td>
+<td>sees</td>
+</tr>
+<tr>
+<td>Past</td>
+<td><em>-tu</em></td>
+<td><em>miratu</em></td>
+<td>saw</td>
+</tr>
+<tr>
+<td>Future</td>
+<td><em>-ru</em></td>
+<td><em>miraru</em></td>
+<td>will see</td>
+</tr>
+</tbody>
+</table>
+<h3 id="aspect">Aspect<a class="headerlink" href="#aspect" title="Permanent link">&para;</a></h3>
+<p>Aspects are indicated through specific markers to convey nuances of action.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Aspect</strong></th>
+<th><strong>Marker</strong></th>
+<th><strong>Example</strong></th>
+<th><strong>Gloss</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Perfect</td>
+<td><em>-lo</em></td>
+<td><em>miratu-lo</em></td>
+<td>has seen</td>
+</tr>
+<tr>
+<td>Progressive</td>
+<td><em>-lo</em></td>
+<td><em>mira-lo</em></td>
+<td>is seeing</td>
+</tr>
+<tr>
+<td>Pluperfect</td>
+<td><em>-lo-tu</em></td>
+<td><em>miratu-lo-tu</em></td>
+<td>had seen</td>
+</tr>
+<tr>
+<td>Future Perfect</td>
+<td><em>-lo</em> + Future Marker</td>
+<td><em>miraru-lo</em></td>
+<td>will have seen</td>
+</tr>
+</tbody>
+</table>
+<h3 id="mood">Mood<a class="headerlink" href="#mood" title="Permanent link">&para;</a></h3>
+<p>There is nothing here, still in progress.</p>
+<h3 id="aspectual">Aspectual<a class="headerlink" href="#aspectual" title="Permanent link">&para;</a></h3>
+<h4 id="habitual-aspect">Habitual Aspect<a class="headerlink" href="#habitual-aspect" title="Permanent link">&para;</a></h4>
+<p>Describes actions that occur regularly.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Base Form</strong></th>
+<th><strong>Habitual Form</strong></th>
+<th><strong>Gloss</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>mira</em></td>
+<td><em>miraru</em></td>
+<td>sees regularly</td>
+</tr>
+</tbody>
+</table>
+<h4 id="inchoative-aspect">Inchoative Aspect<a class="headerlink" href="#inchoative-aspect" title="Permanent link">&para;</a></h4>
+<p>Describes the beginning of an action.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Base Form</strong></th>
+<th><strong>Inchoative Form</strong></th>
+<th><strong>Gloss</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>mira</em></td>
+<td><em>miraru-lo</em></td>
+<td>begins to see</td>
+</tr>
+</tbody>
+</table>
+<h4 id="repetitive-aspect">Repetitive Aspect<a class="headerlink" href="#repetitive-aspect" title="Permanent link">&para;</a></h4>
+<p>Describes actions that are repeated or habitual.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Base Form</strong></th>
+<th><strong>Repetitive Form</strong></th>
+<th><strong>Gloss</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>mira</em></td>
+<td><em>miratu-tu</em></td>
+<td>sees repeatedly</td>
+</tr>
+</tbody>
+</table>
+<h4 id="frequentative-aspect">Frequentative Aspect<a class="headerlink" href="#frequentative-aspect" title="Permanent link">&para;</a></h4>
+<p>Describes actions that occur frequently.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Base Form</strong></th>
+<th><strong>Frequentative Form</strong></th>
+<th><strong>Gloss</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>mira</em></td>
+<td><em>miratu</em></td>
+<td>frequently sees</td>
+</tr>
+</tbody>
+</table>
+<h2 id="conjugation">Conjugation<a class="headerlink" href="#conjugation" title="Permanent link">&para;</a></h2>
+<p>There are no irregular verbs.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Tense</strong></th>
+<th><strong>Example</strong></th>
+<th><strong>Gloss</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Present</td>
+<td><em>mira</em></td>
+<td>sees</td>
+</tr>
+<tr>
+<td>Past</td>
+<td><em>miratu</em></td>
+<td>saw</td>
+</tr>
+<tr>
+<td>Future</td>
+<td><em>miraru</em></td>
+<td>will see</td>
+</tr>
+</tbody>
+</table>
+<h2 id="valency">Valency<a class="headerlink" href="#valency" title="Permanent link">&para;</a></h2>
+<h3 id="transitivity">Transitivity<a class="headerlink" href="#transitivity" title="Permanent link">&para;</a></h3>
+<p>Verbs may require or not require a direct object.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Example</strong></th>
+<th><strong>Gloss</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>lo rexo miran lo-a arbor-a</em></td>
+<td>The king sees the tree.</td>
+</tr>
+<tr>
+<td><em>lo rexo miran</em></td>
+<td>The king sees (it).</td>
+</tr>
+</tbody>
+</table>
+<h3 id="non-transitivity">Non-transitivity<a class="headerlink" href="#non-transitivity" title="Permanent link">&para;</a></h3>
+<p>Some verbs may not require a direct object.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Example</strong></th>
+<th><strong>Gloss</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>lo rexo miran</em></td>
+<td>The king sees.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="ditransitivity">Ditransitivity<a class="headerlink" href="#ditransitivity" title="Permanent link">&para;</a></h3>
+<p>Verbs requiring both a direct and an indirect object.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Example</strong></th>
+<th><strong>Gloss</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>lo rexo donan la-d rexa-d arbor-a lo-a miran</em></td>
+<td>The king gives the tree to the queen.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="voice">Voice<a class="headerlink" href="#voice" title="Permanent link">&para;</a></h2>
+<h3 id="active-voice">Active Voice<a class="headerlink" href="#active-voice" title="Permanent link">&para;</a></h3>
+<p>Default structure where the subject performs the action.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Example</strong></th>
+<th><strong>Gloss</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>lo rexo miran lo-a arbor-a</em></td>
+<td>The king sees the tree.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="passive-voice">Passive Voice<a class="headerlink" href="#passive-voice" title="Permanent link">&para;</a></h3>
+<p>Formed using a passive marker or changing the verb form.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Example</strong></th>
+<th><strong>Gloss</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>lo-a arbor-a miran lo rexo</em></td>
+<td>The tree is seen by the king.</td>
+</tr>
+<tr>
+<td><em>lo-a arbor-a miran-lo</em></td>
+<td>The tree is seen (by itself).</td>
+</tr>
+</tbody>
+</table>
+<h3 id="middle-voice">Middle Voice<a class="headerlink" href="#middle-voice" title="Permanent link">&para;</a></h3>
+<p>Formed using a middle marker to indicate an action performed for the subject’s benefit.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Example</strong></th>
+<th><strong>Gloss</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>lo rexo miran-lo</em></td>
+<td>The king sees for himself.</td>
+</tr>
+</tbody>
+</table>
+<h1 id="pronouns">Pronouns<a class="headerlink" href="#pronouns" title="Permanent link">&para;</a></h1>
+<h2 id="personal-pronouns">Personal Pronouns<a class="headerlink" href="#personal-pronouns" title="Permanent link">&para;</a></h2>
+<p>Pronouns are marked for case, number, and sometimes gender.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Case</strong></th>
+<th><strong>Singular</strong></th>
+<th><strong>Plural</strong></th>
+<th><strong>Gloss</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Nominative</td>
+<td><em>ego</em></td>
+<td><em>nos</em></td>
+<td>I / we</td>
+</tr>
+<tr>
+<td>Accusative</td>
+<td><em>ego-a</em></td>
+<td><em>nos-a</em></td>
+<td>me / us</td>
+</tr>
+<tr>
+<td>Dative</td>
+<td><em>ego-d</em></td>
+<td><em>nos-d</em></td>
+<td>to me / us</td>
+</tr>
+<tr>
+<td>Genitive</td>
+<td><em>ego-g</em></td>
+<td><em>nos-g</em></td>
+<td>my / our</td>
+</tr>
+</tbody>
+</table>
+<h2 id="demonstrative-pronouns">Demonstrative Pronouns<a class="headerlink" href="#demonstrative-pronouns" title="Permanent link">&para;</a></h2>
+<p>Used for pointing to specific entities.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Type</strong></th>
+<th><strong>Singular</strong></th>
+<th><strong>Plural</strong></th>
+<th><strong>Gloss</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Near</td>
+<td><em>ce</em></td>
+<td><em>ces</em></td>
+<td>this (nearby) / these (nearby)</td>
+</tr>
+<tr>
+<td>Far</td>
+<td><em>ne</em></td>
+<td><em>nes</em></td>
+<td>that (far) / those (far)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="reflexive-pronouns">Reflexive Pronouns<a class="headerlink" href="#reflexive-pronouns" title="Permanent link">&para;</a></h2>
+<p>Used when the subject and object are the same.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Case</strong></th>
+<th><strong>Singular</strong></th>
+<th><strong>Plural</strong></th>
+<th><strong>Gloss</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Reflexive</td>
+<td><em>egomet</em></td>
+<td><em>nosmets</em></td>
+<td>myself / ourselves</td>
+</tr>
+</tbody>
+</table>
+<h1 id="negation">Negation<a class="headerlink" href="#negation" title="Permanent link">&para;</a></h1>
+<h2 id="negation-in-statements">Negation in Statements<a class="headerlink" href="#negation-in-statements" title="Permanent link">&para;</a></h2>
+<p>Formed by using a negation particle or prefix.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Example</strong></th>
+<th><strong>Gloss</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>lo rexo non miran</em></td>
+<td>The king does not see.</td>
+</tr>
+<tr>
+<td><em>lo rexo no-miran</em></td>
+<td>The king does not see.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="negation-in-questions">Negation in Questions<a class="headerlink" href="#negation-in-questions" title="Permanent link">&para;</a></h2>
+<p>Formed by using a negation particle or changing the question form.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Example</strong></th>
+<th><strong>Gloss</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>lo rexo non miran-q</em></td>
+<td>Doesn’t the king see?</td>
+</tr>
+</tbody>
+</table>
+<h1 id="pronoun-affixation">Pronoun Affixation<a class="headerlink" href="#pronoun-affixation" title="Permanent link">&para;</a></h1>
+<h2 id="pronoun-affixation-to-verbs">Pronoun Affixation to Verbs<a class="headerlink" href="#pronoun-affixation-to-verbs" title="Permanent link">&para;</a></h2>
+<p>Pronouns may be affixed to verbs to indicate the subject or object.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Affix</strong></th>
+<th><strong>Example</strong></th>
+<th><strong>Gloss</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Subject (1<sup>st</sup> sg)</td>
+<td><em>miramu</em> (I see)</td>
+<td>I see</td>
+</tr>
+<tr>
+<td>Object (2<sup>nd</sup> pl)</td>
+<td><em>miranus</em> (you see)</td>
+<td>you see (plural)</td>
+</tr>
+</tbody>
+</table>
+<h1 id="derivational-morphology">Derivational Morphology<a class="headerlink" href="#derivational-morphology" title="Permanent link">&para;</a></h1>
+<h2 id="verb-derivation">Verb Derivation<a class="headerlink" href="#verb-derivation" title="Permanent link">&para;</a></h2>
+<p>Prefixes or suffixes modify the meaning of verbs.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Derivation</strong></th>
+<th><strong>Base Form</strong></th>
+<th><strong>Derived Form</strong></th>
+<th><strong>Gloss</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Causative</td>
+<td><em>mira</em></td>
+<td><em>mirara</em></td>
+<td>cause to see</td>
+</tr>
+<tr>
+<td>Inchoative</td>
+<td><em>mira</em></td>
+<td><em>miraru-lo</em></td>
+<td>begin to see</td>
+</tr>
+</tbody>
+</table>
+<h2 id="noun-derivation">Noun Derivation<a class="headerlink" href="#noun-derivation" title="Permanent link">&para;</a></h2>
+<p>Prefixes or suffixes modify the meaning of nouns.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Derivation</strong></th>
+<th><strong>Base Form</strong></th>
+<th><strong>Derived Form</strong></th>
+<th><strong>Gloss</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Agentive</td>
+<td><em>mirar</em></td>
+<td><em>mirador</em></td>
+<td>seer (one who sees)</td>
+</tr>
+<tr>
+<td>Locative</td>
+<td><em>arbor</em></td>
+<td><em>arborin</em></td>
+<td>in the tree</td>
+</tr>
+</tbody>
+</table>
+<h1 id="adjective-derivation">Adjective Derivation<a class="headerlink" href="#adjective-derivation" title="Permanent link">&para;</a></h1>
+<h2 id="adjective-formation">Adjective Formation<a class="headerlink" href="#adjective-formation" title="Permanent link">&para;</a></h2>
+<p>Adjectives can be formed from nouns or verbs.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Derivation</strong></th>
+<th><strong>Base Form</strong></th>
+<th><strong>Derived Form</strong></th>
+<th><strong>Gloss</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>From Noun</td>
+<td><em>alto</em></td>
+<td><em>altor</em></td>
+<td>tall (tallness)</td>
+</tr>
+<tr>
+<td>From Verb</td>
+<td><em>mira</em></td>
+<td><em>miral</em></td>
+<td>seeing (sight)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="adjective-comparison">Adjective Comparison<a class="headerlink" href="#adjective-comparison" title="Permanent link">&para;</a></h2>
+<p>Formed using specific comparative or superlative markers.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Degree</strong></th>
+<th><strong>Marker</strong></th>
+<th><strong>Example</strong></th>
+<th><strong>Gloss</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Comparative</td>
+<td><em>-lor</em></td>
+<td><em>alto-lor</em></td>
+<td>taller</td>
+</tr>
+<tr>
+<td>Superlative</td>
+<td><em>-mas</em></td>
+<td><em>alto-mas</em></td>
+<td>tallest</td>
+</tr>
+</tbody>
+</table>
+<h1 id="imperatives">Imperatives<a class="headerlink" href="#imperatives" title="Permanent link">&para;</a></h1>
+<h2 id="affirmative-imperatives">Affirmative Imperatives<a class="headerlink" href="#affirmative-imperatives" title="Permanent link">&para;</a></h2>
+<p>Formed using the base form of the verb.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Example</strong></th>
+<th><strong>Gloss</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>mira!</em></td>
+<td>See!</td>
+</tr>
+<tr>
+<td><em>mira-lo!</em></td>
+<td>See (progressively)!</td>
+</tr>
+</tbody>
+</table>
+<h2 id="negative-imperatives">Negative Imperatives<a class="headerlink" href="#negative-imperatives" title="Permanent link">&para;</a></h2>
+<p>Formed by adding a negation particle.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Example</strong></th>
+<th><strong>Gloss</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>non mira!</em></td>
+<td>Do not see!</td>
+</tr>
+</tbody>
+</table>
+<h1 id="modifiers">Modifiers<a class="headerlink" href="#modifiers" title="Permanent link">&para;</a></h1>
+<h2 id="adjectival-modifiers">Adjectival Modifiers<a class="headerlink" href="#adjectival-modifiers" title="Permanent link">&para;</a></h2>
+<p>Adjectives and descriptive phrases can vary in position to provide emphasis or detail.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Order</strong></th>
+<th><strong>Example</strong></th>
+<th><strong>Gloss</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Before Noun</strong></td>
+<td><em>lo alto arbor</em></td>
+<td>the tall tree</td>
+</tr>
+<tr>
+<td><strong>After Noun</strong></td>
+<td><em>lo arbor alto</em></td>
+<td>the tree tall</td>
+</tr>
+<tr>
+<td><strong>Postpositive Modifier</strong></td>
+<td><em>lo arbor lo alto</em></td>
+<td>the tree, the tall</td>
+</tr>
+</tbody>
+</table>
+<h2 id="adverbial-modifiers">Adverbial Modifiers<a class="headerlink" href="#adverbial-modifiers" title="Permanent link">&para;</a></h2>
+<p>Adverbs can also vary in position within verb phrases.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Order</strong></th>
+<th><strong>Example</strong></th>
+<th><strong>Gloss</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Before Verb</strong></td>
+<td><em>lo rexo clared miran</em></td>
+<td>The king clearly sees.</td>
+</tr>
+<tr>
+<td><strong>After Verb</strong></td>
+<td><em>lo rexo miran clared</em></td>
+<td>The king sees clearly.</td>
+</tr>
+<tr>
+<td><strong>Mid-Verb</strong></td>
+<td><em>lo rexo miran clared</em></td>
+<td>The king sees clearly.</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+  
+    
+  
+  
+    
+  
+
+
+  <aside class="md-source-file">
+    
+      
+  <span class="md-source-file__fact">
+    <span class="md-icon" title="Last update">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1-2.1-2M12.5 7v5.2l4 2.4-1 1L11 13V7h1.5M11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2v1.8Z"/></svg>
+    </span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">August 1, 2024</span>
+  </span>
+
+    
+    
+      
+  <span class="md-source-file__fact">
+    <span class="md-icon" title="Created">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14.47 15.08 11 13V7h1.5v5.25l3.08 1.83c-.41.28-.79.62-1.11 1m-1.39 4.84c-.36.05-.71.08-1.08.08-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8c0 .37-.03.72-.08 1.08.69.1 1.33.32 1.92.64.1-.56.16-1.13.16-1.72 0-5.5-4.5-10-10-10S2 6.5 2 12s4.47 10 10 10c.59 0 1.16-.06 1.72-.16-.32-.59-.54-1.23-.64-1.92M18 15v3h-3v2h3v3h2v-3h3v-2h-3v-3h-2Z"/></svg>
+    </span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">August 1, 2024</span>
+  </span>
+
+    
+    
+    
+      
+  <span class="md-source-file__fact">
+    
+      
+  <span class="md-icon" title="Contributors">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2A10 10 0 0 0 2 12c0 4.42 2.87 8.17 6.84 9.5.5.08.66-.23.66-.5v-1.69c-2.77.6-3.36-1.34-3.36-1.34-.46-1.16-1.11-1.47-1.11-1.47-.91-.62.07-.6.07-.6 1 .07 1.53 1.03 1.53 1.03.87 1.52 2.34 1.07 2.91.83.09-.65.35-1.09.63-1.34-2.22-.25-4.55-1.11-4.55-4.92 0-1.11.38-2 1.03-2.71-.1-.25-.45-1.29.1-2.64 0 0 .84-.27 2.75 1.02.79-.22 1.65-.33 2.5-.33.85 0 1.71.11 2.5.33 1.91-1.29 2.75-1.02 2.75-1.02.55 1.35.2 2.39.1 2.64.65.71 1.03 1.6 1.03 2.71 0 3.82-2.34 4.66-4.57 4.91.36.31.69.92.69 1.85V21c0 .27.16.59.67.5C19.14 20.16 22 16.42 22 12A10 10 0 0 0 12 2Z"/></svg>
+  </span>
+  <span>GitHub</span>
+
+    
+    <nav>
+      
+        <a href="https://github.com/IL01DI" class="md-author" title="@IL01DI">
+          
+          <img src="https://avatars.githubusercontent.com/u/45131480?v=4&size=72" alt="IL01DI">
+        </a>
+      
+      
+      
+    </nav>
+  </span>
+
+    
+  </aside>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["content.action.edit", "content.action.view"], "search": "../../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.fe8b6f2b.min.js"></script>
+      
+    
+  </body>
+</html>
