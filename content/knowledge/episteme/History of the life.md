@@ -4,7 +4,6 @@ tags:
 - biologia
 - philosophia
 ---
-
 # Origin and evolution of the life
 ## Spontaneous generation
 ### The rise of the spontaneous generation

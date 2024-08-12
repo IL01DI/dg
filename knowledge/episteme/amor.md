@@ -1,6 +1,0 @@
----
-tags:
-- ca
-- philologia
-- philosophia
----

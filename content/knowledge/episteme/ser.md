@@ -11,6 +11,11 @@ dg-publish: true
 Definición: Esencia
 ```
 
+> [!quote] _Gospel of John, Four Evangelists, Nuevo Testamento, Bíblia_
+>> Yo soy
+>
+> \- Autoría desconocida
+
 >[!quote] _Sobre la naturaleza_ (Derivada)
 >>Lo que es es, y lo que no es no es.
 >
@@ -20,10 +25,10 @@ Definición: Esencia
 >>	1. La experiencia engaña.
 >>	2. El conocimiento no engaña.
 >>	3. La sabiduría se basa en la razón lógica.
->>- Lo que es `x` es `x`, y lo que no es `x` no es ` x `.
+>>- Lo que es `x` es `x`, y lo que no es `x` es no ` x `.
 >>	- PTE: `x` o es `x` o no es `x`
 >>	- PI: `x` es `x`
->>	- PNC: `x` no es `no-x`
+>>	- PNC: `x` no es no `x`
 >>- Ser como concepto unívoco
 >>	- Son todos entre todos los que son.
 >>	- Lo que es sigue siendo lo que es
@@ -50,6 +55,11 @@ Definición: Esencia
 >>	1. Solo lo que es puede ser pensado, puesto que lo que no es, en tanto que no es, no puede ni tan solo ser concebido.
 >>	>[!tip]+ Dato
 >>	> Hay muy pocos detalles relacionados con esto los cuales se han preservado hasta ahora.
+
+> [!quote] [_Historia de la filosofía griega_, (Gredos, Madrid vol. II, p. 116)](https://www.wikisofia.cat/wiki/Recurs:Cita_de_Melissos_de_Samos)
+>> Más plenamente en una dirección no es, lo cual impediría su cohesión (o el ser continuo), ni más débilmente en otra, sino que todo está lleno de lo que es.
+>
+> \- Melissos de Samos (y citado de W.K.C. Guthrie)
 
 >[!quote] _Metafísica_
 > >El ser se dice de muchas maneras.
@@ -155,3 +165,6 @@ Definición: Esencia
 >>Todo ser nace sin razón, continúa por debilidad y muere por encuentro.
 >
 >\- Jean-Paul Sartre
+
+Sócrates: Ante todo
+Platón:

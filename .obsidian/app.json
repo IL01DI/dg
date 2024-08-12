@@ -3,8 +3,10 @@
   "livePreview": false,
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "spellcheckDictionary": [
-    "essere"
-  ]
+    "essere",
+    "libri"
+  ],
+  "rightToLeft": false
 }
