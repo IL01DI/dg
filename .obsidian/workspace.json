@@ -6,51 +6,42 @@
       {
         "id": "39acc397a0e2fcd0",
         "type": "tabs",
+        "dimension": 55.042735042735046,
         "children": [
-          {
-            "id": "bd27fa77f7a790f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Documentation for Latina/3. Syntax.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            },
-            "group": "9fffa3afc99394a2"
-          },
           {
             "id": "b1c32a75387338ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/life management/time/game.md",
+                "file": "content/opus/In Natura.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
-            }
+            },
+            "group": "6d0235b8007c8680"
           },
           {
-            "id": "f8a5be2789b336d9",
+            "id": "3c63f7ba80d090a9",
             "type": "leaf",
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://www.reddit.com/r/conlangs/comments/k4djep/the_strange_declension_of_kiba/"
+                "url": "https://dcc.dickinson.edu/grammar/latin/parts-speech"
               }
             }
           },
           {
-            "id": "740dc6e9bb6bb7b3",
+            "id": "2b4aa6e4086cedbe",
             "type": "leaf",
             "state": {
-              "type": "surfing-view",
+              "type": "markdown",
               "state": {
-                "url": "https://www.wordreference.com/redirect/translation.aspx?w=rule&dict=enes"
+                "file": "content/opus/Documentation for Latina - Copy/4. Morphosyntax.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -59,60 +50,21 @@
       {
         "id": "36f4d8690de152c0",
         "type": "tabs",
+        "dimension": 44.95726495726496,
         "children": [
           {
-            "id": "5eb2d4e72008eaea",
+            "id": "fb1435d0d4a94702",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Documentation for Latina/3. Syntax.md",
+                "file": "content/opus/In Natura.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             },
-            "group": "9fffa3afc99394a2"
-          },
-          {
-            "id": "dd28aa3d8071cc8a",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://forum.obsidian.md/t/75-types-of-notes-you-can-make-in-obsidian/81060"
-              }
-            }
-          },
-          {
-            "id": "98cc1d999ab0dfd4",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://obsidian.md/publish"
-              }
-            }
-          },
-          {
-            "id": "c28b5d3e81c60668",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://stephanlevin.garden/Welcome"
-              }
-            }
-          },
-          {
-            "id": "d21d7b875d7d22c5",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://sive.rs/u"
-              }
-            }
+            "group": "6d0235b8007c8680"
           }
         ]
       }
@@ -126,7 +78,7 @@
       {
         "id": "ece00f856e04139a",
         "type": "tabs",
-        "dimension": 36.21890547263681,
+        "dimension": 36.21890547263683,
         "children": [
           {
             "id": "9ccf6ecc4f765ace",
@@ -144,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#en",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Documentation for Latina/3. Syntax.md"
+                "file": "content/opus/In Natura.md"
               }
             }
           }
@@ -183,7 +135,7 @@
       {
         "id": "e33796f81b0ead63",
         "type": "tabs",
-        "dimension": 19.90049751243781,
+        "dimension": 19.900497512437816,
         "children": [
           {
             "id": "dabbe6dc0b70414d",
@@ -197,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 272.5,
+    "collapsed": true
   },
   "right": {
     "id": "bd075b5ed75b1aed",
@@ -206,7 +159,7 @@
       {
         "id": "49ab74cfce4d7b1f",
         "type": "tabs",
-        "dimension": 56.9113441372736,
+        "dimension": 35.49618320610687,
         "children": [
           {
             "id": "2dd5e5e73b7baec9",
@@ -225,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Documentation for Latina/3. Syntax.md",
+                "file": "content/opus/In Natura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +194,7 @@
       {
         "id": "ded4413e5b7de14c",
         "type": "tabs",
-        "dimension": 24.022878932316488,
+        "dimension": 26.52671755725191,
         "children": [
           {
             "id": "24bdef53fcbaac13",
@@ -259,12 +212,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "121cdea3a1f54d41",
         "type": "tabs",
-        "dimension": 19.065776930409918,
+        "dimension": 37.97709923664122,
         "children": [
           {
             "id": "97d9d5610aa7ee91",
@@ -272,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Documentation for Latina/3. Syntax.md",
+                "file": "content/opus/In Natura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -301,48 +255,48 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "bd27fa77f7a790f3",
+  "active": "b1c32a75387338ca",
   "lastOpenFiles": [
+    "content/opus/Documentation for Latina - Copy/4. Morphosyntax.md",
+    "content/opus/In Natura.md",
+    "docs/Documentation for Latina/2. Parts of Speech.md",
+    "changelog.md",
+    "docs/Documentation for Latina/3. Word Order.md",
+    "home.md",
+    "content/opus",
+    "docs/Translation",
+    "content/opus/Documentation for Latina - Copy/3. Syntax.md",
+    "content/opus/Documentation for Latina - Copy/2. Morphology.md",
+    "content/knowledge/episteme/substància.md",
+    "docs/Documentation for Latina/1. Pronunciation.md",
+    "content/life management/time/game.md",
     "docs/Documentation for Latina/3. Syntax.md",
+    "content/opus/Documentation for Latina - Copy/7. Examples.md",
+    "content/opus/Documentation for Latina - Copy/6. Semantic.md",
+    "content/opus/Documentation for Latina - Copy/5. Pragmatic.md",
+    "content/opus/Documentation for Latina - Copy/1. Phonology.md",
+    "content/opus/Documentation for Latina - Copy",
     "docs/Documentation for Latina/4. Morphosyntax.md",
     "docs/Documentation for Latina/2. Morphology.md",
     "docs/Documentation for Latina/1. Phonology.md",
-    "content/life management/time/game.md",
-    "docs/Documentation for Latina/5. Pragmatic.md",
+    "docs/Documentation for Latina/7. Examples.md",
     "docs/Documentation for Latina/6. Semantic.md",
-    "content/knowledge/episteme/veritat.md",
-    "home.md",
-    "content/knowledge/episteme/déu.md",
-    "content/knowledge/episteme/ànima.md",
-    "content/knowledge/episteme/Aristoteles.md",
-    "content/life management/kanban/template.md",
-    "content/knowledge/episteme/motion.md",
-    "content/about/about me.md",
+    "docs/Documentation for Latina/5. Pragmatic.md",
+    "docs/Documentation for English/2. Morphology.md",
+    "docs/Documentation for English/3. Syntax.md",
+    "docs/Documentation for English/1. Phonology.md",
+    "docs/Documentation for English/6. Semantic.md",
+    "docs/Documentation for English",
     "content/about",
-    "main.md",
     "content",
-    "docs/Obsidian.md/Obsidian Sync.md",
-    "_fit/Obsidian.md/Obsidian Sync (2).md",
     "content/life management",
-    "content/life management/kanban/game.md",
-    "content/blog/behind Latina.md",
-    "content/knowledge/episteme/vida.md",
-    "content/knowledge/episteme/Verbal Tense.md",
-    "content/knowledge/episteme/PARA Method.md",
-    "content/knowledge/episteme/OpenAI.md",
-    "content/knowledge/episteme/ollama.md",
-    "content/knowledge/episteme/mar.md",
     "content/life management/time",
     "content/life management/config",
     "content/knowledge/techne",
-    "docs/Documentation for Latina",
-    "content/blog",
     "content/assets/Pasted image 20240730103144.png",
     "content/assets/Pasted image 20240730100738.png",
     "content/assets/Pasted image 20240730100705.png",
     "content/assets/5CAROmZpll-700.webp",
-    "content/assets",
-    "content/assets/BfxGAQpDcz-700.webp",
-    "overrides/partials/comments.html"
+    "content/assets/BfxGAQpDcz-700.webp"
   ]
 }

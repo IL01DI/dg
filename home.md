@@ -44,4 +44,9 @@ I tag notes based on which…
 - inquiry relates (whether is science, philosophy, or art).
 - branch relates.
 
+## Plugins
+
+Better Word Count is deprecated. 
+
+
 [^1]: I'm multilingual, btw.

@@ -1,5 +1,6 @@
 {
   "enabledCssSnippets": [
     "awesome-brain-manager"
-  ]
+  ],
+  "baseFontSizeAction": true
 }
