@@ -5,20 +5,20 @@
 
 \gla Ἵπποι ταί με φέρουσιν ὅσον τ΄ ἐπὶ θυμὸς ἱκάνοι
 
-\glb horse-NOM.s the-F.NOM.PL me carri-ed.DAT.PL [as much as] and to(wards) soul-NOM:SG sufficient-M.NOM.PL
+\glb horse-NOM.s the-F.NOM.PL me carry-ing.DAT.PL [as much as] and to(wards) soul-NOM.SG sufficient-M.NOM.PL
 
-\glc equu-s.es l-a.s.es me fer-tu.n.es quantum et ad anima-s sufficient-o.s.es
+\glc equu-s.es l-a.s.es me fer-nte.n.es quantum et ad anima-s.e sufficient-o.s.es
 # Seems like "θυμὸς ἱκάνοι" are both nominatives when it should be under the other case by the preposition "ἐπὶ". In which case is not an error, but the phrase "ὅσον τ΄ ἐπὶ θυμὸς ἱκάνοι" seems to be another subject, so it nullifies the possibility of non-nominative, even if it is after preposition.
 # Perhaps after "ὅσον", "τ΄" must be placed in order to work gramatically as a conjunction.
 # "θυμὸς ἱκάνοι" doesn't agree themselves with number, therefore something like the preposition might relate each other.
 
-# SOS(V)
+# S1OS2(V)
 # Two subjects:
 # - "lases equases"
 # - "et quantum animas ad sufficientoses"
 # Direct Object: "me"
-# Indirect Object: "fertunes"
-\ft lases equases me fertunes, et quantum animas ad sufficientoses,
+# Indirect Object: "ferntenes"
+\ft equases lases me ferntenes, et quantum animase ad sufficientoses,
 ```
 
 ```gloss
@@ -29,10 +29,10 @@
 \gla (ἔ)πέμπον ἐπεί μ΄ ἐς ὁδὸν βῆσαν πολύφημον ἄγουσαι
 # Missing the first word 'ἔ' in "πέμπον".
 
-\glb [(they) send-IMP.ACT.IND] since/after me into road/way-ACC:SG [(they have) proceeded] renowned-F.ACC:SG leading-F.NOM.PL
+\glb [(they) send-IMP.ACT.IND] since/after me into road/way-ACC.SG [(they have) proceeded] renowned-F.ACC.SG leading-F.NOM.PL
 # "πέμπον" can be either 1SG or 3PL, but since (1) already hinted us, then it is 3PL.
 
-\glc invia-batus postquam me [ad in] via-m procedevatus polyphem-a.m ducent-a.s.es
+\glc invia-batus postquam me [ad in] via-m.e procedetan polyphem-a.m.e ducent-a.s.es
 
 # Verb: "inviabatus"
 # ---
@@ -41,8 +41,8 @@
 # Verb: "procedevatus"
 # Direct Object: "me"
 # Subject: "ducentases"
-# Changed into nominative "vias polyphemas" according to the preposition rule.
-\ft inviabatus, ad in vias polyphemas procedevatus postquam me ducentases
+# Changed into accusative "viam polyphemam" according to the preposition rule.
+\ft inviabatus, ad in viame polyphemame procedetan postqua'me ducentases
 ```
 
 ```gloss
@@ -52,17 +52,16 @@
 
 \gla δαίμονες ἣ κατὰ πάντ΄ ἄστη φέρει εἰδότα φῶτα
 
-\glb daemon-M.NOM-es that:F.NOM.SG through all-N.ACC.PL citi-N.ACC-es carri-es wise-M.ACC man-M.ACC
+\glb daemon-M.NOM-es that:F.NOM.SG through all-N.ACC.PL citi-N.ACC-es carri-es wise-M.ACC.SG man-M.ACC.SG
 
-\glc daem-o.s-es que per omni-e.m.es urb-e.m-es fer-t scient-o.m vir-o.m
+\glc daem-o.s-es que per omni-e.m.es urb-e.m-es fer-t scient-o.m.e vir-o.m.e
 
 # SVO
 # Subject: "daemones" / "que"
 # Preposition: "per omnieses urbeses"
 # Verb: "fert"
 # Direct Object: "scientom virom"
-# Changed into nominative "omnieses urbeseses" according to the preposition rule.
-\ft daemoses, que per omnieses urbeses fert scientom virom-
+\ft daemoses, que per omniemes urbemes fert scientome virome-
 ```
 
 ```gloss
@@ -72,20 +71,20 @@
 
 \gla τῇ φερόμην τῇ γάρ με πολύφραστοι φέρον ἵπποι
 
-\glb [by which] [(I was being) carried] [by which] for me polytalking-F.NOM.PL [(they were) carrying] horse-NOM.s
+\glb [by which] [(I was being) carried] [by which] for me polytalking-F.NOM.PL [(they were) carrying] horse-F.NOM.s
 # τῇ can be translated to either the article "the" or the adverb "here" or "there", but none of them seems to be correct in the sentence. Therefore, "by which" is placed.
 # τῇ is case dative, gender feminine, and number singular.
 
-\glc qua ferbamur qua enim me polyloquit-a.s.es ferbatus equ-a.s
+\glc qua ferbamur qua enim me polyloquit-a.s.es ferbatus equ-a.s.es
 # φέρον can be translated as either the present active participle nominative/accusative neuter singular "fernt" or the imperfect active indicative verb either the first person singular or third person plural "ferbatus". However, "ἵπποι" is nominative, which means the verb must be third person plural in order to agree with.
 
 
 # Ignoring "qua ferbamur"
-# OVS(O)
+# OSVS(OS)
 # Direct Object: "(currrum) enim me"
 # Verb: "ferbatus"
 # Subject: "polyloquitases equases (tendentases)"
-\ft qua ferbamur- qua eni'me ferbatus polyloquitases equases
+\ft qua ferbamur- qua eni'me polyloquitases ferbatus equases
 ```
 
 ```gloss
@@ -95,15 +94,15 @@
 
 \gla ἅρμα τιταίνουσαι κοῦραι δ΄ ὁδὸν ἡγεμόνευον
 
-\glb chariot-ACC:SG extend-ing.F.NOM.PL girl/maiden-NOM.PL but/and road/way-ACC:SG [(they were) leading]
+\glb chariot-ACC.SG extend-ing.F.NOM.PL girl/maiden-NOM.PL but/and road/way-ACC.SG [(they were) leading]
 
-\glc curru-m tende-nt.a.s.es puella-s.es autem via-m ducebatus
+\glc curru-m.e tende-nt.a.s.es puella-s.es autem via-m.e ducebatus
 
-# Ignoring "tendentases currum"
+# Ignoring "currume tendentases"
 # VOS
 # Subject: "puellases"
-# Direct Object: "viam"
-\ft tendentases currum, autem puellases viam ducebatus.
+# Direct Object: "viame"
+\ft currume tendentases, autem puellases viame ducebatus.
 ```
 
 ```gloss
@@ -113,13 +112,13 @@
 
 \gla Ἄξων δ΄ ἐν χνοίῃσιν ἵει σύριγγος ἀυτήν
 
-\glb axle-NOM:SG but/and in nave/hub [(it was) emitting] pipe's sound/noise-ACC:SG
+\glb axle-NOM.SG but/and in nave/hub [(it was) emitting] pipe's sound/noise-ACC.SG
 # "χνοίῃσιν" is dative, feminine, plural form of "χνοίη" (khnoíē), which is Ionic form of "χνόη".
 
-\glc axi-s autem in modiolus emittebat fistulat sonu-m
+\glc axi-s.e autem in modioluse emittebat fistulat sonu-m.e
 
 # SVO
-\ft autem axis in modiolus emittebat fistulat sonum
+\ft autem axise in modiolum'emittebat fistulat sonume
 ```
 
 ```gloss
@@ -129,11 +128,11 @@
 
 \gla αἰθόμενος δοιοῖς γὰρ ἐπείγετο δινωτοῖσιν
 
-\glb burning:NOM.SG-PRES.PAS two-M.DAT.PL for [(it was) hastened] whirling/spinning-M.DAT.PL
+\glb burning:NOM.SG-PRES.PAS two-DAT.PL for [(it was) hastened] whirling/spinning-DAT.PL
 
-\glc arde-nt.u du-o.n.es nam urgebatur rotant-o.n.es
+\glc arde-nt.u duu-n.es nam urgebatur rotantu-n.es
 
-\ft ardentu - nam urgebatur duones rotantones
+\ft ardentu - nam duunes urgebatur rotantunes
 ```
 
 ```gloss
@@ -158,9 +157,9 @@
 \gla Ἡλιάδες κοῦραι προλιποῦσαι δώματα Νυκτός
 
 \glb [daughters of the Sun] maiden/girls [leaving / having left] house-ACC.s [(of) Night]
-\glc Heliades puellases relinquentases domu-m.es Noctat
+\glc Heliades puellases relinqueronases domu-m.es Noctate
 
-\ft Heliades puellases, relinquentases domumes Noctat,
+\ft Heliades puellases, relinqueronases domumes Noctate,
 ```
 
 ```gloss
@@ -172,9 +171,9 @@
 
 \glb into light-F.ACC [having hurled/thrown] [(of) head] from hand-DAT.s covering-ACC.s
 
-\glc [ad in] lux-a.m conjectantases capput ab manu-n.es velame-m.es
+\glc [ad in] lux-a.m conjectamenonases cappute ab manu-n.es velame-m.es
 
-\ft ad in luxas, velamemes conjectantases ab manuses capput.
+\ft ad in luxam, velamemes conjectamenonases ab manumes cappute.
 ```
 
 ```gloss
@@ -186,9 +185,9 @@
 
 \glb there gate-NOM.s [of Night] and also [of Day] [(they) are] [of paths]
 
-\glc ibi porta-s.es Noctat et etiam Diet essetus viates
+\glc ibi porta-s.es Noctate et etiam Diete essetus viates
 
-\ft ibi viarum portases Noctis et etiam Diet essetus,
+\ft ibi viates portases Noctat'et etiam Diet'essetus,
 ```
 
 ```gloss
@@ -198,11 +197,11 @@
 
 \gla καί σφας ὑπέρθυρον ἀμφὶς ἔχει καὶ λάινος οὐδός
 
-\glb and them [lintel of a door/gate] around has and stony/rocky-NOM threshold
+\glb and them [lintel of a door/gate] around has and stony/rocky-NOM.SG threshold
 
-\glc et ses hyperthyries circum habet et lapideu-s limes
+\glc et ses hyperthyrieme circum habet et lapide-s limes
 
-\ft et seas hyperthyries habet et lapideus circum-
+\ft et seas hyperthyrieme habet et lapidese limese circum-
 ```
 
 ```gloss
@@ -228,9 +227,9 @@
 
 \glb [of them/those] but/and Justice [of much punishment] has key-N.ACC.s changeable-N.ACC.PL
 
-\glc seestri autem Justitia multipoenalas habet clav-i.m.es mutabil-e.m.es
+\glc sestri autem Justitia multipoenalase habet clav-i.m.es mutabil-e.m.es
 
-\ft eies autem Justitia multipoenalas habet clavimes mutabilemes.
+\ft sestri autem Justitia multipoenalase habet clavimes mutabilemes.
 ```
 
 ```gloss
@@ -241,7 +240,7 @@
 \gla Τὴν δὴ παρφάμεναι κοῦραι μαλακοῖσι λόγοισιν
 
 \glb her certainly  speaking/saying maidens/girls soft/gentle-DAT.PL speeches-DAT.PL
-\glc sea certed dicentas puellases mollu-t.es vocabulu-t.es
+\glc sea certed diceronases puellases mollu-t.es vocabulu-t.es
 
-\ft certed dicentas puellases sea mollutes vocabulutes
+\ft sea certed diceronases puellases mollutes vocabulutes
 ```
