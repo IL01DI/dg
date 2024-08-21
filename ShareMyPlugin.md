@@ -35,6 +35,8 @@
 - [⬇️](obsidian://SP-install?id=unicode-search&enable=true) [**Unicode Search**](https://obsidian.md/plugins?id=unicode-search) by [*BambusControl*](https://github.com/BambusControl) ^[Search and insert Unicode characters into your editor]
 - [⬇️](obsidian://SP-install?id=surfing&enable=true) [**Surfing**](https://obsidian.md/plugins?id=surfing) by [*Boninall & Windily-cloud*](https://github.com/Quorafind) [☕️](https://www.buymeacoffee.com/boninall)/[⚡️](https://afdian.net/a/boninall)/[♡](https://cdn.jsdelivr.net/gh/Quorafind/.github@main/IMAGE/%E6%94%AF%E4%BB%98%E5%AE%9D%E4%BB%98%E6%AC%BE%E7%A0%81.jpg) ^[Surf the Net in Obsidian.]
 - [⬇️](obsidian://SP-install?id=truth-table-gen&enable=true) [**Truth Table+**](https://obsidian.md/plugins?id=truth-table-gen) by [*Maximilian Schulten*](https://maxschulten.info) [♡](https://buymeacoffee.com/maxschulten) ^[Generate truth tables quickly in your .md files]
+- [⬇️](obsidian://SP-install?id=fantasy-content-generator&enable=true) [**Fantasy Content Generator**](https://obsidian.md/plugins?id=fantasy-content-generator) ^[A Fantasy Content Generator for Obsidian for All Your TTRPG / World Building Needs]
+- [⬇️](obsidian://SP-install?id=password-protection&enable=true) [**Password Protection**](https://obsidian.md/plugins?id=password-protection) by [*Qing Li*](https://qing3962.github.io/) [♡](https://bmc.link/qing3962) ^[Lock and protect your private notes and diary with a password, no encrypt, no decrypt.]
 
 
 

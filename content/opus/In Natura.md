@@ -71,7 +71,7 @@
 
 \gla τῇ φερόμην τῇ γάρ με πολύφραστοι φέρον ἵπποι
 
-\glb [by which] [(I was being) carried] [by which] for me polytalking-F.NOM.PL [(they were) carrying] horse-F.NOM.s
+\glb [by which] [I was being carried] [by which] for me polytalking-F.NOM.PL [they were carrying] horse-F.NOM.s
 # τῇ can be translated to either the article "the" or the adverb "here" or "there", but none of them seems to be correct in the sentence. Therefore, "by which" is placed.
 # τῇ is case dative, gender feminine, and number singular.
 
@@ -94,7 +94,7 @@
 
 \gla ἅρμα τιταίνουσαι κοῦραι δ΄ ὁδὸν ἡγεμόνευον
 
-\glb chariot-ACC.SG extend-ing.F.NOM.PL girl/maiden-NOM.PL but/and road/way-ACC.SG [(they were) leading]
+\glb chariot-ACC.SG extend-ing.F.NOM.PL girl/maiden-NOM.PL but/and road/way-ACC.SG [they were leading]
 
 \glc curru-m.e tende-nt.a.s.es puella-s.es autem via-m.e ducebatus
 
@@ -112,7 +112,7 @@
 
 \gla Ἄξων δ΄ ἐν χνοίῃσιν ἵει σύριγγος ἀυτήν
 
-\glb axle-NOM.SG but/and in nave/hub [(it was) emitting] pipe's sound/noise-ACC.SG
+\glb axle-NOM.SG but/and in nave/hub [it was emitting] pipe's sound/noise-ACC.SG
 # "χνοίῃσιν" is dative, feminine, plural form of "χνοίη" (khnoíē), which is Ionic form of "χνόη".
 
 \glc axi-s.e autem in modioluse emittebat fistulat sonu-m.e
@@ -128,7 +128,7 @@
 
 \gla αἰθόμενος δοιοῖς γὰρ ἐπείγετο δινωτοῖσιν
 
-\glb burning:NOM.SG-PRES.PAS two-DAT.PL for [(it was) hastened] whirling/spinning-DAT.PL
+\glb burning:NOM.SG-PRES.PAS two-DAT.PL for [it was hastened] whirling/spinning-DAT.PL
 
 \glc arde-nt.u duu-n.es nam urgebatur rotantu-n.es
 
@@ -142,7 +142,7 @@
 
 \gla κύκλοις ἀμφοτέρωθεν ὅτε σπερχοίατο πέμπειν
 
-\glb circle-DAT.s [on/from both sides] when [(they might) hasten (themselves)] [to send]
+\glb circle-DAT.s [on/from both sides] when [they might hasten themselves] [to send]
 
 \glc circulu-n.es utrimque quando [ses festinaretus] mittere
 
@@ -156,7 +156,7 @@
 
 \gla Ἡλιάδες κοῦραι προλιποῦσαι δώματα Νυκτός
 
-\glb [daughters of the Sun] maiden/girls [leaving / having left] house-ACC.s [(of) Night]
+\glb [daughters of the Sun] maiden/girls [leaving / having left] house-ACC.s [of Night]
 \glc Heliades puellases relinqueronases domu-m.es Noctate
 
 \ft Heliades puellases, relinqueronases domumes Noctate,
@@ -169,7 +169,7 @@
 
 \gla εἰς φάος ὠσάμεναι κράτων ἄπο χερσὶ καλύπτρας
 
-\glb into light-F.ACC [having hurled/thrown] [(of) head] from hand-DAT.s covering-ACC.s
+\glb into light-F.ACC [having hurled/thrown] [of head] from hand-DAT.s covering-ACC.s
 
 \glc [ad in] lux-a.m conjectamenonases cappute ab manu-n.es velame-m.es
 
@@ -183,7 +183,7 @@
 
 \gla Ἔνθα πύλαι Νυκτός τε καὶ Ἤματός εἰσι κελεύθων
 
-\glb there gate-NOM.s [of Night] and also [of Day] [(they) are] [of paths]
+\glb there gate-NOM.s [of Night] and also [of Day] [they are] [of paths]
 
 \glc ibi porta-s.es Noctate et etiam Diete essetus viates
 
@@ -197,7 +197,7 @@
 
 \gla καί σφας ὑπέρθυρον ἀμφὶς ἔχει καὶ λάινος οὐδός
 
-\glb and them [lintel of a door/gate] around has and stony/rocky-NOM.SG threshold
+\glb and them [lintel (of a door/gate)] around has and stony/rocky-NOM.SG threshold
 
 \glc et ses hyperthyrieme circum habet et lapide-s limes
 
@@ -211,7 +211,7 @@
 
 \gla αὐταὶ δ΄ αἰθέριαι πλῆνται μεγάλοισι θυρέτροις
 
-\glb they:NOM-F.PL but/and heavenly-F.NOM.PL [(they) float/sail-PST.PAS.SUBJ] large-DAT.PL door-DAT.s
+\glb they:NOM-F.PL but/and heavenly-F.NOM.PL [they float/sail-PST.PAS.SUBJ] large-DAT.PL door-DAT.s
 
 \glc ei-a.s autem aetheri-a.s.es pleriturus magni-t.es ostiu-t.es
 
@@ -243,4 +243,63 @@
 \glc sea certed diceronases puellases mollu-t.es vocabulu-t.es
 
 \ft sea certed diceronases puellases mollutes vocabulutes
+```
+
+```gloss
+\num 16
+
+\ex πεῖσαν ἐπιφράδέως, ὥς σφιν βαλανωτὸν ὀχῆα
+
+\gla πεῖσαν ἐπιφράδέως ὥς σφιν [βαλανωτὸν ὀχῆα]
+
+\glb persuade:AORIST.ACT.IND.3PL wisely [so that / as] [to them] [bolt/bar (of a door)]
+# βαλανωτὸν is related to μᾰ́νδᾰλος
+
+\glc persuadetan prudenter ut sibis pessulume
+
+\ft persuadetan prudenter, ut sibis pessulume
+```
+
+```gloss
+\num 17
+
+\ex ἀπτερέως ὤσειε πυλέων ἄπο· ταὶ δὲ θυρέτρων
+
+\gla ἀπτερέως ὤσειε πυλέων ἄπο· ταὶ δὲ θυρέτρων
+
+\glb winglessly [might/would push] [of gates] [(away) from] the but/and [of the doors / door-leaves]
+# ὤσειε is verb described as aorist tense, optative mood, 3SG of ὠθέω
+
+\glc inalater pelleseie portates ab eias autem valvates
+# ταὶ doesn't accompany to any noun in the sentence. Therefore, it's a pronoun.
+
+\ft inalater pelleseie ab portates; autem eias valvates
+```
+
+```gloss
+\num 18
+
+\ex χάσμ΄ ἀχανὲς ποίησαν ἀναπτάμεναι πολυχάλκους
+
+\gla χάσμ΄ ἀχανὲς ποίησαν ἀναπτάμεναι πολυχάλκους
+
+\glb chasm-ACC.SG vast-ACC.SG [they made] soaring/flying many-bronzed
+
+\glc chasma-m.e vastu-m.e fecetan volantuases polyaereames
+
+\ft chasmame vastume fecetan volantuases polyaereames
+```
+
+```gloss
+\num 19
+
+\ex ἄξονας ἐν σύριγξιν ἀμοιβαδὸν εἰλίξασαι
+
+\gla ἄξονας ἐν σύριγξιν ἀμοιβαδὸν εἰλίξασαι
+
+\glb ax(l)es (with)in
+
+\glc aximes in s
+
+\ft 
 ```

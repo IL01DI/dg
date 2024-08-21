@@ -36,17 +36,17 @@ Aorist tense is based in Ancient Greek. Model morphology is based on the conjuga
 
 ## Subjunctive
 
-| person & number | past imperfect | past perfect | past pluperfect |  present  |  future   |
-|:---------------:|:--------------:|:------------:|:---------------:|:---------:|:---------:|
-|  1st singular   |      -rem      |     -rim     |     -(s)sem     |  -(s)sam  |  -(s)sim  |
-|  2nd singular   |      -ren      |     -rin     |     -(s)sen     |  -(s)san  |  -(s)sin  |
-|  3rd singular   |      -ret      |     -rit     |     -(s)set     |  -(s)sat  |  -(s)sit  |
-|    1st dual     |     -remuz     |    -rimuz    |    -(s)semuz    | -(s)samuz | -(s)simuz |
-|    2nd dual     |     -renuz     |    -rinuz    |    -(s)senuz    | -(s)sanuz | -(s)sinuz |
-|    3rd dual     |     -retuz     |    -rituz    |    -(s)setuz    | -(s)satuz | -(s)situz |
-|   1st plural    |     -remus     |    -rimus    |    -(s)semus    | -(s)samus | -(s)simus |
-|   2nd plural    |     -renus     |    -rinus    |    -(s)senus    | -(s)sanus | -(s)sinus |
-|   3rd plural    |     -retus     |    -ritus    |    -(s)setus    | -(s)satus | -(s)situs |
+| person & number | aorist  | past imperfect | past perfect | past pluperfect |  present  |  future   |
+|:---------------:| ------- |:--------------:|:------------:|:---------------:|:---------:|:---------:|
+|  1st singular   | -saimi  |      -rem      |     -rim     |     -(s)sem     |  -(s)sam  |  -(s)sim  |
+|  2nd singular   | -seias  |      -ren      |     -rin     |     -(s)sen     |  -(s)san  |  -(s)sin  |
+|  3rd singular   | -seie   |      -ret      |     -rit     |     -(s)set     |  -(s)sat  |  -(s)sit  |
+|    1st dual     | -saimin |     -remuz     |    -rimuz    |    -(s)semuz    | -(s)samuz | -(s)simuz |
+|    2nd dual     | -saiton |     -renuz     |    -rinuz    |    -(s)senuz    | -(s)sanuz | -(s)sinuz |
+|    3rd dual     | -saiten |     -retuz     |    -rituz    |    -(s)setuz    | -(s)satuz | -(s)situz |
+|   1st plural    | -saimen |     -remus     |    -rimus    |    -(s)semus    | -(s)samus | -(s)simus |
+|   2nd plural    | -saite  |     -renus     |    -rinus    |    -(s)senus    | -(s)sanus | -(s)sinus |
+|   3rd plural    | -seian  |     -retus     |    -ritus    |    -(s)setus    | -(s)satus | -(s)situs |
 
 ## Imperative
 

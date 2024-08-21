@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Documentation for Latina/1. Parts of Speech.md",
+                "file": "content/opus/In Natura.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -23,12 +23,38 @@
             "group": "55ac2d67f4ee386f"
           },
           {
-            "id": "3c63f7ba80d090a9",
+            "id": "2d5b37791d906838",
             "type": "leaf",
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://dcc.dickinson.edu/grammar/latin/parts-speech"
+                "url": "https://el.wikisource.org/wiki/%CE%A0%CE%B5%CF%81%CE%AF_%CF%86%CF%8D%CF%83%CE%B5%CF%89%CF%82_(%CE%A0%CE%B1%CF%81%CE%BC%CE%B5%CE%BD%CE%AF%CE%B4%CE%B7%CF%82)"
+              }
+            }
+          },
+          {
+            "id": "82505770593dcbfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/lingua/verb conjugation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "40acbb6080f91d7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/lingua/pronoun case.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -45,49 +71,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Documentation for Latina/1. Parts of Speech.md",
+                "file": "content/opus/In Natura.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             },
             "group": "55ac2d67f4ee386f"
-          },
-          {
-            "id": "2dd79b17cc254eff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/opus/Documentation for Latina - Copy/4. Morphosyntax.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "28d2747c076c9dbd",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://en.wikipedia.org/wiki/Word_order#Pragmatic_word_order"
-              }
-            }
-          },
-          {
-            "id": "25e5fa0ed05e273b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/lingua/verb conjugation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
         ]
       }
@@ -149,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Documentation for Latina/1. Parts of Speech.md"
+                "file": "content/opus/In Natura.md"
               }
             }
           }
@@ -172,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 272.5,
+    "collapsed": true
   },
   "right": {
     "id": "bd075b5ed75b1aed",
@@ -200,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Documentation for Latina/1. Parts of Speech.md",
+                "file": "content/opus/In Natura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Documentation for Latina/1. Parts of Speech.md",
+                "file": "content/opus/In Natura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -258,7 +249,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 241.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -274,20 +266,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian42-brat:BRAT": false,
       "digitalgarden:Digital Garden Publication Center": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-trash-explorer:Open trash explorer": false
     }
   },
   "active": "b1c32a75387338ca",
   "lastOpenFiles": [
+    "content/opus/In Natura.md",
+    "content/lingua/verb conjugation.md",
+    "content/lingua/pronoun case.md",
+    "content/opus/fragmentus Heraclitut.md",
+    "docs/Documentation for Latina/1. Parts of Speech.md",
     "docs/Documentation for Latina/2. Parts of Speech.md",
     "docs/Documentation for Latina/2. Word Order.md",
-    "content/opus/In Natura.md",
     "content/lingua/noun number.md",
-    "content/lingua/verb conjugation.md",
-    "docs/Documentation for Latina/1. Parts of Speech.md",
     "Untitled.md",
     "content/opus/Documentation for Latina - Copy/4. Morphosyntax.md",
-    "content/lingua/pronoun case.md",
     "content/lingua/noun declension.md",
     "content/lingua/noun gender.md",
     "content/lingua/noun case.md",
@@ -307,7 +301,6 @@
     "content/knowledge/episteme/substància.md",
     "content/life management/time/game.md",
     "docs/Documentation for Latina/3. Syntax.md",
-    "content/opus/Documentation for Latina - Copy/6. Semantic.md",
     "content/opus/Documentation for Latina - Copy",
     "docs/Documentation for English",
     "content/about",
