@@ -20,8 +20,8 @@
 |   tunos    |   tunes    | tunobis | tunostri |
 |   einos    |   eines    | einobis | einostri |
 |    vos     |    ves     |  vobis  |  vestri  |
-|    eis     |    ses     |  sibis  |  sestri  |
+|    eis     |    seis    |  sibis  | seistri  | 
 |    eias    |    seas    | siabis  | seastri  |
 |    eios    |    seos    | siobis  | seostri  |
 |    eius    |    seus    | siubis  | seustri  |
-|    eies    |    sees    | siebis  | seestri  |
+|    eies    |    ses     | siebis  |  sestri  |

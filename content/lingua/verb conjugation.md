@@ -59,6 +59,78 @@ Aorist tense is based in Ancient Greek. Model morphology is based on the conjuga
 |   2nd plural    |  -tes   |  -mis  |
 |   3rd plural    | -totes  | -minis | 
 
+# Middle personal forms
+
+## Indicative
+
+### Actuality
+
+| person & number | past imperfect | past perfect | past pluperfect | aorist   | non-past |
+|:---------------:|:--------------:|:------------:|:---------------:| -------- |:--------:|
+|  1st singular   |      -men      |     -vam     |      -ram       | -xamen   |    -m    |
+|  2nd singular   |      -so       |     -van     |      -ran       | -xo      |    -n    |
+|  3rd singular   |      -to       |     -vat     |      -rat       | -xato    |    -t    |
+|    1st dual     |     -sdon      |    -vamuz    |     -ramuz      | -xasdon  |   -muz   |
+|    2nd dual     |     -sthon     |    -vanuz    |     -ranuz      | -xasthon |   -nuz   |
+|    3rd dual     |     -sthen     |    -vatuz    |     -ratuz      | -xasthen |   -tuz   |
+|   1st plural    |     -metha     |    -vamus    |     -ramus      | -xametha |   -mus   |
+|   2nd plural    |     -sthe      |    -vanus    |     -ranus      | -xasthe  |   -nus   |
+|   3rd plural    |      -nto      |    -vatus    |     -ratus      | -xanto   |   -tus   |
+
+%%
+Aorist tense is based in Ancient Greek. Model morphology is based on the conjugation of [ὑπεδέξατο](https://en.wiktionary.org/wiki/%E1%BD%91%CF%80%CE%BF%CE%B4%CE%B5%CE%AF%CE%BA%CE%BD%CF%85%CE%BC%CE%B9#Ancient_Greek)
+
+Imperfect tense is based in Ancient Greek. Model morphology is based on the conjugation of [φάτο](https://en.wiktionary.org/wiki/%CF%86%CE%B7%CE%BC%CE%AF#Ancient_Greek)
+%%
+
+
+### Non-actuality
+
+| person & number | future imperfect | future perfect | non-future | conditional |
+|:---------------:|:----------------:|:--------------:|:----------:|:-----------:|
+|  1st singular   |      -meai      |      -vim      |    -rim    |    -riam    |
+|  2nd singular   |      -teai      |      -vin      |    -rin    |    -rian    |
+|  3rd singular   |      -seai      |      -vit      |    -rit    |    -riat    |
+|    1st dual     |     -meaiz      |     -vimuz     |   -rimuz   |   -riamuz   |
+|    2nd dual     |     -teaiz      |     -vinuz     |   -rinuz   |   -rianuz   |
+|    3rd dual     |     -seaiz      |     -vituz     |   -rituz   |   -riatuz   |
+|   1st plural    |     -meais      |     -vimus     |   -rimus   |   -riamus   |
+|   2nd plural    |     -teais      |     -vinus     |   -rinus   |   -rianus   |
+|   3rd plural    |     -seais      |     -vitus     |   -ritus   |   -riatus   |
+
+%%
+Future imperfect tense is based in Ancient Greek. Model morphology is based on μαθήσεαι (mathḗseai) of "μανθάνω".
+%%
+
+## Subjunctive
+
+| person & number | aorist  | past imperfect | past perfect | past pluperfect |  present  |  future   |
+|:---------------:| ------- |:--------------:|:------------:|:---------------:|:---------:|:---------:|
+|  1st singular   | -saimi  |      -rem      |     -rim     |     -(s)sem     |  -(s)sam  |  -(s)sim  |
+|  2nd singular   | -seias  |      -ren      |     -rin     |     -(s)sen     |  -(s)san  |  -(s)sin  |
+|  3rd singular   | -seie   |      -ret      |     -rit     |     -(s)set     |  -(s)sat  |  -(s)sit  |
+|    1st dual     | -saimin |     -remuz     |    -rimuz    |    -(s)semuz    | -(s)samuz | -(s)simuz |
+|    2nd dual     | -saiton |     -renuz     |    -rinuz    |    -(s)senuz    | -(s)sanuz | -(s)sinuz |
+|    3rd dual     | -saiten |     -retuz     |    -rituz    |    -(s)setuz    | -(s)satuz | -(s)situz |
+|   1st plural    | -saimen |     -remus     |    -rimus    |    -(s)semus    | -(s)samus | -(s)simus |
+|   2nd plural    | -saite  |     -renus     |    -rinus    |    -(s)senus    | -(s)sanus | -(s)sinus |
+|   3rd plural    | -seian  |     -retus     |    -ritus    |    -(s)setus    | -(s)satus | -(s)situs |
+
+## Imperative
+
+| person & number |  aorist  | future |
+|:---------------:|:--------:|:------:|
+|  2nd singular   |   -sai   |  -mi   |
+|  3rd singular   | -sastho  | -mini  |
+|    2nd dual     | -sasthot |  -miz  |
+|    3rd dual     | -sasthos | -miniz |
+|   2nd plural    | -sasthe  |  -mis  |
+|   3rd plural    | -sasthon | -minis |
+
+%%
+Aorist tense is based in Ancient Greek. Model morphology is based on the conjugation of [κομίζω](https://en.wiktionary.org/wiki/%CE%BA%CE%BF%CE%BC%CE%AF%CE%B6%CF%89#Greek)
+%%
+
 # Passive personal forms
 
 ## Indicative
@@ -119,12 +191,13 @@ Aorist tense is based in Ancient Greek. Model morphology is based on the conjuga
 
 # Active non-finite forms
 
-|  time   | infinitive | participle |
-|:-------:|:----------:|:----------:|
-| present |    -re     |    -nt     |
-|  past   |    -sse    |    -st     |
-| future  |   -turum   |   -turus   |
-| aorist  |   -rein    |    -ron    | 
+|       time       | infinitive | participle |
+|:----------------:|:----------:|:----------:|
+|     present      |    -re     |    -nt     |
+|       past       |    -sse    |    -st     |
+|      future      |   -turum   |   -turus   |
+| aorist masculine |   -rein    |   -ro(n)   |
+| aorist femenine  |   -sein    |   -sa(s)   | 
 
 # Middle non-finite forms
 
@@ -138,8 +211,8 @@ Aorist tense is based in Ancient Greek. Model morphology is based on the conjuga
 |  time   | infinitive | participle |
 |:-------:|:----------:|:----------:|
 | present |    -ri     |    -ntu    |
-|  past   |    -ssi    |    -tus    |
-| future  |   -tirum   |   -ndus    |
+|  past   |    -ssi    |    -tu     |
+| future  |   -tirum   |    -ndu    | 
 | aorist  |  -thenai   |   -then    |
 
 # Verbal nouns

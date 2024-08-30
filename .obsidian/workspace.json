@@ -6,7 +6,7 @@
       {
         "id": "39acc397a0e2fcd0",
         "type": "tabs",
-        "dimension": 49.73451327433629,
+        "dimension": 53.125,
         "children": [
           {
             "id": "b1c32a75387338ca",
@@ -57,13 +57,26 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "320de0a729dfa795",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/lingua/noun case.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ]
       },
       {
         "id": "36f4d8690de152c0",
         "type": "tabs",
-        "dimension": 50.26548672566372,
+        "dimension": 46.875,
         "children": [
           {
             "id": "4699a7b21850800d",
@@ -78,6 +91,39 @@
               }
             },
             "group": "55ac2d67f4ee386f"
+          },
+          {
+            "id": "f4632c6745f05b42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/life management/time/game.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c02f0ce0c867fe1a",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://en.wikipedia.org/wiki/Dissoi_logoi"
+              }
+            }
+          },
+          {
+            "id": "e06d9fd26710dcef",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://es.wikipedia.org/wiki/Gorgias"
+              }
+            }
           }
         ]
       }
@@ -109,7 +155,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#en",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -225,8 +271,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "121cdea3a1f54d41",
@@ -263,19 +308,25 @@
       "hide-folders:Show hidden folders": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "password-protection:Lock password protection": false,
+      "obsidian-trash-explorer:Open trash explorer": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian42-brat:BRAT": false,
       "digitalgarden:Digital Garden Publication Center": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-trash-explorer:Open trash explorer": false
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "b1c32a75387338ca",
   "lastOpenFiles": [
-    "content/opus/In Natura.md",
     "content/lingua/verb conjugation.md",
+    "content/opus/In Natura.md",
+    "content/lingua/noun case.md",
     "content/lingua/pronoun case.md",
+    "changelog.md",
     "content/opus/fragmentus Heraclitut.md",
+    "content/opus/Wip/Untitled.md",
+    "content/life management/time/game.md",
+    "content/opus/Wip",
+    "home.md",
     "docs/Documentation for Latina/1. Parts of Speech.md",
     "docs/Documentation for Latina/2. Parts of Speech.md",
     "docs/Documentation for Latina/2. Word Order.md",
@@ -284,7 +335,6 @@
     "content/opus/Documentation for Latina - Copy/4. Morphosyntax.md",
     "content/lingua/noun declension.md",
     "content/lingua/noun gender.md",
-    "content/lingua/noun case.md",
     "content/opus/Documentation for Latina - Copy/7. Examples.md",
     "docs/Documentation for Latina/1. Pronunciation.md",
     "content/opus/Documentation for Latina - Copy/3. Syntax.md",
@@ -293,21 +343,16 @@
     "content/knowledge/episteme/aoristos.md",
     "content/about/about me.md",
     "content/opus/Documentation for Latina - Copy/1. Phonology.md",
-    "changelog.md",
-    "home.md",
     "content/opus",
     "docs/Translation",
     "content/opus/Documentation for Latina - Copy/2. Morphology.md",
     "content/knowledge/episteme/substància.md",
-    "content/life management/time/game.md",
-    "docs/Documentation for Latina/3. Syntax.md",
     "content/opus/Documentation for Latina - Copy",
     "docs/Documentation for English",
     "content/about",
     "content",
     "content/life management",
     "content/life management/time",
-    "content/life management/config",
     "content/assets/Pasted image 20240730103144.png",
     "content/assets/Pasted image 20240730100738.png",
     "content/assets/Pasted image 20240730100705.png",
