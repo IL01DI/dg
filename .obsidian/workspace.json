@@ -6,126 +6,125 @@
       {
         "id": "39acc397a0e2fcd0",
         "type": "tabs",
-        "dimension": 53.125,
+        "dimension": 53.0139935414424,
         "children": [
           {
-            "id": "b1c32a75387338ca",
+            "id": "c019d14c54e53d33",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "content/opus/In Natura.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            },
-            "group": "55ac2d67f4ee386f"
-          },
-          {
-            "id": "2d5b37791d906838",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://el.wikisource.org/wiki/%CE%A0%CE%B5%CF%81%CE%AF_%CF%86%CF%8D%CF%83%CE%B5%CF%89%CF%82_(%CE%A0%CE%B1%CF%81%CE%BC%CE%B5%CE%BD%CE%AF%CE%B4%CE%B7%CF%82)"
-              }
-            }
-          },
-          {
-            "id": "82505770593dcbfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/lingua/verb conjugation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "40acbb6080f91d7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/lingua/pronoun case.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "320de0a729dfa795",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/lingua/noun case.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
+                "file": "materia/cognitio/episteme/Plato.canvas",
+                "viewState": {
+                  "x": 1917.814382960842,
+                  "y": -90.56863037745916,
+                  "zoom": -0.5555555216471356
+                }
               }
             }
           }
         ]
       },
       {
-        "id": "36f4d8690de152c0",
+        "id": "f33ccefa1a33252a",
         "type": "tabs",
-        "dimension": 46.875,
+        "dimension": 46.98600645855759,
         "children": [
           {
-            "id": "4699a7b21850800d",
+            "id": "3178de3d865f5313",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "surfing-view",
               "state": {
-                "file": "content/opus/In Natura.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
+                "url": "https://www.wikisofia.cat/w/index.php?search=Autor%3ALeibniz%2C+Gottfried+Wilhelm"
               }
-            },
-            "group": "55ac2d67f4ee386f"
+            }
           },
           {
-            "id": "f4632c6745f05b42",
+            "id": "eacff0dc11c03edc",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://en.wikipedia.org/wiki/Performing_arts"
+              }
+            }
+          },
+          {
+            "id": "aeabdb2c8f648e0a",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/ENC_SYSTEME_FIGURE.jpeg"
+              }
+            }
+          },
+          {
+            "id": "35a161a8f64c2711",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://www.wikisofia.cat/wiki/Autor:Hume,_David"
+              }
+            }
+          },
+          {
+            "id": "2bb2c59a931202c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/life management/time/game.md",
-                "mode": "preview",
+                "file": "materia/lingua/noun case.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           },
           {
-            "id": "c02f0ce0c867fe1a",
+            "id": "ef3ec2d295d3a717",
             "type": "leaf",
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://en.wikipedia.org/wiki/Dissoi_logoi"
+                "url": "https://es.wikipedia.org/w/index.php?title=Special:Search&search=Sentido+com%C3%BAn&wprov=acrw1_0"
               }
             }
           },
           {
-            "id": "e06d9fd26710dcef",
+            "id": "090bb59036d7da41",
             "type": "leaf",
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://es.wikipedia.org/wiki/Gorgias"
+                "url": "https://duckduckgo.com/?q=plato+mind+maps+site%3Areddit.com&ia=web"
+              }
+            }
+          },
+          {
+            "id": "f986a470125e6b29",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://www.mindmeister.com/app/map/2895824333?fullscreen=1&v=public"
+              }
+            }
+          },
+          {
+            "id": "b64a0906148f7638",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://es.wikipedia.org/wiki/Plat%C3%B3n#Estado_ideal"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -137,7 +136,7 @@
       {
         "id": "ece00f856e04139a",
         "type": "tabs",
-        "dimension": 36.21890547263683,
+        "dimension": 60.238568588469185,
         "children": [
           {
             "id": "9ccf6ecc4f765ace",
@@ -155,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "aristote",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,18 +174,16 @@
         ]
       },
       {
-        "id": "47772cd738b254fe",
+        "id": "a9be6de53d6bc38b",
         "type": "tabs",
-        "dimension": 43.880597014925364,
+        "dimension": 19.880715705765407,
         "children": [
           {
-            "id": "7bf59a86c9914ee2",
+            "id": "24bdef53fcbaac13",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "content/opus/In Natura.md"
-              }
+              "type": "recent-files",
+              "state": {}
             }
           }
         ]
@@ -194,7 +191,7 @@
       {
         "id": "e33796f81b0ead63",
         "type": "tabs",
-        "dimension": 19.900497512437816,
+        "dimension": 19.880715705765407,
         "children": [
           {
             "id": "dabbe6dc0b70414d",
@@ -208,8 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bd075b5ed75b1aed",
@@ -218,26 +214,27 @@
       {
         "id": "49ab74cfce4d7b1f",
         "type": "tabs",
-        "dimension": 35.49618320610687,
+        "dimension": 17.66109785202864,
         "children": [
           {
-            "id": "2dd5e5e73b7baec9",
+            "id": "97d9d5610aa7ee91",
             "type": "leaf",
             "state": {
-              "type": "tag",
+              "type": "outgoing-link",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
+                "file": "materia/cognitio/episteme/Plato.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c6f7fa8d4c794e7e",
+            "id": "0fc768bebf48f10b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/opus/In Natura.md",
+                "file": "materia/cognitio/episteme/Plato.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,20 +248,29 @@
         ]
       },
       {
-        "id": "ded4413e5b7de14c",
+        "id": "55e55a0bbb272228",
         "type": "tabs",
-        "dimension": 26.52671755725191,
+        "dimension": 22.275258552108195,
         "children": [
           {
-            "id": "24bdef53fcbaac13",
+            "id": "7bf59a86c9914ee2",
             "type": "leaf",
             "state": {
-              "type": "recent-files",
-              "state": {}
+              "type": "outline",
+              "state": {
+                "file": "materia/cognitio/episteme/Plato.canvas"
+              }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "ded4413e5b7de14c",
+        "type": "tabs",
+        "dimension": 27.207637231503575,
+        "children": [
           {
-            "id": "dcd947a7eb4ebda9",
+            "id": "71a3862e76472e81",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -274,19 +280,18 @@
         ]
       },
       {
-        "id": "121cdea3a1f54d41",
+        "id": "4dfc8137e1864154",
         "type": "tabs",
-        "dimension": 37.97709923664122,
+        "dimension": 32.85600636435959,
         "children": [
           {
-            "id": "97d9d5610aa7ee91",
+            "id": "2dd5e5e73b7baec9",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
+              "type": "tag",
               "state": {
-                "file": "content/opus/In Natura.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -294,69 +299,73 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5,
-    "collapsed": true
+    "width": 201.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Open graph view": true,
-      "command-palette:Open command palette": false,
-      "switcher:Open quick switcher": false,
-      "workspaces:Manage workspace layouts": false,
-      "canvas:Create new canvas": false,
+      "templater-obsidian:Templater": false,
+      "templates:Insert template": false,
       "remotely-save:Remotely Save": false,
       "hide-folders:Show hidden folders": false,
       "fantasy-content-generator:Fantasy Generators": false,
-      "password-protection:Lock password protection": false,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
       "obsidian-trash-explorer:Open trash explorer": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian42-brat:BRAT": false,
       "digitalgarden:Digital Garden Publication Center": false,
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b1c32a75387338ca",
+  "active": "c019d14c54e53d33",
   "lastOpenFiles": [
-    "content/lingua/verb conjugation.md",
-    "content/opus/In Natura.md",
-    "content/lingua/noun case.md",
-    "content/lingua/pronoun case.md",
-    "changelog.md",
-    "content/opus/fragmentus Heraclitut.md",
-    "content/opus/Wip/Untitled.md",
-    "content/life management/time/game.md",
-    "content/opus/Wip",
-    "home.md",
-    "docs/Documentation for Latina/1. Parts of Speech.md",
-    "docs/Documentation for Latina/2. Parts of Speech.md",
-    "docs/Documentation for Latina/2. Word Order.md",
-    "content/lingua/noun number.md",
-    "Untitled.md",
-    "content/opus/Documentation for Latina - Copy/4. Morphosyntax.md",
-    "content/lingua/noun declension.md",
-    "content/lingua/noun gender.md",
-    "content/opus/Documentation for Latina - Copy/7. Examples.md",
-    "docs/Documentation for Latina/1. Pronunciation.md",
-    "content/opus/Documentation for Latina - Copy/3. Syntax.md",
-    "content/lingua/compatibility.md",
+    "materia/cognitio/episteme/justitia.md",
+    "materia/cognitio/episteme/Plato.canvas",
+    "materia/cognitio/episteme/concupiscentia.md",
+    "materia/cognitio/episteme/prudentia.md",
+    "materia/cognitio/episteme/audacia.md",
+    "materia/cognitio/episteme/temperantia.md",
+    "materia/cognitio/episteme/conservatio.md",
+    "materia/cognitio/episteme/pius mendacius.md",
+    "materia/cognitio/episteme/mendacius.md",
+    "materia/cognitio/episteme/aes.md",
+    "materia/lingua/noun case.md",
+    "materia/cognitio/episteme/argentus.md",
+    "materia/cognitio/episteme/aurus.md",
+    "materia/cognitio/episteme/vulgus.md",
+    "materia/cognitio/episteme/miles.md",
+    "materia/cognitio/episteme/philosopho.md",
+    "materia/cognitio/episteme/Untitled 4.md",
+    "materia/cognitio/episteme/familia.md",
+    "materia/cognitio/episteme/abolitio.md",
+    "materia/cognitio/episteme/oligarchia.md",
+    "materia/cognitio/episteme/timocratia.md",
+    "materia/cognitio/episteme/aristocratia.md",
+    "materia/cognitio/episteme/Aristoteles.md",
+    "materia/cognitio/episteme/Plato.md",
+    "materia/cognitio/episteme/classificatio epistemologico.canvas",
+    "materia/cognitio/episteme/astromantia.md",
+    "materia/cognitio/episteme/numeromantia.md",
+    "materia/cognitio/episteme/Untitled",
+    "materia/cognitio/episteme/historia.canvas",
+    "Untitled 1.canvas",
+    "materia/cognitio/episteme/Untitled.canvas",
+    "Untitled.canvas",
     "content/lingua",
-    "content/knowledge/episteme/aoristos.md",
-    "content/about/about me.md",
-    "content/opus/Documentation for Latina - Copy/1. Phonology.md",
-    "content/opus",
-    "docs/Translation",
-    "content/opus/Documentation for Latina - Copy/2. Morphology.md",
-    "content/knowledge/episteme/substància.md",
-    "content/opus/Documentation for Latina - Copy",
-    "docs/Documentation for English",
-    "content/about",
     "content",
-    "content/life management",
-    "content/life management/time",
-    "content/assets/Pasted image 20240730103144.png",
-    "content/assets/Pasted image 20240730100738.png",
-    "content/assets/Pasted image 20240730100705.png",
-    "content/assets/5CAROmZpll-700.webp",
-    "content/assets/BfxGAQpDcz-700.webp"
+    "forma",
+    "backup/2024-9-1-79487.zip",
+    "backup/2024-9-1-79484.zip",
+    "backup",
+    "materia/opus/Wip",
+    "materia/lingua",
+    "materia/opus",
+    "adjunctio/Pasted image 20240730103144.png",
+    "adjunctio/Pasted image 20240730100738.png",
+    "adjunctio/Pasted image 20240730100705.png",
+    "adjunctio/5CAROmZpll-700.webp",
+    "adjunctio/BfxGAQpDcz-700.webp"
   ]
 }

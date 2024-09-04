@@ -1,6 +1,10 @@
 {
   "enabledCssSnippets": [
-    "awesome-brain-manager"
+    "awesome-brain-manager",
+    "wikibox - Copy",
+    "ITS Callouts"
   ],
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "cssTheme": "",
+  "baseFontSize": 16
 }

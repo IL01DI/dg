@@ -4,12 +4,6 @@
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
   "defaultViewMode": "source",
-  "spellcheckDictionary": [
-    "essere",
-    "libri",
-    "siobizmet",
-    " |   ",
-    "seturuz"
-  ],
-  "rightToLeft": false
+  "rightToLeft": false,
+  "attachmentFolderPath": "adjunctio"
 }

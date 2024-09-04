@@ -1,0 +1,27 @@
+| nominative | accusative | dative  | genitive |
+|:----------:|:----------:|:-------:|:--------:|
+|    ego     |     me     |  mibi   |   mei    |
+|     tu     |     te     |  tibi   |   tei    |
+|     ei     |     se     |  sibi   |   sei    |
+|    eia     |    sea     |  siabi  |   seai   |
+|    eio     |    seo     |  siobi  |   seoi   |
+|    eiu     |    seu     |  siubi  |   seui   |
+|    eie     |    see     |  siebi  |   seei   |
+|    noz     |    nez     |  nobiz  |  noztri  |
+|   tunoz    |   tunez    | tunobiz | tunoztri |
+|   einoz    |   einez    | einobiz | einoztri |
+|    voz     |    vez     |  vobiz  |  veztri  |
+|    eiz     |    sez     |  sibiz  |  seztri  |
+|    eiaz    |    seaz    | siabiz  | seaztri  |
+|    eioz    |    seoz    | siobiz  | seoztri  |
+|    eiuz    |    seuz    | siubiz  | seuztri  |
+|    eiez    |    seez    | siebiz  | seeztri  |
+|    nos     |    nes     |  nobis  |  nostri  |
+|   tunos    |   tunes    | tunobis | tunostri |
+|   einos    |   eines    | einobis | einostri |
+|    vos     |    ves     |  vobis  |  vestri  |
+|    eis     |    seis    |  sibis  | seistri  | 
+|    eias    |    seas    | siabis  | seastri  |
+|    eios    |    seos    | siobis  | seostri  |
+|    eius    |    seus    | siubis  | seustri  |
+|    eies    |    ses     | siebis  |  sestri  |

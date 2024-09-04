@@ -6,39 +6,9 @@
         "type": "split",
         "children": [
           {
-            "id": "47cb0910c625241e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "68f2732d7adff0dc",
-                "type": "leaf",
-                "state": {
-                  "type": "surfing-view",
-                  "state": {
-                    "url": "https://help.obsidian.md/Editing+and+formatting/Callouts"
-                  }
-                }
-              },
-              {
-                "id": "4f677480fda3876d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Obsidian.md/Obsidian Sync.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": true
-                  }
-                },
-                "group": "a975c6de6b4fd21d"
-              }
-            ],
-            "currentTab": 1
-          },
-          {
             "id": "39acc397a0e2fcd0",
             "type": "tabs",
+            "dimension": 33.333333333333336,
             "children": [
               {
                 "id": "d5b0c039adb465e0",
@@ -46,13 +16,54 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Obsidian.md/Obsidian Sync.md",
+                    "file": "content/opus/In Natura.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": true
+                  }
+                },
+                "group": "5d6401fc8f357d93"
+              }
+            ]
+          },
+          {
+            "id": "500a7e6d3e5e466e",
+            "type": "tabs",
+            "dimension": 33.333333333333336,
+            "children": [
+              {
+                "id": "36367d4be8410f91",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "content/opus/In Natura.md",
                     "mode": "preview",
                     "backlinks": true,
                     "source": true
                   }
                 },
-                "group": "a975c6de6b4fd21d"
+                "group": "5d6401fc8f357d93"
+              }
+            ]
+          },
+          {
+            "id": "f33ccefa1a33252a",
+            "type": "tabs",
+            "dimension": 33.333333333333336,
+            "children": [
+              {
+                "id": "9612d1a8a99c2a43",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "docs/Documentation for Latina/1. Parts of Speech.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": true
+                  }
+                }
               }
             ]
           }
@@ -152,8 +163,25 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Obsidian.md/Obsidian Sync.md",
+                    "file": "content/opus/In Natura.md",
                     "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "33a2742a83b863ee",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "content/opus/In Natura.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
                     "unlinkedCollapsed": true
                   }
                 }
@@ -171,11 +199,20 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Obsidian.md/Obsidian Sync.md"
+                    "file": "content/opus/In Natura.md"
                   }
                 }
+              },
+              {
+                "id": "71a3862e76472e81",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "4dfc8137e1864154",
@@ -201,29 +238,893 @@
       },
       "left-ribbon": {
         "hiddenItems": {
+          "remotely-save:Remotely Save": false,
+          "hide-folders:Show hidden folders": false,
+          "fantasy-content-generator:Fantasy Generators": false,
+          "password-protection:Lock password protection": false,
           "switcher:Open quick switcher": false,
           "graph:Open graph view": false,
           "canvas:Create new canvas": false,
           "command-palette:Open command palette": false,
-          "obsidian-stille:Toggle Stille": false,
-          "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
+          "workspaces:Manage workspace layouts": false,
+          "obsidian-trash-explorer:Open trash explorer": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian42-brat:BRAT": false,
           "digitalgarden:Digital Garden Publication Center": false,
-          "obsidian-gdrive-sync:Upload Current File": false,
-          "obsidian-gdrive-sync:Download Current File": false,
-          "workspaces:Manage workspace layouts": false
+          "obsidian-kanban:Create new board": false
         }
       },
-      "active": "9ccf6ecc4f765ace",
-      "mtime": "2024-07-26T17:37:35+02:00",
+      "active": "24bdef53fcbaac13",
+      "mtime": "2024-09-01T10:26:41+02:00",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
-          "archived",
-          "HOW TOs",
-          "Obsidian.md",
-          "python"
+          "content",
+          "content/lingua",
+          "docs",
+          "docs/Documentation for Latina"
+        ]
+      }
+    },
+    "Parmenides": {
+      "main": {
+        "id": "bc7fca7d62cd0ce5",
+        "type": "split",
+        "children": [
+          {
+            "id": "39acc397a0e2fcd0",
+            "type": "tabs",
+            "dimension": 31.397849462365592,
+            "children": [
+              {
+                "id": "36367d4be8410f91",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "content/opus/In Natura.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": true
+                  }
+                },
+                "group": "5d6401fc8f357d93"
+              }
+            ]
+          },
+          {
+            "id": "92f7675a4e3c5120",
+            "type": "tabs",
+            "dimension": 34.086021505376344,
+            "children": [
+              {
+                "id": "d5b0c039adb465e0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "content/opus/In Natura.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": true
+                  }
+                },
+                "group": "5d6401fc8f357d93"
+              }
+            ]
+          },
+          {
+            "id": "f33ccefa1a33252a",
+            "type": "tabs",
+            "dimension": 34.516129032258064,
+            "children": [
+              {
+                "id": "9612d1a8a99c2a43",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "content/lingua/noun case.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "e389ad3b65759ee4",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-view",
+                  "state": {
+                    "url": "https://en.wiktionary.org/wiki/caput#Noun_3"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "37724d1f08516ace",
+        "type": "split",
+        "children": [
+          {
+            "id": "ece00f856e04139a",
+            "type": "tabs",
+            "dimension": 60.238568588469185,
+            "children": [
+              {
+                "id": "9ccf6ecc4f765ace",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "f085733c2f093b99",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "[\"tags\":",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "c87cde6e0ad0f8dc",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "a9be6de53d6bc38b",
+            "type": "tabs",
+            "dimension": 19.880715705765407,
+            "children": [
+              {
+                "id": "24bdef53fcbaac13",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "e33796f81b0ead63",
+            "type": "tabs",
+            "dimension": 19.880715705765407,
+            "children": [
+              {
+                "id": "dabbe6dc0b70414d",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "bd075b5ed75b1aed",
+        "type": "split",
+        "children": [
+          {
+            "id": "49ab74cfce4d7b1f",
+            "type": "tabs",
+            "dimension": 33.33333333333333,
+            "children": [
+              {
+                "id": "97d9d5610aa7ee91",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "content/opus/In Natura.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "33a2742a83b863ee",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "content/opus/In Natura.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "ded4413e5b7de14c",
+            "type": "tabs",
+            "dimension": 33.810888252149,
+            "children": [
+              {
+                "id": "7bf59a86c9914ee2",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "content/opus/In Natura.md"
+                  }
+                }
+              },
+              {
+                "id": "71a3862e76472e81",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "4dfc8137e1864154",
+            "type": "tabs",
+            "dimension": 32.855778414517665,
+            "children": [
+              {
+                "id": "2dd5e5e73b7baec9",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "remotely-save:Remotely Save": false,
+          "hide-folders:Show hidden folders": false,
+          "fantasy-content-generator:Fantasy Generators": false,
+          "password-protection:Lock password protection": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false,
+          "obsidian-trash-explorer:Open trash explorer": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian42-brat:BRAT": false,
+          "digitalgarden:Digital Garden Publication Center": false,
+          "obsidian-kanban:Create new board": false
+        }
+      },
+      "active": "d5b0c039adb465e0",
+      "mtime": "2024-09-01T13:29:00+02:00",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "content",
+          "content/lingua",
+          "docs",
+          "docs/Documentation for Latina"
+        ]
+      }
+    },
+    "Aristoteles": {
+      "main": {
+        "id": "bc7fca7d62cd0ce5",
+        "type": "split",
+        "children": [
+          {
+            "id": "39acc397a0e2fcd0",
+            "type": "tabs",
+            "dimension": 32.42229367631297,
+            "children": [
+              {
+                "id": "36367d4be8410f91",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "materia/cognitio/episteme/Aristoteles.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": true
+                  }
+                },
+                "group": "5d6401fc8f357d93"
+              },
+              {
+                "id": "f7d1c70d95394bfd",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-view",
+                  "state": {
+                    "url": "https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Snippets/S%20-%20Callouts.css"
+                  }
+                }
+              },
+              {
+                "id": "f9c2c660df32e9d6",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "materia/cognitio/episteme/historia.canvas",
+                    "viewState": {
+                      "x": 1539.0709658748647,
+                      "y": 201.63349291667072,
+                      "zoom": -0.1111110432942708
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "92f7675a4e3c5120",
+            "type": "tabs",
+            "dimension": 36.066452304394424,
+            "children": [
+              {
+                "id": "d5b0c039adb465e0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "materia/cognitio/episteme/Aristoteles.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": true
+                  }
+                },
+                "group": "5d6401fc8f357d93"
+              }
+            ]
+          },
+          {
+            "id": "f33ccefa1a33252a",
+            "type": "tabs",
+            "dimension": 31.51125401929261,
+            "children": [
+              {
+                "id": "3178de3d865f5313",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-view",
+                  "state": {
+                    "url": "https://www.wikisofia.cat/w/index.php?search=Autor%3ALeibniz%2C+Gottfried+Wilhelm"
+                  }
+                }
+              },
+              {
+                "id": "eacff0dc11c03edc",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-view",
+                  "state": {
+                    "url": "https://ca.wikipedia.org/w/index.php?title=Special:Search&search=Revoluci%C3%B3+Francesa&wprov=acrw1_0"
+                  }
+                }
+              },
+              {
+                "id": "35a161a8f64c2711",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-view",
+                  "state": {
+                    "url": "https://www.wikisofia.cat/wiki/Autor:Hume,_David"
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "37724d1f08516ace",
+        "type": "split",
+        "children": [
+          {
+            "id": "ece00f856e04139a",
+            "type": "tabs",
+            "dimension": 60.238568588469185,
+            "children": [
+              {
+                "id": "9ccf6ecc4f765ace",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "f085733c2f093b99",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "aristote",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "c87cde6e0ad0f8dc",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "a9be6de53d6bc38b",
+            "type": "tabs",
+            "dimension": 19.880715705765407,
+            "children": [
+              {
+                "id": "24bdef53fcbaac13",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "e33796f81b0ead63",
+            "type": "tabs",
+            "dimension": 19.880715705765407,
+            "children": [
+              {
+                "id": "dabbe6dc0b70414d",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "bd075b5ed75b1aed",
+        "type": "split",
+        "children": [
+          {
+            "id": "49ab74cfce4d7b1f",
+            "type": "tabs",
+            "dimension": 17.66109785202864,
+            "children": [
+              {
+                "id": "97d9d5610aa7ee91",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "materia/cognitio/episteme/Aristoteles.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "0fc768bebf48f10b",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "materia/cognitio/episteme/Aristoteles.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "55e55a0bbb272228",
+            "type": "tabs",
+            "dimension": 22.275258552108195,
+            "children": [
+              {
+                "id": "7bf59a86c9914ee2",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "materia/cognitio/episteme/Aristoteles.md"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "ded4413e5b7de14c",
+            "type": "tabs",
+            "dimension": 27.207637231503575,
+            "children": [
+              {
+                "id": "71a3862e76472e81",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "4dfc8137e1864154",
+            "type": "tabs",
+            "dimension": 32.85600636435959,
+            "children": [
+              {
+                "id": "2dd5e5e73b7baec9",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "templater-obsidian:Templater": false,
+          "templates:Insert template": false,
+          "remotely-save:Remotely Save": false,
+          "hide-folders:Show hidden folders": false,
+          "fantasy-content-generator:Fantasy Generators": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false,
+          "obsidian-trash-explorer:Open trash explorer": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "digitalgarden:Digital Garden Publication Center": false,
+          "obsidian-kanban:Create new board": false
+        }
+      },
+      "active": "24bdef53fcbaac13",
+      "mtime": "2024-09-03T09:55:57+02:00",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "content",
+          "forma",
+          "materia",
+          "materia/cognitio",
+          "materia/cognitio/episteme"
+        ]
+      }
+    },
+    "Canvas": {
+      "main": {
+        "id": "bc7fca7d62cd0ce5",
+        "type": "split",
+        "children": [
+          {
+            "id": "39acc397a0e2fcd0",
+            "type": "tabs",
+            "dimension": 50.712489522212906,
+            "children": [
+              {
+                "id": "f9c2c660df32e9d6",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "materia/cognitio/episteme/historia.canvas",
+                    "viewState": {
+                      "x": 1539.0709658748647,
+                      "y": 201.63349291667072,
+                      "zoom": -0.1111110432942708
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "f33ccefa1a33252a",
+            "type": "tabs",
+            "dimension": 49.287510477787094,
+            "children": [
+              {
+                "id": "3178de3d865f5313",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-view",
+                  "state": {
+                    "url": "https://www.wikisofia.cat/w/index.php?search=Autor%3ALeibniz%2C+Gottfried+Wilhelm"
+                  }
+                }
+              },
+              {
+                "id": "eacff0dc11c03edc",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-view",
+                  "state": {
+                    "url": "https://ca.wikipedia.org/w/index.php?title=Special:Search&search=Revoluci%C3%B3+Francesa&wprov=acrw1_0"
+                  }
+                }
+              },
+              {
+                "id": "35a161a8f64c2711",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-view",
+                  "state": {
+                    "url": "https://www.wikisofia.cat/wiki/Autor:Hume,_David"
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "37724d1f08516ace",
+        "type": "split",
+        "children": [
+          {
+            "id": "ece00f856e04139a",
+            "type": "tabs",
+            "dimension": 60.238568588469185,
+            "children": [
+              {
+                "id": "9ccf6ecc4f765ace",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "f085733c2f093b99",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "aristote",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "c87cde6e0ad0f8dc",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "a9be6de53d6bc38b",
+            "type": "tabs",
+            "dimension": 19.880715705765407,
+            "children": [
+              {
+                "id": "24bdef53fcbaac13",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "e33796f81b0ead63",
+            "type": "tabs",
+            "dimension": 19.880715705765407,
+            "children": [
+              {
+                "id": "dabbe6dc0b70414d",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "bd075b5ed75b1aed",
+        "type": "split",
+        "children": [
+          {
+            "id": "49ab74cfce4d7b1f",
+            "type": "tabs",
+            "dimension": 17.66109785202864,
+            "children": [
+              {
+                "id": "97d9d5610aa7ee91",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "materia/cognitio/episteme/historia.canvas",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "0fc768bebf48f10b",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "materia/cognitio/episteme/historia.canvas",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "55e55a0bbb272228",
+            "type": "tabs",
+            "dimension": 22.275258552108195,
+            "children": [
+              {
+                "id": "7bf59a86c9914ee2",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "materia/cognitio/episteme/historia.canvas"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "ded4413e5b7de14c",
+            "type": "tabs",
+            "dimension": 27.207637231503575,
+            "children": [
+              {
+                "id": "71a3862e76472e81",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "4dfc8137e1864154",
+            "type": "tabs",
+            "dimension": 32.85600636435959,
+            "children": [
+              {
+                "id": "2dd5e5e73b7baec9",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "templater-obsidian:Templater": false,
+          "templates:Insert template": false,
+          "remotely-save:Remotely Save": false,
+          "hide-folders:Show hidden folders": false,
+          "fantasy-content-generator:Fantasy Generators": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false,
+          "obsidian-trash-explorer:Open trash explorer": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "digitalgarden:Digital Garden Publication Center": false,
+          "obsidian-kanban:Create new board": false
+        }
+      },
+      "active": "f9c2c660df32e9d6",
+      "mtime": "2024-09-03T09:56:22+02:00",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "content",
+          "forma",
+          "materia",
+          "materia/cognitio",
+          "materia/cognitio/episteme"
         ]
       }
     }
   },
-  "active": "Editor"
+  "active": "Aristoteles"
 }
